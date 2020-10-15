@@ -1,0 +1,11 @@
+7703,7704c7703,7709
+<                             buyIt = ((tradeOperation.equals(slopeDefs.oBuyToOpenLong)) || tradeOperation.equals(slopeDefs.oBuyToCloseShort));
+<                             sellIt = ((tradeOperation.equals(slopeDefs.oSellToCloseLong)) || tradeOperation.equals(slopeDefs.oSellToOpenShort));
+---
+>                             /*
+>                             added 6.17.2016 to block buying anyting if it uses money, whether 
+>                             buying to open long or selling to open short. 
+>                             buyIt or sellIt will be forced false if no money avail..
+>                             */
+>                             buyIt = ((tradeOperation.equals(slopeDefs.oBuyToOpenLong) && (sharesToTradeNow != 0)) || tradeOperation.equals(slopeDefs.oBuyToCloseShort));
+>                             sellIt = (tradeOperation.equals(slopeDefs.oSellToCloseLong) || (tradeOperation.equals(slopeDefs.oSellToOpenShort) && (sharesToTradeNow != 0)));

@@ -1,0 +1,16 @@
+testLongShort2
+DU218371
+200000
+4
+0
+0
+0
+RDY
+empty criteria
+100
+3
+0
+0
+0
+0
+0

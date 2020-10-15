@@ -1,0 +1,333 @@
+Performance Data On 20160229:
+
+
+
+Ticker: AKR
+ Profit: 816.2 (13.0%)
+ Profit+Open: 816.2 (13.0%)
+ Max Profit: 816.2
+ Max Profit Date: 20160225
+ Max Loss: -381.49
+ Max Loss Date: 20150520
+ Trades: 109
+ ProfitPerTrade: 7.48
+ InitialInvestment: 5969.08
+ CurrentLiquidatingValue: 6785.28
+ BuyHoldPl: -341.38 (-5.0%)
+
+
+Ticker: ACN
+ Profit: 1229.69 (20.0%)
+ Profit+Open: 1187.54 (19.0%)
+ Max Profit: 1229.69
+ Max Profit Date: 20160222
+ Max Loss: -77.65
+ Max Loss Date: 20150820
+ Trades: 99
+ ProfitPerTrade: 12.42
+ InitialInvestment: 5946.2
+ CurrentLiquidatingValue: 7133.74
+ BuyHoldPl: 619.45 (10.0%)
+
+
+Ticker: AYI
+ Profit: -306.67 (-5.0%)
+ Profit+Open: -423.01 (-7.0%)
+ Max Profit: 315.69
+ Max Profit Date: 20151109
+ Max Loss: -447.29
+ Max Loss Date: 20150819
+ Trades: 84
+ ProfitPerTrade: -3.65
+ InitialInvestment: 5885.95
+ CurrentLiquidatingValue: 5462.94
+ BuyHoldPl: 1424.15 (24.0%)
+
+
+Ticker: GAS
+ Profit: -738.79 (-12.0%)
+ Profit+Open: -828.11 (-13.0%)
+ Max Profit: 754.19
+ Max Profit Date: 20150928
+ Max Loss: -776.87
+ Max Loss Date: 20160115
+ Trades: 81
+ ProfitPerTrade: -9.12
+ InitialInvestment: 5967.84
+ CurrentLiquidatingValue: 5139.74
+ BuyHoldPl: 1743.35 (28.99%)
+
+
+Ticker: ALE
+ Profit: 1076.39 (17.0%)
+ Profit+Open: 1096.64 (18.0%)
+ Max Profit: 1076.39
+ Max Profit Date: 20160224
+ Max Loss: -202.94
+ Max Loss Date: 20150527
+ Trades: 126
+ ProfitPerTrade: 8.54
+ InitialInvestment: 5988.63
+ CurrentLiquidatingValue: 7085.28
+ BuyHoldPl: -16.79 (0.0%)
+
+
+Ticker: MO
+ Profit: -188.0 (-3.0%)
+ Profit+Open: -487.59 (-8.0%)
+ Max Profit: 292.08
+ Max Profit Date: 20150619
+ Max Loss: -648.92
+ Max Loss Date: 20151106
+ Trades: 78
+ ProfitPerTrade: -2.41
+ InitialInvestment: 5964.72
+ CurrentLiquidatingValue: 5477.12
+ BuyHoldPl: 1207.55 (20.0%)
+
+
+Ticker: AEE
+ Profit: 292.48 (4.0%)
+ Profit+Open: 301.32 (5.0%)
+ Max Profit: 292.48
+ Max Profit Date: 20160223
+ Max Loss: -480.71
+ Max Loss Date: 20151103
+ Trades: 107
+ ProfitPerTrade: 2.73
+ InitialInvestment: 5972.4
+ CurrentLiquidatingValue: 6273.72
+ BuyHoldPl: 646.8 (10.0%)
+
+
+Ticker: AYI
+ Profit: -306.67 (-5.0%)
+ Profit+Open: -423.01 (-7.0%)
+ Max Profit: 315.69
+ Max Profit Date: 20151109
+ Max Loss: -447.29
+ Max Loss Date: 20150819
+ Trades: 84
+ ProfitPerTrade: -3.65
+ InitialInvestment: 5885.95
+ CurrentLiquidatingValue: 5462.94
+ BuyHoldPl: 1424.15 (24.0%)
+
+
+Ticker: AEP
+ Profit: 1312.89 (22.0%)
+ Profit+Open: 1332.14 (22.0%)
+ Max Profit: 1312.89
+ Max Profit Date: 20160217
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 116
+ ProfitPerTrade: 11.31
+ InitialInvestment: 5943.1
+ CurrentLiquidatingValue: 7275.25
+ BuyHoldPl: 476.88 (8.0%)
+
+
+Ticker: AWR
+ Profit: 706.56 (11.0%)
+ Profit+Open: 1184.28 (19.0%)
+ Max Profit: 706.56
+ Max Profit Date: 20160229
+ Max Loss: -260.51
+ Max Loss Date: 20151022
+ Trades: 89
+ ProfitPerTrade: 7.93
+ InitialInvestment: 5961.59
+ CurrentLiquidatingValue: 7145.88
+ BuyHoldPl: 109.43 (1.0%)
+
+
+Ticker: AWK
+ Profit: -518.04 (-8.0%)
+ Profit+Open: -761.04 (-12.0%)
+ Max Profit: 177.74
+ Max Profit Date: 20150520
+ Max Loss: -645.74
+ Max Loss Date: 20160217
+ Trades: 92
+ ProfitPerTrade: -5.63
+ InitialInvestment: 5997.18
+ CurrentLiquidatingValue: 5236.13
+ BuyHoldPl: 1109.62 (18.0%)
+
+
+Ticker: ATR
+ Profit: 1636.75 (27.0%)
+ Profit+Open: 1679.94 (28.0%)
+ Max Profit: 1636.75
+ Max Profit Date: 20160219
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 118
+ ProfitPerTrade: 13.87
+ InitialInvestment: 5943.62
+ CurrentLiquidatingValue: 7623.57
+ BuyHoldPl: 1008.61 (16.0%)
+
+
+Ticker: WTR
+ Profit: -385.87 (-6.0%)
+ Profit+Open: -385.87 (-6.0%)
+ Max Profit: 430.87
+ Max Profit Date: 20150918
+ Max Loss: -441.42
+ Max Loss Date: 20160219
+ Trades: 82
+ ProfitPerTrade: -4.7
+ InitialInvestment: 5996.22
+ CurrentLiquidatingValue: 5610.34
+ BuyHoldPl: 834.71 (13.0%)
+
+
+Ticker: AIZ
+ Profit: -85.51 (-1.0%)
+ Profit+Open: -85.51 (-1.0%)
+ Max Profit: 267.76
+ Max Profit Date: 20150630
+ Max Loss: -576.71
+ Max Loss Date: 20151216
+ Trades: 94
+ ProfitPerTrade: -0.9
+ InitialInvestment: 5970.24
+ CurrentLiquidatingValue: 5884.72
+ BuyHoldPl: 941.76 (15.0%)
+
+
+Ticker: ATO
+ Profit: 417.31 (6.0%)
+ Profit+Open: 184.3 (3.0%)
+ Max Profit: 534.31
+ Max Profit Date: 20151106
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 111
+ ProfitPerTrade: 3.75
+ InitialInvestment: 5975.95
+ CurrentLiquidatingValue: 6160.25
+ BuyHoldPl: 1506.56 (25.0%)
+
+
+Ticker: AWR
+ Profit: 706.56 (11.0%)
+ Profit+Open: 1184.28 (19.0%)
+ Max Profit: 706.56
+ Max Profit Date: 20160229
+ Max Loss: -260.51
+ Max Loss Date: 20151022
+ Trades: 89
+ ProfitPerTrade: 7.93
+ InitialInvestment: 5961.59
+ CurrentLiquidatingValue: 7145.88
+ BuyHoldPl: 109.43 (1.0%)
+
+
+Ticker: AZO
+ Profit: 839.03 (14.000000000000002%)
+ Profit+Open: 759.37 (12.0%)
+ Max Profit: 839.03
+ Max Profit Date: 20160217
+ Max Loss: -18.6
+ Max Loss Date: 20150422
+ Trades: 109
+ ProfitPerTrade: 7.69
+ InitialInvestment: 5961.87
+ CurrentLiquidatingValue: 6721.24
+ BuyHoldPl: 1058.48 (17.0%)
+
+
+Ticker: AVB
+ Profit: 577.09 (9.0%)
+ Profit+Open: 561.76 (9.0%)
+ Max Profit: 679.24
+ Max Profit Date: 20160217
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 113
+ ProfitPerTrade: 5.1
+ InitialInvestment: 5934.39
+ CurrentLiquidatingValue: 6496.15
+ BuyHoldPl: -220.11 (-3.0%)
+
+
+Ticker: AWK
+ Profit: -518.04 (-8.0%)
+ Profit+Open: -761.04 (-12.0%)
+ Max Profit: 177.74
+ Max Profit Date: 20150520
+ Max Loss: -645.74
+ Max Loss Date: 20160217
+ Trades: 92
+ ProfitPerTrade: -5.63
+ InitialInvestment: 5997.18
+ CurrentLiquidatingValue: 5236.13
+ BuyHoldPl: 1109.62 (18.0%)
+
+
+Ticker: AVA
+ Profit: 322.25 (5.0%)
+ Profit+Open: 137.35 (2.0%)
+ Max Profit: 515.7
+ Max Profit Date: 20150918
+ Max Loss: -10.18
+ Max Loss Date: 20151030
+ Trades: 108
+ ProfitPerTrade: 2.98
+ InitialInvestment: 5995.5
+ CurrentLiquidatingValue: 6132.85
+ BuyHoldPl: 635.25 (10.0%)
+
+
+Ticker: BGS
+ Profit: 1690.82 (28.000000000000004%)
+ Profit+Open: 2183.48 (36.0%)
+ Max Profit: 1690.82
+ Max Profit Date: 20160229
+ Max Loss: -194.14
+ Max Loss Date: 20151002
+ Trades: 116
+ ProfitPerTrade: 14.57
+ InitialInvestment: 5971.95
+ CurrentLiquidatingValue: 8155.43
+ BuyHoldPl: 1279.25 (21.0%)
+
+
+ portfolio.testLong2_DU218372.txt
+  Total winners: 11 Total Losers: 6
+  Profits: 9226.67 Losses: -2222.9
+  Overall PL: 7003.77
+  OpenPosValue : 43.19  (2)
+  OpenPosValueOverShoot : -184.9  (14.0)
+  OverallPl + openValue : 7046.97
+  OverALL : 6.95 %
+  InitalAccountValue: 101374.51
+  FinalAccountValue: 108378.27
+  BuyHoldPl: 12744.37
+  BuyHoldPlPercent: 12.57
+  Overall PLPercent: 1.13
+  MaxPositionGain: 322.25 OnDate: 20160229 Ticker: AZO
+  MaxPositionLoss: -776.87 OnDate: 20160115 Ticker: GAS
+  MaxPortfolioGain: 7003.77 OnDate: 20160229
+  MaxPortfolioLoss: 0.0 OnDate: 
+  MaxPortfolioGainWOpen: 7046.97 OnDate: 20160229
+  MaxPortfolioLossWOpen: -3.54 OnDate: 20150615
+  RunningPlByLongs: 7160.98
+  RunningPlByShorts: -157.2
+
+
+Ticker: AWR
+ Profit: 706.56 (11.0%)
+ Profit+Open: 1184.28 (19.0%)
+ Max Profit: 706.56
+ Max Profit Date: 20160229
+ Max Loss: -260.51
+ Max Loss Date: 20151022
+ Trades: 89
+ ProfitPerTrade: 7.93
+ InitialInvestment: 5961.59
+ CurrentLiquidatingValue: 7145.88
+ BuyHoldPl: 109.43 (1.0%)

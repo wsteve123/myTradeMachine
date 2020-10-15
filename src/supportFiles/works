@@ -1,0 +1,1 @@
+awk 'FNR==NR{a[$0]=1;next}$0 in a' w1.txt w2.txt > w1.del

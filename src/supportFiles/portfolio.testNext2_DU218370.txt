@@ -1,0 +1,16 @@
+testNext2
+DU218372
+100000
+8.3
+0
+0
+0
+RDY
+empty criteria
+100
+3
+0
+0
+0
+0
+0

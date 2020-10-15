@@ -1,0 +1,37 @@
+Exchange: 	 TotalNumTickers:       PointToPointSpread:          Date: 
+
+
+Current Totals($) :
+    Current Profits:                   Current Losses:               P&L:        Current Percent:      
+
+Running Maximum Totals($) :
+    Running Max Profits:               Running Max Losses:           P&L:         Running Max Percent:
+
+Current Total Counts:
+    Current Profits:                   Current Losses:               Current Percent:      
+
+Running Maximum Totals Counts:
+    Running Max Profits:               Running Max Losses:           Running Max Percent:
+
+Current Profit Map (Profit >= 0):
+    00% - 05%:                05% - 10%:                  10% - 15%:             15% - 20%:             
+    20% - 25%:                25% - 30%:                  30% - 35%:             35% - 40%: 
+    40% - 45%:                45% - 50%:                  50% - 55%:             55% - 60%:            > 60%: 
+
+Current Loss Map (Profit < 0):
+    00% - 05%:                05% - 10%:                  10% - 15%:             15% - 20%:             
+    20% - 25%:                25% - 30%:                  30% - 35%:             35% - 40%: 
+    40% - 45%:                45% - 50%:                  50% - 55%:             55% - 60%:            > 60%: 
+
+
+Running Max Profit Map (Profit >= 0):
+    00% - 05%:                05% - 10%:                  10% - 15%:             15% - 20%:             
+    20% - 25%:                25% - 30%:                  30% - 35%:             35% - 40%: 
+    40% - 45%:                45% - 50%:                  50% - 55%:             55% - 60%:            > 60%: 
+
+Running Max Loss Map (Profit < 0):
+    00% - 05%:                05% - 10%:                  10% - 15%:             15% - 20%:             
+    20% - 25%:                25% - 30%:                  30% - 35%:             35% - 40%: 
+    40% - 45%:                45% - 50%:                  50% - 55%:             55% - 60%:           > 60%: 
+
+

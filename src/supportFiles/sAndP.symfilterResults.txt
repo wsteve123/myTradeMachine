@@ -1,0 +1,25 @@
+
+ For Exchange: sAndP.sym
+
+
+ *** search criteria *** AboveMA by  50day: 3% *** 100day: 60% *** 200day: 60% ***
+
+
+
+=== 03/15/2019 ===
+
+   50d: 0.0
+
+  100d: 0.0
+
+  200d: 0.0
+
+
+   50d: 0.0
+
+  100d: 0.0
+
+  200d: 0.0
+
+
+=== 2 found. ===

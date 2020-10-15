@@ -1,0 +1,40 @@
+
+Ticker: VNET
+
+Ticker: ABMD
+
+Ticker: ACET
+
+Ticker: ATVI
+
+Ticker: ADBE
+
+Ticker: ALGN
+
+Ticker: AMZN
+
+Ticker: AMED
+
+Ticker: AMWD
+
+Ticker: ABCB
+
+Ticker: ANSS
+
+Ticker: AAOI
+
+Ticker: ACGL
+
+Ticker: AGII
+
+Ticker: OZRK
+
+Ticker: HOPE
+
+Ticker: BECN
+
+Ticker: BNCL
+
+Ticker: BLKB
+
+Ticker: HAWK

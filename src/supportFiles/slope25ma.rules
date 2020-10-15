@@ -1,0 +1,50 @@
+//UserSelectedMaType
+None
+//Term Operation
+Close
+//equation Trigger
+None
+//equation Bars
+0
+//beg
+//idx
+0
+//Term strval
+NegSlope
+//Description
+Slope of 25 BarMa is - for last 1 days
+//AndOr
+0
+//AndOrSelItem
+NONE
+//TermSelItem
+oSlopeNeg
+//MovingAve
+25
+//Days history
+1
+//end
+//Term Operation
+Open
+//equation Trigger
+
+//equation Bars
+0
+//beg
+//idx
+0
+//Term strval
+PosSlope
+//Description
+Slope of 25 BarMa is + for last 1 days
+//AndOr
+0
+//AndOrSelItem
+NONE
+//TermSelItem
+oSlopePos
+//MovingAve
+25
+//Days history
+1
+//end

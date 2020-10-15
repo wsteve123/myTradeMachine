@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Historical Data Config&#xa;"/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace pref="22" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="backTestYearComboBox" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="barSizeComboBox" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="backTestDayComboBox" min="-2" max="-2" attributes="0"/>
+                              <Component id="backTestMonthComboBox" min="-2" max="-2" attributes="0"/>
+                              <Component id="doneButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="backTestSizeComboBox" min="-2" max="-2" attributes="0"/>
+                                      <Component id="barSizeLabel" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="jLabel4" min="-2" pref="20" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="backTestTodayCheckBox" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="histSizeComboBox" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="histSizeComboBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="backTestSizeComboBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" max="-2" attributes="0"/>
+                  <Component id="barSizeLabel" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="barSizeComboBox" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="backTestTodayCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="backTestYearComboBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="backTestMonthComboBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="backTestDayComboBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="33" max="32767" attributes="0"/>
+                  <Component id="doneButton" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="HistSize:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BackTestSize:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="barSizeLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BarSize:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="histSizeComboBox">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="31">
+                <StringItem index="0" value="1 D"/>
+                <StringItem index="1" value="2 D"/>
+                <StringItem index="2" value="3 D"/>
+                <StringItem index="3" value="5 D"/>
+                <StringItem index="4" value="1 W"/>
+                <StringItem index="5" value="2 W"/>
+                <StringItem index="6" value="3 W"/>
+                <StringItem index="7" value="5 W"/>
+                <StringItem index="8" value="8 W"/>
+                <StringItem index="9" value="10 W"/>
+                <StringItem index="10" value="12 W"/>
+                <StringItem index="11" value="1 M"/>
+                <StringItem index="12" value="2 M"/>
+                <StringItem index="13" value="3 M"/>
+                <StringItem index="14" value="4 M"/>
+                <StringItem index="15" value="5 M"/>
+                <StringItem index="16" value="6 M"/>
+                <StringItem index="17" value="7 M"/>
+                <StringItem index="18" value="8 M"/>
+                <StringItem index="19" value="9 M"/>
+                <StringItem index="20" value="10 M"/>
+                <StringItem index="21" value="1 Y"/>
+                <StringItem index="22" value="2 Y"/>
+                <StringItem index="23" value="3 Y"/>
+                <StringItem index="24" value="4 Y"/>
+                <StringItem index="25" value="5 Y"/>
+                <StringItem index="26" value="6 Y"/>
+                <StringItem index="27" value="7 Y"/>
+                <StringItem index="28" value="8 Y"/>
+                <StringItem index="29" value="9 Y"/>
+                <StringItem index="30" value="10 Y"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="histSizeComboBoxActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="barSizeComboBox">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="21">
+                <StringItem index="0" value="1 secs"/>
+                <StringItem index="1" value="5 secs"/>
+                <StringItem index="2" value="10 secs"/>
+                <StringItem index="3" value="15 secs"/>
+                <StringItem index="4" value="30 secs"/>
+                <StringItem index="5" value="1 min"/>
+                <StringItem index="6" value="2 mins"/>
+                <StringItem index="7" value="3 mins"/>
+                <StringItem index="8" value="5 mins"/>
+                <StringItem index="9" value="10 mins"/>
+                <StringItem index="10" value="15 mins"/>
+                <StringItem index="11" value="20 mins"/>
+                <StringItem index="12" value="30 mins"/>
+                <StringItem index="13" value="1 hour"/>
+                <StringItem index="14" value="2 hours"/>
+                <StringItem index="15" value="3 hours"/>
+                <StringItem index="16" value="4 hours"/>
+                <StringItem index="17" value="8 hours"/>
+                <StringItem index="18" value="1 day"/>
+                <StringItem index="19" value="1 week"/>
+                <StringItem index="20" value="1 month"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="barSizeComboBoxActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="BackTestDate:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="backTestYearComboBox">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="4">
+                <StringItem index="0" value="Item 1"/>
+                <StringItem index="1" value="Item 2"/>
+                <StringItem index="2" value="Item 3"/>
+                <StringItem index="3" value="Item 4"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="backTestYearComboBoxActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="backTestSizeComboBox">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="31">
+                <StringItem index="0" value="1 D"/>
+                <StringItem index="1" value="2 D"/>
+                <StringItem index="2" value="3 D"/>
+                <StringItem index="3" value="5 D"/>
+                <StringItem index="4" value="1 W"/>
+                <StringItem index="5" value="2 W"/>
+                <StringItem index="6" value="3 W"/>
+                <StringItem index="7" value="5 W"/>
+                <StringItem index="8" value="8 W"/>
+                <StringItem index="9" value="10 W"/>
+                <StringItem index="10" value="12 W"/>
+                <StringItem index="11" value="1 M"/>
+                <StringItem index="12" value="2 M"/>
+                <StringItem index="13" value="3 M"/>
+                <StringItem index="14" value="4 M"/>
+                <StringItem index="15" value="5 M"/>
+                <StringItem index="16" value="6 M"/>
+                <StringItem index="17" value="7 M"/>
+                <StringItem index="18" value="8 M"/>
+                <StringItem index="19" value="9 M"/>
+                <StringItem index="20" value="10 M"/>
+                <StringItem index="21" value="1 Y"/>
+                <StringItem index="22" value="2 Y"/>
+                <StringItem index="23" value="3 Y"/>
+                <StringItem index="24" value="4 Y"/>
+                <StringItem index="25" value="5 Y"/>
+                <StringItem index="26" value="6 Y"/>
+                <StringItem index="27" value="7 Y"/>
+                <StringItem index="28" value="8 Y"/>
+                <StringItem index="29" value="9 Y"/>
+                <StringItem index="30" value="10 Y"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="backTestSizeComboBoxActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="+"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Month:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="backTestMonthComboBox">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="12">
+                <StringItem index="0" value="Jan"/>
+                <StringItem index="1" value="feb"/>
+                <StringItem index="2" value="march"/>
+                <StringItem index="3" value="april"/>
+                <StringItem index="4" value="may"/>
+                <StringItem index="5" value="june"/>
+                <StringItem index="6" value="july"/>
+                <StringItem index="7" value="aug"/>
+                <StringItem index="8" value="sept"/>
+                <StringItem index="9" value="oct"/>
+                <StringItem index="10" value="nov"/>
+                <StringItem index="11" value="dec"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="backTestMonthComboBoxActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Year:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Day:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="backTestDayComboBox">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="32">
+                <StringItem index="0" value="1"/>
+                <StringItem index="1" value="2"/>
+                <StringItem index="2" value="3"/>
+                <StringItem index="3" value="4"/>
+                <StringItem index="4" value="5"/>
+                <StringItem index="5" value="6"/>
+                <StringItem index="6" value="7"/>
+                <StringItem index="7" value="8"/>
+                <StringItem index="8" value="9"/>
+                <StringItem index="9" value="10"/>
+                <StringItem index="10" value="11"/>
+                <StringItem index="11" value="12"/>
+                <StringItem index="12" value="13"/>
+                <StringItem index="13" value="14"/>
+                <StringItem index="14" value="15"/>
+                <StringItem index="15" value="16"/>
+                <StringItem index="16" value="17"/>
+                <StringItem index="17" value="18"/>
+                <StringItem index="18" value="19"/>
+                <StringItem index="19" value="20"/>
+                <StringItem index="20" value="21"/>
+                <StringItem index="21" value="22"/>
+                <StringItem index="22" value="23"/>
+                <StringItem index="23" value="24"/>
+                <StringItem index="24" value="25"/>
+                <StringItem index="25" value="26"/>
+                <StringItem index="26" value="27"/>
+                <StringItem index="27" value="28"/>
+                <StringItem index="28" value="29"/>
+                <StringItem index="29" value="30"/>
+                <StringItem index="30" value="31"/>
+                <StringItem index="31" value=" "/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="backTestDayComboBoxActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="doneButton">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Done"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="doneButtonActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Today:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="backTestTodayCheckBox">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="backTestTodayCheckBoxActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

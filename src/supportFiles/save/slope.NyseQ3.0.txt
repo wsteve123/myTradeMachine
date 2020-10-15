@@ -1,0 +1,55 @@
+
+
+
+Exchange: NyseQ3  TotalNumOfTickers: 55  P2PDays: 5  Date:20150204
+
+
+SearchCriteria: 
+ *** search criteria *** AboveMA by  50day: 3% *** 100day: 80% *** 200day: 90% ***
+
+
+TotalCost: 291612.5
+
+
+CurrentTotals($):
+  CurrentProfits: 42517.5  CurrentLosses: -1923.0  P&L: 40594.5  CurrentPercent: 13.92%
+  CurrentMaxProfit: 32.87%  CurrentMaxLoss: -17.22%
+
+
+RunningMaxTotals($):
+  RmProfits: 41954.5  RmLosses: -11756.0  RmP&L: 41954.5  RmPercent: 14.39%
+  RmProfit: 39.65%  RmAveProfit: 15.11%  RmLoss: -19.57%  RmAveLoss: -5.63%
+
+
+CurrentTotalCounts:
+  CurrentProfits: 49  CurrentLosses: 6  CurrentPercent: 89.09%
+
+
+RunningMaxTotalCounts:
+  RmProfits: 55  RmLosses: 46  RmZeroLoss: 9
+
+
+CurrentProfitMap (Profit >= 0) 
+  00%-05%: 10    05%-10%: 8    10%-15%: 5    15%-20%: 5
+  20%-25%: 10    25%-30%: 5    30%-35%: 5    35%-40%: 0
+  40%-45$: 0    45%-50%: 1    50%-55%: 0    55%-60%: 0    >60%: 0
+
+
+CurrentLossMap (Profit < 0) 
+  00%-05%: 3    05%-10%: 2    10%-15%: 0    15%-20%: 1
+  20%-25%: 0    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+
+RunningMaxProfitMap (Profit >= 0) 
+  00%-05%: 17    05%-10%: 14    10%-15%: 8    15%-20%: 8
+  20%-25%: 6    25%-30%: 7    30%-35%: 3    35%-40%: 1
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+
+RunningMaxLossMap (Profit < 0) 
+  00%-05%: 26    05%-10%: 11    10%-15%: 5    15%-20%: 4
+  20%-25%: 0    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+Done.

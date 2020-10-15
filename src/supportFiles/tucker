@@ -1,0 +1,56 @@
+//beg
+//idx
+0
+//Description
+10 Day Pivots + to - slope (/\)
+//AndOr
+1
+//AndOrSelItem
+AND
+//Term strVal
+PivotalHL
+//TermSelItem
+oPivotalHL
+//end
+//beg
+//idx
+1
+//Description
+10 Day Pivots - to + slope (\/)
+//AndOr
+1
+//AndOrSelItem
+AND
+//Term strVal
+PivotalLH
+//TermSelItem
+oPivotalLH
+//end
+//beg
+//idx
+2
+//Description
+10 Day Gaining Strength
+//AndOr
+1
+//AndOrSelItem
+AND
+//Term strVal
+Strength
+//TermSelItem
+oStrength
+//end
+//beg
+//idx
+3
+//Description
+10 Day Strength is Weakening
+//AndOr
+1
+//AndOrSelItem
+AND
+//Term strVal
+Weakness
+//TermSelItem
+oWeakness
+//end

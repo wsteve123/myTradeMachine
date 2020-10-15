@@ -1,0 +1,210 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww20060\viewh10640\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0         private float determinePriceIncrement(float bid, float ask) \{\
+            /* This routine looks at bid/ask to try and determine if the option \
+             * related to these quote values trade in penny or 5 cent increments. If \
+             * any of these values are NOT divisable by 5 then we assume penny increments. Otherwise it\
+             * assumes 5 cent.\
+             * For example 1.10 1.15 would be 5 cent (divisable by 5)\
+             * 1.12 1.15  would be penny because 1.12 is not divisable by 5, so therefore must be penny \
+             * option. Note: cannot look at last trade because this could be a penny increment that occurred \
+             * via a multi leg order but still does not trade in penny increments.\
+             *\
+             * changed 1/20/2012 IB tells me all options under 3 trade in .01 increments....and no options\
+             * trade in .10 increments. All above 3, trade in .05. So either .01 or .05.\
+             */\
+            float retValue = 0;\
+            float bidFloat, askFloat; \
+            \
+            /* do the bid....take the bid multyply by 100 and round it to 2 places. */\
+            bidFloat = myUtils.Round((bid * (float)100.0),2);\
+            /* do mod 5 operation */\
+            bidFloat %= 5;\
+            \
+            /* do the ask....take the ask multyply by 100 and round it to 2 places. */\
+            askFloat = myUtils.Round((ask * (float)100.0),2);\
+            /* do mod 5 operation */\
+            askFloat %= 5;\
+\
+\
+if (false) \{\
+            /* if any of these are NOT Divisable by 5, then return penny increment, else 5 cents */\
+            if((bidFloat != 0) || (askFloat != 0)) \{\
+                System.out.println("determinePriceIncrement:" + "penny");\
+                retValue = (float).01;\
+            \}else \{\
+                // wfs 9/10/10 check stock price and adjust correctly < 3 in .05, or >= 3 .10 increments.\
+                if (bid >= 3.0)\{\
+                    System.out.println("determinePriceIncrement:" + "dime");\
+                    // .05 X 2\
+                    retValue = (float).10;\
+                \}else \{\
+                    System.out.println("determinePriceIncrement:" + "nickle");\
+                    retValue = (float).05;\
+                \}\
+            \}\
+\}\
+            /* see note above */\
+            if ((bid < 3.0) && (ask < 3.0)) \{\
+                System.out.println("determinePriceIncrement:" + "penny");\
+                retValue = (float) .01;\
+            \} else \{\
+                System.out.println("determinePriceIncrement:" + "nickle");\
+                retValue = (float) .05;\
+            \}\
+\
+\
+            return(retValue);\
+        \} /* determinePriceIncrement */\
+\
+\
+        private float determinePriceIncrement(float bid, float ask, float price) \{\
+            /* This routine looks at bid/ask to try and determine if the option\
+             * related to these quote values trade in penny or 5 cent increments. If\
+             * any of these values are NOT divisable by 5 then we assume penny increments. Otherwise it\
+             * assumes 5 cent.\
+             * For example 1.10 1.15 would be 5 cent (divisable by 5)\
+             * 1.12 1.15  would be penny because 1.12 is not divisable by 5, so therefore must be penny\
+             * option. Note: cannot look at last trade because this could be a penny increment that occurred\
+             * via a multi leg order but still does not trade in penny increments.\
+             * Addition 9/12/10 wfs\
+             *  if penny option when option price is < 3, then 5 cent increment when option price is > 3.\
+             *  if nickle optioin when option price is < 3, then dime increment when option price is > 3.\
+             */\
+            float retValue = 0;\
+            float bidFloat, askFloat, bFloatSave, aFloatSave;\
+\
+            /* do the bid....take the bid multyply by 100 and round it to 2 places. */\
+            bFloatSave = bidFloat = myUtils.Round((bid * (float)100.0),2);\
+            /* do mod 5 operation */\
+            bidFloat %= 5;\
+\
+            /* do the ask....take the ask multyply by 100 and round it to 2 places. */\
+            aFloatSave = askFloat = myUtils.Round((ask * (float)100.0),2);\
+            /* do mod 5 operation */\
+            askFloat %= 5;\
+\
+\
+            /* if any of these are NOT Divisable by 5, then return penny increment, else 5 cents */\
+            if((bidFloat != 0) || (askFloat != 0)) \{\
+                /* we determined penny increment so look at option price..\
+                 * we know the price so give correct\
+                 * increment based on price. (see note above)\
+                 */\
+                if (price < (float) 3.0) \{\
+                    retValue = (float).01;\
+                \}else \{\
+                    retValue = (float).05;\
+                \}\
+            \}else \{\
+                // wfs 9/10/10 check stock price and adjust correctly < 3 in .05, or >= 3 .10 increments.\
+                /* at this point we could be div by 5 or 10, check if 10...*/\
+                bFloatSave %= 10;\
+                aFloatSave %= 10;\
+                if((bFloatSave != 0) && (aFloatSave != 0)) \{\
+                    /* divisable by five.. */\
+                    retValue = (float).05;\
+                \}else \{\
+                    /* is div by 10, so  */\
+                    if (price < (float) 3.0)\{\
+                        retValue = (float).05;\
+                    \}else \{\
+                        retValue = (float).10;\
+                    \}\
+\
+                \}\
+                \
+            \}\
+\
+            return(retValue);\
+        \} /* determinePriceIncrement */\
+        \
+        private float calcNextBidAsk(int buyOrSell) \{\
+            float bidAsk = 0;\
+            /* either way we need a quote. Then either bump up bid or bump down ask depending on \
+             * whether we are buying(bid) or selling(ask).\
+             */\
+            System.out.println("getting quote of " + tickerSymbol);\
+//            oQuote = actTraderApi.getQuote("+" + tickerSymbol, true /* option quote */);\
+            oQuote = actIbApi.getQuote(tickerSymbol, true /* option quote */);\
+            /* only do this if this is first time through when \
+             * prevQuote is null. This insures prevQuote is never null.\
+             */\
+            bidAsk = calcMidPointBidAsk(buyOrSell, (float) oQuote.bid, (float) oQuote.ask);\
+            if (buyOrSell == BUYING) \{\
+                \
+                /* if bid price changed on us then we need to start\
+                 * over.\
+                 */\
+                if (prevQuote != oQuote.bid) \{\
+                    orderMultiplyer = 0;\
+                \}\
+                /* we are trying to buy so pay as little as we can for it!!! \
+                 * This means try to pay the bid price first, then if that does not work\
+                 * add either penny or five cent increment and try again .... up to the ask price(yuk). \
+                 */\
+                /* this value must be rounded to 2 decimal digits, and\
+                 * add it to the quote bid, because we are buying.\
+                 */\
+                orderIncrement = determinePriceIncrement((float)oQuote.bid, (float) oQuote.ask, bidAsk);\
+//                bidAsk = myUtils.Round((oQuote.bid + (orderMultiplyer * (float) orderIncrement)), 2);\
+                bidAsk = (bidAsk + (orderMultiplyer * orderIncrement));\
+                /* check to make sure we don't go beyond the ask price! */\
+                if (bidAsk <= oQuote.ask) \{\
+                    /* setup next bid offer. */\
+                    orderMultiplyer++;\
+                \} else \{\
+                    /* start over if we reached the ask price */\
+                    orderMultiplyer = 0;\
+                    //bidAsk = myUtils.Round((oQuote.bid + (orderMultiplyer * (float) orderIncrement)), 2);\
+                    System.out.println("start over: bidAsk = "+bidAsk);\
+                    bidAsk = calcMidPointBidAsk(BUYING, (float) oQuote.bid, (float) oQuote.ask);\
+                    System.out.println("starting over we reached the ask price. setting multiplyer to zero.");\
+                    orderMultiplyer++;\
+                \}\
+                /* update prevQuote with bid price for next time through */\
+                prevQuote = (float) oQuote.bid;\
+            \}else if (buyOrSell == SELLING) \{\
+                /* if ask price changed on us then we need to start\
+                 * over.\
+                 */\
+                if (prevQuote != oQuote.ask) \{\
+                    orderMultiplyer = 0;\
+                \}\
+                /* we are trying to sell so get as much as we can for it!!! \
+                 * This means try to get the asking price first, then if that does not work\
+                 * subtract 5 cents from that and try that .... down to the bid price, the \
+                 * worst price but it should execute there cuz someone is biding that price.\
+                 */\
+                orderIncrement = determinePriceIncrement((float)oQuote.bid, (float)oQuote.ask, bidAsk);\
+//                bidAsk = myUtils.Round((oQuote.ask - (orderMultiplyer * (float) orderIncrement)), 2);\
+                bidAsk = (bidAsk - (orderMultiplyer * orderIncrement));\
+                /* check to make sure we don't go beyond the ask price! */\
+                if (bidAsk >= oQuote.bid) \{\
+                    /* setup next ask offer. */\
+                    orderMultiplyer++;\
+                \} else \{\
+                    /* start over if we reached the bid price */\
+                    orderMultiplyer = 0;\
+                    //bidAsk = myUtils.Round((oQuote.ask - (orderMultiplyer * (float) orderIncrement)), 2);\
+                    System.out.println("start over: bidAsk = "+bidAsk);\
+                    bidAsk = calcMidPointBidAsk(SELLING, (float)oQuote.bid, (float)oQuote.ask);\
+                    System.out.println("starting over we reached the bid price. setting multiplyer to zero.");\
+                    orderMultiplyer++;\
+                \}\
+                /* update prevQuote with ask price for next time through */\
+                prevQuote = (float)oQuote.ask;\
+            \}else \{\
+                System.out.println("calcNextBidAsk: ERROR!!!!!! buyOrSell not correct!!!");\
+                bidAsk = 0;\
+            \}\
+            System.out.println("bidValue is :" + oQuote.bid);\
+            System.out.println("askValue is :" + oQuote.ask);\
+            System.out.println("adjBidAskValue is :" + bidAsk);\
+            return(bidAsk);\
+            \
+        \} /* calcNextBidAsk */}

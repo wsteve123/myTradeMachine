@@ -1,0 +1,370 @@
+Performance Data On 20160303:
+
+
+
+Ticker: ACHC
+ Profit: 972.4 (24.0%)
+ Profit+Open: 972.4 (24.0%)
+ Max Profit: 1004.09
+ Max Profit Date: 20151201
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 131
+ ProfitPerTrade: 7.42
+ InitialInvestment: 3961.43
+ CurrentLiquidatingValue: 4933.84
+ BuyHoldPl: -692.71 (-17.0%)
+
+
+Ticker: AMRI
+ Profit: 1067.94 (26.0%)
+ Profit+Open: 780.46 (19.0%)
+ Max Profit: 1113.08
+ Max Profit Date: 20160108
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 92
+ ProfitPerTrade: 11.6
+ InitialInvestment: 3984.37
+ CurrentLiquidatingValue: 4764.84
+ BuyHoldPl: -461.03 (-11.0%)
+
+
+Ticker: AMCX
+ Profit: 226.02 (5.0%)
+ Profit+Open: 226.47 (5.0%)
+ Max Profit: 737.65
+ Max Profit Date: 20151113
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 100
+ ProfitPerTrade: 2.26
+ InitialInvestment: 3973.31
+ CurrentLiquidatingValue: 4199.79
+ BuyHoldPl: -507.05 (-12.0%)
+
+
+Ticker: ACAS
+ Profit: 1073.58 (26.0%)
+ Profit+Open: 1045.41 (26.0%)
+ Max Profit: 1073.58
+ Max Profit Date: 20160226
+ Max Loss: -25.61
+ Max Loss Date: 20150716
+ Trades: 95
+ ProfitPerTrade: 11.3
+ InitialInvestment: 3995.5
+ CurrentLiquidatingValue: 5040.92
+ BuyHoldPl: -330.11 (-8.0%)
+
+
+Ticker: AMGN
+ Profit: 1096.05 (28.000000000000004%)
+ Profit+Open: 1114.21 (28.0%)
+ Max Profit: 1106.65
+ Max Profit Date: 20160222
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 125
+ ProfitPerTrade: 8.76
+ InitialInvestment: 3854.88
+ CurrentLiquidatingValue: 4969.09
+ BuyHoldPl: -331.2 (-8.0%)
+
+
+Ticker: ADI
+ Profit: 139.78 (3.0%)
+ Profit+Open: -104.05 (-2.0%)
+ Max Profit: 228.07
+ Max Profit Date: 20150511
+ Max Loss: -124.54
+ Max Loss Date: 20160127
+ Trades: 118
+ ProfitPerTrade: 1.18
+ InitialInvestment: 3971.64
+ CurrentLiquidatingValue: 3867.58
+ BuyHoldPl: -170.43 (-4.0%)
+
+
+Ticker: ASTE
+ Profit: 1372.17 (34.0%)
+ Profit+Open: 548.71 (13.0%)
+ Max Profit: 1372.17
+ Max Profit Date: 20160219
+ Max Loss: -6.15
+ Max Loss Date: 20150415
+ Trades: 128
+ ProfitPerTrade: 10.72
+ InitialInvestment: 3996.21
+ CurrentLiquidatingValue: 4544.92
+ BuyHoldPl: 112.52 (2.0%)
+
+
+Ticker: ATHN
+ Profit: 1094.96 (27.0%)
+ Profit+Open: 1085.93 (27.0%)
+ Max Profit: 1440.4
+ Max Profit Date: 20160217
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 117
+ ProfitPerTrade: 9.35
+ InitialInvestment: 3976.5
+ CurrentLiquidatingValue: 5062.43
+ BuyHoldPl: 252.11 (6.0%)
+
+
+Ticker: ADP
+ Profit: 345.02 (8.0%)
+ Profit+Open: 351.02 (8.0%)
+ Max Profit: 515.62
+ Max Profit Date: 20150929
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 130
+ ProfitPerTrade: 2.65
+ InitialInvestment: 3982.77
+ CurrentLiquidatingValue: 4333.8
+ BuyHoldPl: 25.38 (0.0%)
+
+
+Ticker: BGFV
+ Profit: 1724.28 (43.0%)
+ Profit+Open: 1773.19 (44.0%)
+ Max Profit: 1724.28
+ Max Profit Date: 20160303
+ Max Loss: -39.2
+ Max Loss Date: 20150428
+ Trades: 112
+ ProfitPerTrade: 15.39
+ InitialInvestment: 3988.4
+ CurrentLiquidatingValue: 5761.59
+ BuyHoldPl: -466.1 (-11.0%)
+
+
+Ticker: BEAT
+ Profit: 1122.0 (28.000000000000004%)
+ Profit+Open: 1076.1 (26.0%)
+ Max Profit: 1371.56
+ Max Profit Date: 20150814
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 112
+ ProfitPerTrade: 10.01
+ InitialInvestment: 3997.83
+ CurrentLiquidatingValue: 5073.94
+ BuyHoldPl: 1069.67 (26.0%)
+
+
+Ticker: CFFN
+ Profit: 232.21 (5.0%)
+ Profit+Open: 143.34 (3.0%)
+ Max Profit: 330.55
+ Max Profit Date: 20160122
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 76
+ ProfitPerTrade: 3.05
+ InitialInvestment: 3992.8
+ CurrentLiquidatingValue: 4136.14
+ BuyHoldPl: 88.55 (2.0%)
+
+
+Ticker: CFNL
+ Profit: -82.65 (-2.0%)
+ Profit+Open: -263.46 (-6.0%)
+ Max Profit: 519.59
+ Max Profit Date: 20151229
+ Max Loss: -82.65
+ Max Loss Date: 20160219
+ Trades: 84
+ ProfitPerTrade: -0.98
+ InitialInvestment: 3991.52
+ CurrentLiquidatingValue: 3728.05
+ BuyHoldPl: 82.81 (2.0%)
+
+
+Ticker: CAVM
+ Profit: 1225.61 (30.0%)
+ Profit+Open: 1043.35 (26.0%)
+ Max Profit: 1286.36
+ Max Profit Date: 20160217
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 104
+ ProfitPerTrade: 11.78
+ InitialInvestment: 3997.25
+ CurrentLiquidatingValue: 5040.6
+ BuyHoldPl: -395.3 (-9.0%)
+
+
+Ticker: CHKP
+ Profit: 935.96 (23.0%)
+ Profit+Open: 898.88 (22.0%)
+ Max Profit: 987.75
+ Max Profit Date: 20151229
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 124
+ ProfitPerTrade: 7.54
+ InitialInvestment: 3987.62
+ CurrentLiquidatingValue: 4886.5
+ BuyHoldPl: 94.07 (2.0%)
+
+
+Ticker: CME
+ Profit: 831.03 (20.0%)
+ Profit+Open: 739.83 (18.0%)
+ Max Profit: 939.27
+ Max Profit Date: 20151215
+ Max Loss: -120.95
+ Max Loss Date: 20150508
+ Trades: 97
+ ProfitPerTrade: 8.56
+ InitialInvestment: 3959.33
+ CurrentLiquidatingValue: 4699.17
+ BuyHoldPl: -44.93 (-1.0%)
+
+
+Ticker: CMCSA
+ Profit: 75.95 (1.0%)
+ Profit+Open: 54.99 (1.0%)
+ Max Profit: 285.44
+ Max Profit Date: 20150724
+ Max Loss: -41.94
+ Max Loss Date: 20160205
+ Trades: 104
+ ProfitPerTrade: 0.73
+ InitialInvestment: 3956.75
+ CurrentLiquidatingValue: 4011.75
+ BuyHoldPl: 239.75 (6.0%)
+
+
+Ticker: CBSH
+ Profit: 88.09 (2.0%)
+ Profit+Open: -320.88 (-8.0%)
+ Max Profit: 424.75
+ Max Profit Date: 20151113
+ Max Loss: -362.13
+ Max Loss Date: 20150707
+ Trades: 88
+ ProfitPerTrade: 1.0
+ InitialInvestment: 3991.9
+ CurrentLiquidatingValue: 3671.01
+ BuyHoldPl: 248.9 (6.0%)
+
+
+Ticker: CSOD
+ Profit: 1164.9 (28.999999999999996%)
+ Profit+Open: 1055.34 (26.0%)
+ Max Profit: 1496.66
+ Max Profit Date: 20160122
+ Max Loss: -112.3
+ Max Loss Date: 20150708
+ Trades: 111
+ ProfitPerTrade: 10.49
+ InitialInvestment: 3985.33
+ CurrentLiquidatingValue: 5040.67
+ BuyHoldPl: 158.92 (3.0%)
+
+
+Ticker: COST
+ Profit: -192.84 (-4.0%)
+ Profit+Open: -195.3 (-4.0%)
+ Max Profit: 70.85
+ Max Profit Date: 20150908
+ Max Loss: -432.12
+ Max Loss Date: 20151111
+ Trades: 101
+ ProfitPerTrade: -1.9
+ InitialInvestment: 3928.34
+ CurrentLiquidatingValue: 3733.03
+ BuyHoldPl: -51.47 (-1.0%)
+
+
+Ticker: CBRL
+ Profit: -561.97 (-14.000000000000002%)
+ Profit+Open: -995.83 (-25.0%)
+ Max Profit: 0.0
+ Max Profit Date: 
+ Max Loss: -672.69
+ Max Loss Date: 20150722
+ Trades: 100
+ ProfitPerTrade: -5.61
+ InitialInvestment: 3902.08
+ CurrentLiquidatingValue: 2906.24
+ BuyHoldPl: -67.86 (-1.0%)
+
+
+Ticker: CACC
+ Profit: 848.93 (21.0%)
+ Profit+Open: 839.25 (21.0%)
+ Max Profit: 953.14
+ Max Profit Date: 20160104
+ Max Loss: -45.95
+ Max Loss Date: 20150715
+ Trades: 111
+ ProfitPerTrade: 7.64
+ InitialInvestment: 3973.83
+ CurrentLiquidatingValue: 4813.08
+ BuyHoldPl: 229.32 (5.0%)
+
+
+Ticker: CVBF
+ Profit: 315.1 (7.000000000000001%)
+ Profit+Open: 80.74 (2.0%)
+ Max Profit: 577.6
+ Max Profit Date: 20151229
+ Max Loss: -256.72
+ Max Loss Date: 20150709
+ Trades: 95
+ ProfitPerTrade: 3.31
+ InitialInvestment: 3996.35
+ CurrentLiquidatingValue: 4077.09
+ BuyHoldPl: 213.3 (5.0%)
+
+
+ portfolio.testGain2_DU218375.txt
+  Total winners: 19 Total Losers: 3
+  Profits: 15636.93 Losses: -837.47
+  Overall PL: 14799.45
+  OpenPosValue : -268.87  (3)
+  OpenPosValueOverShoot : -9.68  (19.0)
+  OverallPl + openValue : 14530.57
+  OverALL : 16.63 %
+  InitalAccountValue: 87349.65
+  FinalAccountValue: 102149.1
+  BuyHoldPl: -916.2
+  BuyHoldPlPercent: -1.04
+  Overall PLPercent: 3.63
+  MaxPositionGain: 848.93 OnDate: 20160303 Ticker: CACC
+  MaxPositionLoss: -672.69 OnDate: 20150722 Ticker: CBRL
+  MaxPortfolioGain: 16029.52 OnDate: 20160122
+  MaxPortfolioLoss: 0.0 OnDate: 
+  MaxPortfolioGainWOpen: 14530.57 OnDate: 20160303
+  MaxPortfolioLossWOpen: 0.0 OnDate: 
+  RunningPlByLongs: 5333.0
+  RunningPlByShorts: 9466.45
+
+
+ 
+  Total winners: 19 Total Losers: 3
+  Profits: 15636.93 Losses: -837.47
+  Overall PL: 14799.45
+  OpenPosValue : -268.87  (3)
+  OpenPosValueOverShoot : -9.68  (19.0)
+  OverallPl + openValue : 14530.57
+  OverALL : 16.63 %
+  InitalAccountValue: 87349.65
+  FinalAccountValue: 102149.1
+  BuyHoldPl: -916.2
+  BuyHoldPlPercent: -1.04
+  Overall PLPercent: 3.63
+  MaxPositionGain: 848.93 OnDate: 20160303 Ticker: CACC
+  MaxPositionLoss: -672.69 OnDate: 20150722 Ticker: CBRL
+  MaxPortfolioGain: 16029.52 OnDate: 20160122
+  MaxPortfolioLoss: 0.0 OnDate: 
+  MaxPortfolioGainWOpen: 14530.57 OnDate: 20160303
+  MaxPortfolioLossWOpen: 0.0 OnDate: 
+  RunningPlByLongs: 5333.0
+  RunningPlByShorts: 9466.45

@@ -1,0 +1,1187 @@
+Performance Data On 20160226:
+
+
+
+Ticker: MSFT
+ Profit: -309.97 (-7.000000000000001%)
+ Profit+Open: -291.04 (-7.0%)
+ Max Profit: 165.94
+ Max Profit Date: 20150410
+ Max Loss: -703.15
+ Max Loss Date: 20151117
+ Trades: 98
+ ProfitPerTrade: -3.16
+ InitialInvestment: 3974.78
+ CurrentLiquidatingValue: 3683.74
+ BuyHoldPl: 847.41 (21.0%)
+
+
+Ticker: MCD
+ Profit: 248.3 (6.0%)
+ Profit+Open: 248.3 (6.0%)
+ Max Profit: 615.35
+ Max Profit Date: 20150928
+ Max Loss: -98.88
+ Max Loss Date: 20160111
+ Trades: 95
+ ProfitPerTrade: 2.61
+ InitialInvestment: 3935.18
+ CurrentLiquidatingValue: 4183.49
+ BuyHoldPl: 864.27 (21.0%)
+
+
+Ticker: NFLX
+ Profit: -1762.07 (-44.0%)
+ Profit+Open: -1765.97 (-44.0%)
+ Max Profit: 432.57
+ Max Profit Date: 20151113
+ Max Loss: -2175.42
+ Max Loss Date: 20150702
+ Trades: 72
+ ProfitPerTrade: -24.47
+ InitialInvestment: 3948.42
+ CurrentLiquidatingValue: 2182.45
+ BuyHoldPl: 2212.92 (56.0%)
+
+
+Ticker: PM
+ Profit: 323.55 (8.0%)
+ Profit+Open: 344.19 (8.0%)
+ Max Profit: 323.55
+ Max Profit Date: 20160212
+ Max Loss: -264.08
+ Max Loss Date: 20150529
+ Trades: 112
+ ProfitPerTrade: 2.88
+ InitialInvestment: 3943.0
+ CurrentLiquidatingValue: 4287.19
+ BuyHoldPl: 629.5 (15.0%)
+
+
+Ticker: TGT
+ Profit: 1109.35 (28.000000000000004%)
+ Profit+Open: 1112.23 (28.0%)
+ Max Profit: 1109.35
+ Max Profit Date: 20160224
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 123
+ ProfitPerTrade: 9.01
+ InitialInvestment: 3949.39
+ CurrentLiquidatingValue: 5061.63
+ BuyHoldPl: -106.32 (-2.0%)
+
+
+Ticker: KO
+ Profit: 131.03 (3.0%)
+ Profit+Open: 167.99 (4.0%)
+ Max Profit: 252.4
+ Max Profit Date: 20150813
+ Max Loss: -123.68
+ Max Loss Date: 20151106
+ Trades: 108
+ ProfitPerTrade: 1.21
+ InitialInvestment: 3961.98
+ CurrentLiquidatingValue: 4129.98
+ BuyHoldPl: 308.87 (7.0%)
+
+
+Ticker: COST
+ Profit: -128.96 (-3.0%)
+ Profit+Open: -103.34 (-2.0%)
+ Max Profit: 162.51
+ Max Profit Date: 20150908
+ Max Loss: -340.46
+ Max Loss Date: 20151111
+ Trades: 100
+ ProfitPerTrade: -1.28
+ InitialInvestment: 3934.06
+ CurrentLiquidatingValue: 3830.71
+ BuyHoldPl: -42.37 (-1.0%)
+
+
+Ticker: WMT
+ Profit: 211.84 (5.0%)
+ Profit+Open: 211.84 (5.0%)
+ Max Profit: 298.72
+ Max Profit Date: 20151203
+ Max Loss: -91.67
+ Max Loss Date: 20151008
+ Trades: 105
+ ProfitPerTrade: 2.01
+ InitialInvestment: 3994.48
+ CurrentLiquidatingValue: 4206.32
+ BuyHoldPl: -735.48 (-18.0%)
+
+
+Ticker: PG
+ Profit: -131.84 (-3.0%)
+ Profit+Open: -154.64 (-3.0%)
+ Max Profit: 255.77
+ Max Profit Date: 20150812
+ Max Loss: -186.0
+ Max Loss Date: 20160107
+ Trades: 94
+ ProfitPerTrade: -1.4
+ InitialInvestment: 3918.85
+ CurrentLiquidatingValue: 3764.22
+ BuyHoldPl: -107.15 (-2.0%)
+
+
+Ticker: KMB
+ Profit: -16.79 (0.0%)
+ Profit+Open: -80.51 (-2.0%)
+ Max Profit: 416.4
+ Max Profit Date: 20150813
+ Max Loss: -109.76
+ Max Loss Date: 20160113
+ Trades: 93
+ ProfitPerTrade: -0.18
+ InitialInvestment: 3949.75
+ CurrentLiquidatingValue: 3869.23
+ BuyHoldPl: 908.35 (22.0%)
+
+
+Ticker: JNJ
+ Profit: 746.06 (18.0%)
+ Profit+Open: 751.46 (18.0%)
+ Max Profit: 746.06
+ Max Profit Date: 20160224
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 120
+ ProfitPerTrade: 6.21
+ InitialInvestment: 3965.91
+ CurrentLiquidatingValue: 4717.37
+ BuyHoldPl: 159.51 (4.0%)
+
+
+Ticker: AMZN
+ Profit: -504.02 (-13.0%)
+ Profit+Open: -505.29 (-13.0%)
+ Max Profit: 13.12
+ Max Profit Date: 20150417
+ Max Loss: -837.47
+ Max Loss Date: 20151215
+ Trades: 79
+ ProfitPerTrade: -6.38
+ InitialInvestment: 3732.4
+ CurrentLiquidatingValue: 3227.1
+ BuyHoldPl: 1819.9 (48.0%)
+
+
+Ticker: AAPL
+ Profit: 581.33 (14.000000000000002%)
+ Profit+Open: 475.38 (12.0%)
+ Max Profit: 668.58
+ Max Profit Date: 20160122
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 108
+ ProfitPerTrade: 5.38
+ InitialInvestment: 3952.34
+ CurrentLiquidatingValue: 4427.73
+ BuyHoldPl: -948.13 (-23.0%)
+
+
+Ticker: INTC
+ Profit: -144.76 (-3.0%)
+ Profit+Open: -144.76 (-3.0%)
+ Max Profit: 279.28
+ Max Profit Date: 20150930
+ Max Loss: -207.25
+ Max Loss Date: 20151106
+ Trades: 103
+ ProfitPerTrade: -1.4
+ InitialInvestment: 3996.2
+ CurrentLiquidatingValue: 3851.43
+ BuyHoldPl: -122.19 (-3.0%)
+
+
+Ticker: YUM
+ Profit: 167.6 (4.0%)
+ Profit+Open: 159.56 (4.0%)
+ Max Profit: 167.6
+ Max Profit Date: 20160218
+ Max Loss: -721.67
+ Max Loss Date: 20150601
+ Trades: 115
+ ProfitPerTrade: 1.45
+ InitialInvestment: 3936.99
+ CurrentLiquidatingValue: 4096.56
+ BuyHoldPl: -365.99 (-9.0%)
+
+
+Ticker: CPB
+ Profit: 581.56 (14.000000000000002%)
+ Profit+Open: -301.9 (-7.0%)
+ Max Profit: 581.56
+ Max Profit Date: 20160204
+ Max Loss: -35.21
+ Max Loss Date: 20150609
+ Trades: 96
+ ProfitPerTrade: 6.05
+ InitialInvestment: 3986.39
+ CurrentLiquidatingValue: 3684.49
+ BuyHoldPl: 1467.84 (36.0%)
+
+
+Ticker: GIS
+ Profit: 710.52 (17.0%)
+ Profit+Open: 457.62 (11.0%)
+ Max Profit: 710.52
+ Max Profit Date: 20160205
+ Max Loss: -218.16
+ Max Loss Date: 20150504
+ Trades: 88
+ ProfitPerTrade: 8.07
+ InitialInvestment: 3993.04
+ CurrentLiquidatingValue: 4450.66
+ BuyHoldPl: 490.96 (12.0%)
+
+
+Ticker: V
+ Profit: 590.91 (14.000000000000002%)
+ Profit+Open: 590.91 (14.0%)
+ Max Profit: 617.91
+ Max Profit Date: 20160224
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 115
+ ProfitPerTrade: 5.13
+ InitialInvestment: 3941.79
+ CurrentLiquidatingValue: 4532.7
+ BuyHoldPl: 349.28 (8.0%)
+
+
+Ticker: DEO
+ Profit: 939.77 (23.0%)
+ Profit+Open: 950.06 (23.0%)
+ Max Profit: 939.77
+ Max Profit Date: 20160224
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 117
+ ProfitPerTrade: 8.03
+ InitialInvestment: 3992.45
+ CurrentLiquidatingValue: 4942.51
+ BuyHoldPl: -371.69 (-9.0%)
+
+
+Ticker: DECK
+ Profit: 298.38 (7.000000000000001%)
+ Profit+Open: 28.37 (0.0%)
+ Max Profit: 479.48
+ Max Profit Date: 20150803
+ Max Loss: -46.79
+ Max Loss Date: 20150414
+ Trades: 117
+ ProfitPerTrade: 2.55
+ InitialInvestment: 3953.95
+ CurrentLiquidatingValue: 3982.32
+ BuyHoldPl: -866.79 (-21.0%)
+
+
+Ticker: NKE
+ Profit: -249.33 (-6.0%)
+ Profit+Open: -295.31 (-7.0%)
+ Max Profit: 84.12
+ Max Profit Date: 20150430
+ Max Loss: -1069.24
+ Max Loss Date: 20151104
+ Trades: 93
+ ProfitPerTrade: -2.68
+ InitialInvestment: 3981.95
+ CurrentLiquidatingValue: 3686.64
+ BuyHoldPl: 1088.64 (27.0%)
+
+
+Ticker: GS
+ Profit: -621.61 (-15.0%)
+ Profit+Open: -770.8 (-19.0%)
+ Max Profit: 52.39
+ Max Profit Date: 20150331
+ Max Loss: -671.11
+ Max Loss Date: 20160204
+ Trades: 94
+ ProfitPerTrade: -6.61
+ InitialInvestment: 3989.37
+ CurrentLiquidatingValue: 3218.56
+ BuyHoldPl: -834.11 (-20.0%)
+
+
+Ticker: DIS
+ Profit: -330.23 (-8.0%)
+ Profit+Open: -326.09 (-8.0%)
+ Max Profit: 400.98
+ Max Profit Date: 20150828
+ Max Loss: -330.23
+ Max Loss Date: 20160223
+ Trades: 89
+ ProfitPerTrade: -3.71
+ InitialInvestment: 3972.69
+ CurrentLiquidatingValue: 3646.59
+ BuyHoldPl: -446.21 (-11.0%)
+
+
+Ticker: BMY
+ Profit: 714.53 (18.0%)
+ Profit+Open: 714.53 (18.0%)
+ Max Profit: 714.53
+ Max Profit Date: 20160226
+ Max Loss: -37.98
+ Max Loss Date: 20150416
+ Trades: 106
+ ProfitPerTrade: 6.74
+ InitialInvestment: 3962.55
+ CurrentLiquidatingValue: 4677.09
+ BuyHoldPl: -352.05 (-8.0%)
+
+
+Ticker: CL
+ Profit: 327.25 (8.0%)
+ Profit+Open: 373.53 (9.0%)
+ Max Profit: 327.25
+ Max Profit Date: 20160224
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 115
+ ProfitPerTrade: 2.84
+ InitialInvestment: 3960.82
+ CurrentLiquidatingValue: 4334.35
+ BuyHoldPl: -116.57 (-2.0%)
+
+
+Ticker: VZ
+ Profit: 416.97 (10.0%)
+ Profit+Open: 404.43 (10.0%)
+ Max Profit: 443.0
+ Max Profit Date: 20160211
+ Max Loss: -1.0
+ Max Loss Date: 20150626
+ Trades: 110
+ ProfitPerTrade: 3.79
+ InitialInvestment: 3993.29
+ CurrentLiquidatingValue: 4397.73
+ BuyHoldPl: 139.32 (3.0%)
+
+
+Ticker: T
+ Profit: 800.79 (20.0%)
+ Profit+Open: 632.49 (15.0%)
+ Max Profit: 862.59
+ Max Profit Date: 20160121
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 79
+ ProfitPerTrade: 10.13
+ InitialInvestment: 3984.0
+ CurrentLiquidatingValue: 4616.5
+ BuyHoldPl: 471.59 (11.0%)
+
+
+Ticker: CSCO
+ Profit: 355.07 (8.0%)
+ Profit+Open: 363.91 (9.0%)
+ Max Profit: 371.29
+ Max Profit Date: 20151002
+ Max Loss: -92.87
+ Max Loss Date: 20150601
+ Trades: 109
+ ProfitPerTrade: 3.25
+ InitialInvestment: 3984.66
+ CurrentLiquidatingValue: 4348.57
+ BuyHoldPl: -260.85 (-6.0%)
+
+
+Ticker: JPM
+ Profit: 230.2 (5.0%)
+ Profit+Open: 234.4 (5.0%)
+ Max Profit: 230.2
+ Max Profit Date: 20160224
+ Max Loss: -227.64
+ Max Loss Date: 20151209
+ Trades: 97
+ ProfitPerTrade: 2.37
+ InitialInvestment: 3978.0
+ CurrentLiquidatingValue: 4212.4
+ BuyHoldPl: -237.9 (-5.0%)
+
+
+Ticker: GOOGL
+ Profit: 1510.77 (38.0%)
+ Profit+Open: 1510.77 (38.0%)
+ Max Profit: 1510.77
+ Max Profit Date: 20160226
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 133
+ ProfitPerTrade: 11.35
+ InitialInvestment: 3963.12
+ CurrentLiquidatingValue: 5473.89
+ BuyHoldPl: 1110.9 (28.0%)
+
+
+Ticker: ARMH
+ Profit: 332.52 (8.0%)
+ Profit+Open: 335.76 (8.0%)
+ Max Profit: 969.42
+ Max Profit Date: 20150731
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 107
+ ProfitPerTrade: 3.1
+ InitialInvestment: 3966.75
+ CurrentLiquidatingValue: 4302.51
+ BuyHoldPl: -916.5 (-23.0%)
+
+
+Ticker: BRCM
+
+
+Ticker: WLP
+
+
+Ticker: K
+ Profit: 202.64 (5.0%)
+ Profit+Open: 268.79 (6.0%)
+ Max Profit: 202.64
+ Max Profit Date: 20160226
+ Max Loss: -171.2
+ Max Loss Date: 20150826
+ Trades: 103
+ ProfitPerTrade: 1.96
+ InitialInvestment: 3957.03
+ CurrentLiquidatingValue: 4225.82
+ BuyHoldPl: 670.32 (16.0%)
+
+
+Ticker: TM
+ Profit: 551.12 (14.000000000000002%)
+ Profit+Open: 509.32 (12.0%)
+ Max Profit: 551.12
+ Max Profit Date: 20160205
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 119
+ ProfitPerTrade: 4.63
+ InitialInvestment: 3922.79
+ CurrentLiquidatingValue: 4432.12
+ BuyHoldPl: -978.87 (-24.0%)
+
+
+Ticker: ADSK
+ Profit: 405.29 (10.0%)
+ Profit+Open: 378.74 (9.0%)
+ Max Profit: 830.9
+ Max Profit Date: 20151021
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 120
+ ProfitPerTrade: 3.37
+ InitialInvestment: 3965.0
+ CurrentLiquidatingValue: 4343.75
+ BuyHoldPl: -637.65 (-16.0%)
+
+
+Ticker: F
+ Profit: 18.8 (0.0%)
+ Profit+Open: 14.0 (0.0%)
+ Max Profit: 190.0
+ Max Profit Date: 20151231
+ Max Loss: -236.6
+ Max Loss Date: 20150910
+ Trades: 107
+ ProfitPerTrade: 0.17
+ InitialInvestment: 3986.96
+ CurrentLiquidatingValue: 4000.96
+ BuyHoldPl: -944.27 (-23.0%)
+
+
+Ticker: BBY
+ Profit: 167.59 (4.0%)
+ Profit+Open: -39.76 (0.0%)
+ Max Profit: 238.79
+ Max Profit Date: 20151125
+ Max Loss: -205.92
+ Max Loss Date: 20150512
+ Trades: 126
+ ProfitPerTrade: 1.33
+ InitialInvestment: 3993.6
+ CurrentLiquidatingValue: 3953.83
+ BuyHoldPl: -878.4 (-21.0%)
+
+
+Ticker: CAKE
+ Profit: 467.66 (11.0%)
+ Profit+Open: 449.23 (11.0%)
+ Max Profit: 505.04
+ Max Profit Date: 20151014
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 115
+ ProfitPerTrade: 4.06
+ InitialInvestment: 3954.42
+ CurrentLiquidatingValue: 4403.65
+ BuyHoldPl: 119.06 (3.0%)
+
+
+Ticker: C
+ Profit: -683.21 (-17.0%)
+ Profit+Open: -683.21 (-17.0%)
+ Max Profit: 321.6
+ Max Profit Date: 20150810
+ Max Loss: -683.21
+ Max Loss Date: 20160225
+ Trades: 97
+ ProfitPerTrade: -7.04
+ InitialInvestment: 3980.88
+ CurrentLiquidatingValue: 3297.66
+ BuyHoldPl: -978.88 (-24.0%)
+
+
+Ticker: HPQ
+ Profit: 581.68 (14.000000000000002%)
+ Profit+Open: 573.76 (14.0%)
+ Max Profit: 834.68
+ Max Profit Date: 20160105
+ Max Loss: -8.25
+ Max Loss Date: 20150903
+ Trades: 102
+ ProfitPerTrade: 5.7
+ InitialInvestment: 3988.66
+ CurrentLiquidatingValue: 4562.42
+ BuyHoldPl: -1158.42 (-28.99%)
+
+
+Ticker: BIDU
+ Profit: -675.08 (-17.0%)
+ Profit+Open: -770.4 (-19.0%)
+ Max Profit: 1031.79
+ Max Profit Date: 20150810
+ Max Loss: -675.08
+ Max Loss Date: 20160222
+ Trades: 92
+ ProfitPerTrade: -7.33
+ InitialInvestment: 3862.25
+ CurrentLiquidatingValue: 3091.85
+ BuyHoldPl: -733.85 (-19.0%)
+
+
+Ticker: FFIV
+ Profit: -16.34 (0.0%)
+ Profit+Open: -44.27 (-1.0%)
+ Max Profit: 352.46
+ Max Profit Date: 20151029
+ Max Loss: -261.02
+ Max Loss Date: 20150601
+ Trades: 94
+ ProfitPerTrade: -0.17
+ InitialInvestment: 3895.04
+ CurrentLiquidatingValue: 3850.76
+ BuyHoldPl: -592.96 (-15.0%)
+
+
+Ticker: FCX
+ Profit: -3237.02 (-81.0%)
+ Profit+Open: -3617.78 (-90.0%)
+ Max Profit: 157.31
+ Max Profit Date: 20150413
+ Max Loss: -3243.29
+ Max Loss Date: 20160202
+ Trades: 84
+ ProfitPerTrade: -38.53
+ InitialInvestment: 3987.06
+ CurrentLiquidatingValue: 369.27
+ BuyHoldPl: -2270.73 (-56.0%)
+
+
+Ticker: DE
+ Profit: 342.59 (8.0%)
+ Profit+Open: 245.39 (6.0%)
+ Max Profit: 346.49
+ Max Profit Date: 20160219
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 106
+ ProfitPerTrade: 3.23
+ InitialInvestment: 3963.6
+ CurrentLiquidatingValue: 4208.99
+ BuyHoldPl: -387.44 (-9.0%)
+
+
+Ticker: CAT
+ Profit: 369.75 (9.0%)
+ Profit+Open: 358.71 (9.0%)
+ Max Profit: 369.75
+ Max Profit Date: 20160212
+ Max Loss: -253.43
+ Max Loss Date: 20150602
+ Trades: 105
+ ProfitPerTrade: 3.52
+ InitialInvestment: 3924.41
+ CurrentLiquidatingValue: 4283.13
+ BuyHoldPl: -647.78 (-16.0%)
+
+
+Ticker: MOS
+ Profit: -837.48 (-21.0%)
+ Profit+Open: -976.08 (-24.0%)
+ Max Profit: 252.21
+ Max Profit Date: 20150710
+ Max Loss: -900.76
+ Max Loss Date: 20160209
+ Trades: 102
+ ProfitPerTrade: -8.21
+ InitialInvestment: 3984.37
+ CurrentLiquidatingValue: 3008.29
+ BuyHoldPl: -1677.85 (-42.0%)
+
+
+Ticker: BBBY
+ Profit: -298.51 (-7.000000000000001%)
+ Profit+Open: -525.43 (-13.0%)
+ Max Profit: 194.28
+ Max Profit Date: 20150519
+ Max Loss: -298.51
+ Max Loss Date: 20160209
+ Trades: 94
+ ProfitPerTrade: -3.17
+ InitialInvestment: 3931.72
+ CurrentLiquidatingValue: 3406.27
+ BuyHoldPl: -1384.23 (-35.0%)
+
+
+Ticker: CMG
+ Profit: 0.0 (0.0%)
+ Profit+Open: 0.0 (0.0%)
+ Max Profit: 0.0
+ Max Profit Date: 
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 110
+ ProfitPerTrade: 0.0
+ InitialInvestment: 3403.35
+ CurrentLiquidatingValue: 3403.35
+ BuyHoldPl: -873.29 (-25.0%)
+
+
+Ticker: HAIN
+ Profit: -570.47 (-14.000000000000002%)
+ Profit+Open: -579.92 (-14.0%)
+ Max Profit: 537.62
+ Max Profit Date: 20150812
+ Max Loss: -619.17
+ Max Loss Date: 20151223
+ Trades: 96
+ ProfitPerTrade: -5.94
+ InitialInvestment: 3941.02
+ CurrentLiquidatingValue: 3361.1
+ BuyHoldPl: -1622.85 (-41.0%)
+
+
+Ticker: QCOM
+ Profit: 355.53 (8.0%)
+ Profit+Open: 338.89 (8.0%)
+ Max Profit: 355.53
+ Max Profit Date: 20160222
+ Max Loss: -131.91
+ Max Loss Date: 20151030
+ Trades: 115
+ ProfitPerTrade: 3.09
+ InitialInvestment: 3980.31
+ CurrentLiquidatingValue: 4319.2
+ BuyHoldPl: -1037.97 (-26.0%)
+
+
+Ticker: ORCL
+ Profit: 973.93 (24.0%)
+ Profit+Open: 971.51 (24.0%)
+ Max Profit: 999.48
+ Max Profit Date: 20151216
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 121
+ ProfitPerTrade: 8.04
+ InitialInvestment: 3974.39
+ CurrentLiquidatingValue: 4945.91
+ BuyHoldPl: -647.99 (-16.0%)
+
+
+Ticker: PEP
+ Profit: 428.55 (10.0%)
+ Profit+Open: 455.45 (11.0%)
+ Max Profit: 428.55
+ Max Profit Date: 20160226
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 114
+ ProfitPerTrade: 3.75
+ InitialInvestment: 3952.2
+ CurrentLiquidatingValue: 4407.65
+ BuyHoldPl: 178.92 (4.0%)
+
+
+Ticker: ADBE
+ Profit: 653.64 (16.0%)
+ Profit+Open: 654.6 (16.0%)
+ Max Profit: 802.69
+ Max Profit Date: 20151008
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 96
+ ProfitPerTrade: 6.8
+ InitialInvestment: 3934.14
+ CurrentLiquidatingValue: 4588.74
+ BuyHoldPl: 482.45 (12.0%)
+
+
+Ticker: MRK
+ Profit: 586.64 (14.000000000000002%)
+ Profit+Open: 591.12 (14.0%)
+ Max Profit: 652.31
+ Max Profit Date: 20160122
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 112
+ ProfitPerTrade: 5.23
+ InitialInvestment: 3958.28
+ CurrentLiquidatingValue: 4549.41
+ BuyHoldPl: -514.76 (-13.0%)
+
+
+Ticker: PFE
+ Profit: 410.03 (10.0%)
+ Profit+Open: 414.23 (10.0%)
+ Max Profit: 551.77
+ Max Profit Date: 20160106
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 112
+ ProfitPerTrade: 3.66
+ InitialInvestment: 3995.54
+ CurrentLiquidatingValue: 4409.78
+ BuyHoldPl: -458.63 (-11.0%)
+
+
+Ticker: XLB
+ Profit: 67.88 (1.0%)
+ Profit+Open: -4.88 (0.0%)
+ Max Profit: 132.34
+ Max Profit Date: 20151229
+ Max Loss: -343.43
+ Max Loss Date: 20150910
+ Trades: 94
+ ProfitPerTrade: 0.72
+ InitialInvestment: 3977.1
+ CurrentLiquidatingValue: 3972.21
+ BuyHoldPl: -570.23 (-14.0%)
+
+
+Ticker: YHOO
+ Profit: 430.43 (10.0%)
+ Profit+Open: 421.4 (10.0%)
+ Max Profit: 451.29
+ Max Profit Date: 20160222
+ Max Loss: -126.24
+ Max Loss Date: 20151009
+ Trades: 110
+ ProfitPerTrade: 3.91
+ InitialInvestment: 3958.24
+ CurrentLiquidatingValue: 4379.64
+ BuyHoldPl: -1197.67 (-30.0%)
+
+
+Ticker: SRPT
+ Profit: -2301.07 (-56.99999999999999%)
+ Profit+Open: -2112.07 (-52.0%)
+ Max Profit: 2359.73
+ Max Profit Date: 20151103
+ Max Loss: -4098.3
+ Max Loss Date: 20150707
+ Trades: 91
+ ProfitPerTrade: -25.28
+ InitialInvestment: 3995.04
+ CurrentLiquidatingValue: 1882.96
+ BuyHoldPl: -186.55 (-4.0%)
+
+
+Ticker: ACAD
+ Profit: 2447.5 (61.0%)
+ Profit+Open: 2447.5 (61.0%)
+ Max Profit: 3016.17
+ Max Profit Date: 20160108
+ Max Loss: -18.78
+ Max Loss Date: 20150904
+ Trades: 104
+ ProfitPerTrade: 23.53
+ InitialInvestment: 3988.86
+ CurrentLiquidatingValue: 6436.36
+ BuyHoldPl: -1853.63 (-46.0%)
+
+
+Ticker: KORS
+ Profit: -254.25 (-6.0%)
+ Profit+Open: -819.1 (-20.0%)
+ Max Profit: 208.26
+ Max Profit Date: 20150407
+ Max Loss: -729.89
+ Max Loss Date: 20150811
+ Trades: 100
+ ProfitPerTrade: -2.54
+ InitialInvestment: 3942.37
+ CurrentLiquidatingValue: 3123.27
+ BuyHoldPl: -604.15 (-15.0%)
+
+
+Ticker: FDX
+ Profit: 504.91 (12.0%)
+ Profit+Open: 483.75 (12.0%)
+ Max Profit: 504.91
+ Max Profit Date: 20160223
+ Max Loss: -0.24
+ Max Loss Date: 20150406
+ Trades: 126
+ ProfitPerTrade: 4.0
+ InitialInvestment: 3998.54
+ CurrentLiquidatingValue: 4482.3
+ BuyHoldPl: -838.81 (-20.0%)
+
+
+Ticker: EBAY
+ Profit: 778.99 (19.0%)
+ Profit+Open: 770.19 (19.0%)
+ Max Profit: 1164.55
+ Max Profit Date: 20151201
+ Max Loss: -4.85
+ Max Loss Date: 20150416
+ Trades: 110
+ ProfitPerTrade: 7.08
+ InitialInvestment: 3995.04
+ CurrentLiquidatingValue: 4765.23
+ BuyHoldPl: -29.51 (0.0%)
+
+
+Ticker: NDLS
+ Profit: 1730.87 (43.0%)
+ Profit+Open: 1730.87 (43.0%)
+ Max Profit: 1730.87
+ Max Profit Date: 20160222
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 115
+ ProfitPerTrade: 15.05
+ InitialInvestment: 3985.79
+ CurrentLiquidatingValue: 5716.67
+ BuyHoldPl: -1338.08 (-33.0%)
+
+
+Ticker: ZNGA
+ Profit: 70.22 (1.0%)
+ Profit+Open: -102.96 (-2.0%)
+ Max Profit: 514.48
+ Max Profit Date: 20150608
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 68
+ ProfitPerTrade: 1.03
+ InitialInvestment: 3998.85
+ CurrentLiquidatingValue: 3895.88
+ BuyHoldPl: -739.4 (-18.0%)
+
+
+Ticker: WEN
+ Profit: 637.35 (15.0%)
+ Profit+Open: 588.15 (14.0%)
+ Max Profit: 637.35
+ Max Profit Date: 20160211
+ Max Loss: -67.49
+ Max Loss Date: 20151102
+ Trades: 87
+ ProfitPerTrade: 7.32
+ InitialInvestment: 3993.0
+ CurrentLiquidatingValue: 4581.15
+ BuyHoldPl: -588.05 (-14.0%)
+
+
+Ticker: LOW
+ Profit: 1149.07 (28.999999999999996%)
+ Profit+Open: 1138.52 (28.0%)
+ Max Profit: 1172.91
+ Max Profit Date: 20160222
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 136
+ ProfitPerTrade: 8.44
+ InitialInvestment: 3951.68
+ CurrentLiquidatingValue: 5090.2
+ BuyHoldPl: -289.38 (-7.0%)
+
+
+Ticker: DOW
+ Profit: 231.41 (5.0%)
+ Profit+Open: 120.53 (3.0%)
+ Max Profit: 231.41
+ Max Profit Date: 20160211
+ Max Loss: -326.13
+ Max Loss Date: 20150615
+ Trades: 82
+ ProfitPerTrade: 2.82
+ InitialInvestment: 3972.04
+ CurrentLiquidatingValue: 4092.58
+ BuyHoldPl: 170.85 (4.0%)
+
+
+Ticker: HSY
+ Profit: 339.9 (8.0%)
+ Profit+Open: 246.75 (6.0%)
+ Max Profit: 339.9
+ Max Profit Date: 20160226
+ Max Loss: -68.51
+ Max Loss Date: 20150513
+ Trades: 106
+ ProfitPerTrade: 3.2
+ InitialInvestment: 3921.45
+ CurrentLiquidatingValue: 4168.2
+ BuyHoldPl: -387.26 (-9.0%)
+
+
+Ticker: HAL
+ Profit: -88.87 (-2.0%)
+ Profit+Open: -104.72 (-2.0%)
+ Max Profit: 192.24
+ Max Profit Date: 20151203
+ Max Loss: -871.04
+ Max Loss Date: 20150730
+ Trades: 107
+ ProfitPerTrade: -0.83
+ InitialInvestment: 3988.79
+ CurrentLiquidatingValue: 3884.08
+ BuyHoldPl: -839.03 (-21.0%)
+
+
+Ticker: TSLA
+ Profit: -2.07 (0.0%)
+ Profit+Open: -13.71 (0.0%)
+ Max Profit: 600.39
+ Max Profit Date: 20160106
+ Max Loss: -706.03
+ Max Loss Date: 20150714
+ Trades: 98
+ ProfitPerTrade: -0.02
+ InitialInvestment: 3913.0
+ CurrentLiquidatingValue: 3899.29
+ BuyHoldPl: -106.19 (-2.0%)
+
+
+Ticker: LULU
+ Profit: 2193.5 (54.0%)
+ Profit+Open: 2007.2 (50.0%)
+ Max Profit: 2452.25
+ Max Profit Date: 20151222
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 106
+ ProfitPerTrade: 20.69
+ InitialInvestment: 3992.8
+ CurrentLiquidatingValue: 6000.0
+ BuyHoldPl: -176.07 (-4.0%)
+
+
+Ticker: CLW
+ Profit: 764.8 (19.0%)
+ Profit+Open: 750.85 (19.0%)
+ Max Profit: 1073.7
+ Max Profit Date: 20160217
+ Max Loss: -178.54
+ Max Loss Date: 20150619
+ Trades: 114
+ ProfitPerTrade: 6.7
+ InitialInvestment: 3951.58
+ CurrentLiquidatingValue: 4702.43
+ BuyHoldPl: -1531.1 (-38.0%)
+
+
+Ticker: RHT
+ Profit: 18.82 (0.0%)
+ Profit+Open: 14.92 (0.0%)
+ Max Profit: 385.74
+ Max Profit Date: 20160217
+ Max Loss: -194.61
+ Max Loss Date: 20150417
+ Trades: 93
+ ProfitPerTrade: 0.2
+ InitialInvestment: 3943.26
+ CurrentLiquidatingValue: 3958.18
+ BuyHoldPl: -68.4 (-1.0%)
+
+
+Ticker: UGL
+ Profit: -369.1 (-9.0%)
+ Profit+Open: -1195.72 (-28.99%)
+ Max Profit: 397.0
+ Max Profit Date: 20150619
+ Max Loss: -369.1
+ Max Loss Date: 20160226
+ Trades: 84
+ ProfitPerTrade: -4.39
+ InitialInvestment: 3992.17
+ CurrentLiquidatingValue: 2796.44
+ BuyHoldPl: 200.09 (5.0%)
+
+
+Ticker: GDX
+ Profit: 585.7 (14.000000000000002%)
+ Profit+Open: -197.93 (-4.0%)
+ Max Profit: 585.7
+ Max Profit Date: 20160201
+ Max Loss: -431.81
+ Max Loss Date: 20150817
+ Trades: 87
+ ProfitPerTrade: 6.73
+ InitialInvestment: 3985.23
+ CurrentLiquidatingValue: 3787.29
+ BuyHoldPl: -4.25 (0.0%)
+
+
+Ticker: GLD
+ Profit: -174.03 (-4.0%)
+ Profit+Open: -604.18 (-15.0%)
+ Max Profit: 156.96
+ Max Profit Date: 20150619
+ Max Loss: -177.24
+ Max Loss Date: 20151211
+ Trades: 80
+ ProfitPerTrade: -2.17
+ InitialInvestment: 3930.15
+ CurrentLiquidatingValue: 3325.96
+ BuyHoldPl: 168.7 (4.0%)
+
+
+Ticker: MO
+ Profit: -126.74 (-3.0%)
+ Profit+Open: -296.98 (-7.0%)
+ Max Profit: 198.7
+ Max Profit Date: 20150619
+ Max Loss: -440.06
+ Max Loss Date: 20151106
+ Trades: 78
+ ProfitPerTrade: -1.62
+ InitialInvestment: 3999.06
+ CurrentLiquidatingValue: 3702.08
+ BuyHoldPl: 801.05 (20.0%)
+
+
+Ticker: GE
+ Profit: 630.89 (15.0%)
+ Profit+Open: 600.47 (15.0%)
+ Max Profit: 630.89
+ Max Profit Date: 20160212
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 83
+ ProfitPerTrade: 7.6
+ InitialInvestment: 3976.81
+ CurrentLiquidatingValue: 4577.28
+ BuyHoldPl: 638.99 (16.0%)
+
+
+Ticker: SLW
+ Profit: 245.64 (6.0%)
+ Profit+Open: -155.2 (-3.0%)
+ Max Profit: 440.8
+ Max Profit Date: 20160126
+ Max Loss: -699.55
+ Max Loss Date: 20150812
+ Trades: 93
+ ProfitPerTrade: 2.64
+ InitialInvestment: 3981.1
+ CurrentLiquidatingValue: 3825.89
+ BuyHoldPl: -822.05 (-20.0%)
+
+
+Ticker: JWN
+ Profit: -73.75 (-1.0%)
+ Profit+Open: -88.99 (-2.0%)
+ Max Profit: 551.56
+ Max Profit Date: 20151127
+ Max Loss: -133.87
+ Max Loss Date: 20160128
+ Trades: 113
+ ProfitPerTrade: -0.65
+ InitialInvestment: 3978.8
+ CurrentLiquidatingValue: 3889.8
+ BuyHoldPl: -1405.81 (-35.0%)
+
+
+Ticker: EL
+ Profit: 609.68 (15.0%)
+ Profit+Open: 434.72 (11.0%)
+ Max Profit: 609.68
+ Max Profit Date: 20160211
+ Max Loss: -16.68
+ Max Loss Date: 20150413
+ Trades: 85
+ ProfitPerTrade: 7.17
+ InitialInvestment: 3920.16
+ CurrentLiquidatingValue: 4354.88
+ BuyHoldPl: 485.76 (12.0%)
+
+
+Ticker: WFM
+ Profit: -787.01 (-19.0%)
+ Profit+Open: -787.19 (-19.0%)
+ Max Profit: 0.0
+ Max Profit Date: 
+ Max Loss: -924.35
+ Max Loss Date: 20150917
+ Trades: 96
+ ProfitPerTrade: -8.19
+ InitialInvestment: 3967.87
+ CurrentLiquidatingValue: 3180.68
+ BuyHoldPl: -1666.47 (-41.0%)
+
+
+Ticker: TIF
+ Profit: 958.11 (24.0%)
+ Profit+Open: 937.11 (23.0%)
+ Max Profit: 1092.51
+ Max Profit Date: 20151230
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 117
+ ProfitPerTrade: 8.18
+ InitialInvestment: 3973.02
+ CurrentLiquidatingValue: 4910.13
+ BuyHoldPl: -961.86 (-24.0%)
+
+
+Ticker: PCLN
+ Profit: 0.0 (0.0%)
+ Profit+Open: 0.0 (0.0%)
+ Max Profit: 0.0
+ Max Profit Date: 
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 102
+ ProfitPerTrade: 0.0
+ InitialInvestment: 3528.96
+ CurrentLiquidatingValue: 3528.96
+ BuyHoldPl: 233.84 (6.0%)
+
+
+Ticker: PETM
+
+
+Ticker: SODA
+ Profit: 1867.93 (46.0%)
+ Profit+Open: 1822.36 (45.0%)
+ Max Profit: 1867.93
+ Max Profit Date: 20160219
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 102
+ ProfitPerTrade: 18.31
+ InitialInvestment: 3999.1
+ CurrentLiquidatingValue: 5821.46
+ BuyHoldPl: -960.18 (-24.0%)

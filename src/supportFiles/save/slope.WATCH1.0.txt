@@ -1,0 +1,55 @@
+
+
+
+Exchange: WATCH1  TotalNumOfTickers: 65  P2PDays: 5  Date:20150205
+
+
+SearchCriteria: 
+ *** search criteria *** AboveMA by  50day: 3% *** 100day: 80% *** 200day: 90% ***
+
+
+TotalCost: 469742.5
+
+
+CurrentTotals($):
+  CurrentProfits: 57702.0  CurrentLosses: -3283.5  P&L: 54418.5  CurrentPercent: 11.58%
+  CurrentMaxProfit: 60.71%  CurrentMaxLoss: -14.68%
+
+
+RunningMaxTotals($):
+  RmProfits: 67879.5  RmLosses: -23860.5  RmP&L: 67879.5  RmPercent: 14.45%
+  RmProfit: 62.22%  RmAveProfit: 16.16%  RmLoss: -21.4%  RmAveLoss: 0.0%
+
+
+CurrentTotalCounts:
+  CurrentProfits: 56  CurrentLosses: 9  CurrentPercent: 86.15%
+
+
+RunningMaxTotalCounts:
+  RmProfits: 65  RmLosses: 52  RmZeroLoss: 13
+
+
+CurrentProfitMap (Profit >= 0) 
+  00%-05%: 13    05%-10%: 8    10%-15%: 15    15%-20%: 2
+  20%-25%: 8    25%-30%: 5    30%-35%: 2    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 1    55%-60%: 1    >60%: 1
+
+
+CurrentLossMap (Profit < 0) 
+  00%-05%: 4    05%-10%: 4    10%-15%: 1    15%-20%: 0
+  20%-25%: 0    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+
+RunningMaxProfitMap (Profit >= 0) 
+  00%-05%: 23    05%-10%: 14    10%-15%: 12    15%-20%: 9
+  20%-25%: 6    25%-30%: 8    30%-35%: 3    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 1    55%-60%: 0    >60%: 2
+
+
+RunningMaxLossMap (Profit < 0) 
+  00%-05%: 28    05%-10%: 10    10%-15%: 11    15%-20%: 2
+  20%-25%: 1    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+Done.

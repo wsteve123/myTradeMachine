@@ -1,0 +1,16 @@
+testLongWatch1
+DU218374
+200000
+2
+0
+0
+0
+RDY
+empty criteria
+100
+3
+0
+0
+0
+0
+0

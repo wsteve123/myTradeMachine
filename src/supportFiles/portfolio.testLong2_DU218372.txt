@@ -1,0 +1,16 @@
+testLong2
+DU218372
+200000
+3
+0
+0
+0
+RDY
+** 50Ma:3 * 100Ma:60 * 200Ma:70 * OR * MaxProfit:0.0 * MaxLoss:0.0 * MinVol:100000 * MinPrice:9 * Exchng: NyseQ1
+100
+3
+0
+0
+0
+0
+0

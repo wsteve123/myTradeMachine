@@ -1,0 +1,19 @@
+307c307,313
+<             bidAsk = calcMidPointBidAsk(buyOrSell,  oQuote.bid, oQuote.ask);
+---
+>             if ((oQuote == null) || ((oQuote != null) && oQuote.value == -1)) {
+>                 System.err.println("calcNextBidAsk: oQuote == null???");
+>                 bidAsk = -1;
+>                 return(bidAsk);
+>             }else {
+>                 bidAsk = calcMidPointBidAsk(buyOrSell,  oQuote.bid, oQuote.ask);
+>             }
+460c466,471
+<                     
+---
+>                     if (lastBidAsk == -1) {
+>                         System.err.println("checkLimitOrder: -1 value return by calcNextBitAsk??????");
+>                         retValue = false;
+>                         return(retValue);
+>                         
+>                     }

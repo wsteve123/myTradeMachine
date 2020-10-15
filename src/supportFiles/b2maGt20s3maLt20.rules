@@ -1,0 +1,56 @@
+//UserSelectedMaType
+None
+//Term Operation
+Close
+//equation Trigger
+None
+//equation Bars
+0
+//beg
+//idx
+0
+//Term strval
+Compare2MAs
+//Description
+3 BarMa <  20 BarMa
+//AndOr
+0
+//AndOrSelItem
+NONE
+//TermSelItem
+oCompareMAs
+//MovingAve
+3
+//CompareMAs
+//MovingAveB
+20
+//Operator
+<
+//end
+//Term Operation
+Open
+//equation Trigger
+
+//equation Bars
+0
+//beg
+//idx
+0
+//Term strval
+Compare2MAs
+//Description
+2 BarMa >  20 BarMa
+//AndOr
+0
+//AndOrSelItem
+NONE
+//TermSelItem
+oCompareMAs
+//MovingAve
+2
+//CompareMAs
+//MovingAveB
+20
+//Operator
+>
+//end

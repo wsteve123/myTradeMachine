@@ -1,0 +1,4020 @@
+BEG
+0
+ticker
+MSFT
+originalCost
+14665.93
+originalCostOverShoot
+121753.13
+currentCost
+2976.21
+runningPl
+-12.930000000000021
+runningPlPercent
+-0.08
+maxProfit
+50.75
+maxProfitPercent
+0.02
+maxLoss
+-254.13
+maxLossPercent
+-0.05
+sharesAtHand
+52
+numberOfTrades
+72
+numOfSharesToTrade
+26
+daysIn
+1
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160623
+maxLossDate
+20160901
+maxRuningProfitDate
+20160705
+maxRuningLossDate
+20160901
+OpenPosDateIn
+20161017
+maxRunningProfit
+187.82999999999998
+maxRunningLoss
+-208.69000000000003
+lastPrice
+57.09
+hysteresisDays
+0
+actSegTrade
+1
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+0
+segTrades3 - segOpen
+0
+segTrades4 - segOpen
+0
+segTrades5 - segOpen
+0
+segTrades0 - price
+57.4
+segTrades1 - price
+57.07
+segTrades2 - price
+57.23
+segTrades3 - price
+56.39
+segTrades4 - price
+56.21
+segTrades5 - price
+56.5
+segTrades0 - shares
+26
+segTrades1 - shares
+26
+segTrades2 - shares
+26
+segTrades3 - shares
+26
+segTrades4 - shares
+26
+segTrades5 - shares
+26
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+57.25
+segTradesOverShoot1 - price
+57.74
+segTradesOverShoot2 - price
+58.24
+segTradesOverShoot3 - price
+53.54
+segTradesOverShoot4 - price
+53.94
+segTradesOverShoot5 - price
+53.51
+segTradesOverShoot0 - shares
+39
+segTradesOverShoot1 - shares
+37
+segTradesOverShoot2 - shares
+37
+segTradesOverShoot3 - shares
+7
+segTradesOverShoot4 - shares
+6
+segTradesOverShoot5 - shares
+7
+END
+0
+BEG
+1
+ticker
+MCD
+originalCost
+12192.400000000001
+originalCostOverShoot
+0.0
+currentCost
+4348.859999999997
+runningPl
+137.18
+runningPlPercent
+1.12
+maxProfit
+39.6
+maxProfitPercent
+0.0
+maxLoss
+-53.44
+maxLossPercent
+-0.05
+sharesAtHand
+37
+numberOfTrades
+71
+numOfSharesToTrade
+79
+daysIn
+6
+daysOut
+1
+lastOperation
+SLD
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160706
+maxLossDate
+20160615
+maxRuningProfitDate
+20160927
+maxRuningLossDate
+20160615
+OpenPosDateIn
+20161004
+maxRunningProfit
+152.55
+maxRunningLoss
+-110.7
+lastPrice
+113.0
+hysteresisDays
+0
+actSegTrade
+3
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+0
+segTrades4 - segOpen
+0
+segTrades5 - segOpen
+0
+segTrades0 - price
+122.26
+segTrades1 - price
+114.78
+segTrades2 - price
+115.8
+segTrades3 - price
+115.42
+segTrades4 - price
+114.76
+segTrades5 - price
+114.46
+segTrades0 - shares
+12
+segTrades1 - shares
+13
+segTrades2 - shares
+12
+segTrades3 - shares
+12
+segTrades4 - shares
+13
+segTrades5 - shares
+13
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+0.0
+segTradesOverShoot1 - price
+0.0
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+0
+segTradesOverShoot1 - shares
+0
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+1
+BEG
+2
+ticker
+PM
+originalCost
+11716.400000000001
+originalCostOverShoot
+204219.52000000002
+currentCost
+7415.549999999998
+runningPl
+513.5200000000001
+runningPlPercent
+4.38
+maxProfit
+71.54
+maxProfitPercent
+0.02
+maxLoss
+-17.36
+maxLossPercent
+-0.01
+sharesAtHand
+75
+numberOfTrades
+85
+numOfSharesToTrade
+94
+daysIn
+2
+daysOut
+1
+lastOperation
+SLD
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160705
+maxLossDate
+20160816
+maxRuningProfitDate
+20160926
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161004
+maxRunningProfit
+528.0600000000001
+maxRunningLoss
+0.0
+lastPrice
+95.45
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+0
+segTrades0 - price
+98.77
+segTrades1 - price
+99.27
+segTrades2 - price
+99.52
+segTrades3 - price
+98.77
+segTrades4 - price
+98.04
+segTrades5 - price
+97.16
+segTrades0 - shares
+15
+segTrades1 - shares
+15
+segTrades2 - shares
+15
+segTrades3 - shares
+15
+segTrades4 - shares
+15
+segTrades5 - shares
+15
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+101.31
+segTradesOverShoot1 - price
+100.74
+segTradesOverShoot2 - price
+101.1
+segTradesOverShoot3 - price
+101.29
+segTradesOverShoot4 - price
+102.3
+segTradesOverShoot5 - price
+101.65
+segTradesOverShoot0 - shares
+2
+segTradesOverShoot1 - shares
+2
+segTradesOverShoot2 - shares
+2
+segTradesOverShoot3 - shares
+2
+segTradesOverShoot4 - shares
+2
+segTradesOverShoot5 - shares
+2
+END
+2
+BEG
+3
+ticker
+TGT
+originalCost
+14264.940000000002
+originalCostOverShoot
+147317.63
+currentCost
+7335.020000000002
+runningPl
+-966.3999999999997
+runningPlPercent
+-6.77
+maxProfit
+54.59
+maxProfitPercent
+0.03
+maxLoss
+-151.28
+maxLossPercent
+-0.04
+sharesAtHand
+105
+numberOfTrades
+67
+numOfSharesToTrade
+22
+daysIn
+30
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160816
+maxLossDate
+20160805
+maxRuningProfitDate
+20160510
+maxRuningLossDate
+20160805
+OpenPosDateIn
+20161017
+maxRunningProfit
+154.96
+maxRunningLoss
+-1026.3999999999999
+lastPrice
+67.47
+hysteresisDays
+0
+actSegTrade
+4
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+0
+segTrades0 - price
+72.56
+segTrades1 - price
+70.58
+segTrades2 - price
+70.55
+segTrades3 - price
+68.39
+segTrades4 - price
+67.45
+segTrades5 - price
+68.14
+segTrades0 - shares
+20
+segTrades1 - shares
+21
+segTrades2 - shares
+21
+segTrades3 - shares
+21
+segTrades4 - shares
+22
+segTrades5 - shares
+22
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+69.91
+segTradesOverShoot1 - price
+70.39
+segTradesOverShoot2 - price
+69.96
+segTradesOverShoot3 - price
+73.34
+segTradesOverShoot4 - price
+73.54
+segTradesOverShoot5 - price
+74.1
+segTradesOverShoot0 - shares
+31
+segTradesOverShoot1 - shares
+31
+segTradesOverShoot2 - shares
+31
+segTradesOverShoot3 - shares
+30
+segTradesOverShoot4 - shares
+30
+segTradesOverShoot5 - shares
+30
+END
+3
+BEG
+4
+ticker
+KO
+originalCost
+14531.2
+originalCostOverShoot
+5357.43
+currentCost
+8859.26
+runningPl
+272.01000000000005
+runningPlPercent
+1.87
+maxProfit
+35.64
+maxProfitPercent
+0.0
+maxLoss
+-21.77
+maxLossPercent
+0.0
+sharesAtHand
+209
+numberOfTrades
+84
+numOfSharesToTrade
+215
+daysIn
+7
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160708
+maxLossDate
+20160506
+maxRuningProfitDate
+20160926
+maxRuningLossDate
+20160511
+OpenPosDateIn
+20161006
+maxRunningProfit
+272.01000000000005
+maxRunningLoss
+-66.28
+lastPrice
+41.65
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+1
+segTrades0 - price
+43.69
+segTrades1 - price
+42.71
+segTrades2 - price
+42.51
+segTrades3 - price
+41.91
+segTrades4 - price
+41.82
+segTrades5 - price
+41.73
+segTrades0 - shares
+34
+segTrades1 - shares
+35
+segTrades2 - shares
+35
+segTrades3 - shares
+35
+segTrades4 - shares
+35
+segTrades5 - shares
+35
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+44.19
+segTradesOverShoot1 - price
+45.44
+segTradesOverShoot2 - price
+45.53
+segTradesOverShoot3 - price
+45.91
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+8
+segTradesOverShoot1 - shares
+8
+segTradesOverShoot2 - shares
+8
+segTradesOverShoot3 - shares
+8
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+4
+BEG
+5
+ticker
+COST
+originalCost
+13672.08
+originalCostOverShoot
+0.0
+currentCost
+5514.439999999999
+runningPl
+158.34
+runningPlPercent
+1.15
+maxProfit
+120.42
+maxProfitPercent
+0.06
+maxLoss
+-129.87
+maxLossPercent
+-0.01
+sharesAtHand
+34
+numberOfTrades
+56
+numOfSharesToTrade
+10
+daysIn
+1
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160712
+maxLossDate
+20160921
+maxRuningProfitDate
+20160816
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161017
+maxRunningProfit
+504.98
+maxRunningLoss
+0.0
+lastPrice
+149.21
+hysteresisDays
+0
+actSegTrade
+3
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+0
+segTrades5 - segOpen
+0
+segTrades0 - price
+167.49
+segTrades1 - price
+167.44
+segTrades2 - price
+167.8
+segTrades3 - price
+149.26
+segTrades4 - price
+151.13
+segTrades5 - price
+150.03
+segTrades0 - shares
+8
+segTrades1 - shares
+8
+segTrades2 - shares
+8
+segTrades3 - shares
+10
+segTrades4 - shares
+9
+segTrades5 - shares
+9
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+0.0
+segTradesOverShoot1 - price
+0.0
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+0
+segTradesOverShoot1 - shares
+0
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+5
+BEG
+6
+ticker
+WMT
+originalCost
+12128.71
+originalCostOverShoot
+53572.939999999995
+currentCost
+8807.44
+runningPl
+811.3099999999998
+runningPlPercent
+6.68
+maxProfit
+90.08
+maxProfitPercent
+0.01
+maxLoss
+-57.75
+maxLossPercent
+-0.03
+sharesAtHand
+129
+numberOfTrades
+72
+numOfSharesToTrade
+131
+daysIn
+5
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160519
+maxLossDate
+20160722
+maxRuningProfitDate
+20160929
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161014
+maxRunningProfit
+811.3099999999998
+maxRunningLoss
+0.0
+lastPrice
+68.29
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+1
+segTrades0 - price
+69.53
+segTrades1 - price
+68.22
+segTrades2 - price
+68.15
+segTrades3 - price
+67.49
+segTrades4 - price
+67.68
+segTrades5 - price
+68.65
+segTrades0 - shares
+21
+segTrades1 - shares
+21
+segTrades2 - shares
+22
+segTrades3 - shares
+22
+segTrades4 - shares
+22
+segTrades5 - shares
+21
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+71.96
+segTradesOverShoot1 - price
+73.62
+segTradesOverShoot2 - price
+73.58
+segTradesOverShoot3 - price
+70.46
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+30
+segTradesOverShoot1 - shares
+30
+segTradesOverShoot2 - shares
+30
+segTradesOverShoot3 - shares
+21
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+6
+BEG
+7
+ticker
+JNJ
+originalCost
+12177.78
+originalCostOverShoot
+22886.06
+currentCost
+8577.949999999999
+runningPl
+181.52999999999997
+runningPlPercent
+1.49
+maxProfit
+99.05
+maxProfitPercent
+0.07
+maxLoss
+-61.79
+maxLossPercent
+-0.04
+sharesAtHand
+72
+numberOfTrades
+66
+numOfSharesToTrade
+76
+daysIn
+1
+daysOut
+10
+lastOperation
+BOT
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160705
+maxLossDate
+20160908
+maxRuningProfitDate
+20160722
+maxRuningLossDate
+20160503
+OpenPosDateIn
+20161011
+maxRunningProfit
+409.05
+maxRunningLoss
+-115.39
+lastPrice
+118.19
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+1
+segTrades0 - price
+124.47
+segTrades1 - price
+117.93
+segTrades2 - price
+117.78
+segTrades3 - price
+118.3
+segTrades4 - price
+118.4
+segTrades5 - price
+117.95
+segTrades0 - shares
+12
+segTrades1 - shares
+12
+segTrades2 - shares
+12
+segTrades3 - shares
+12
+segTrades4 - shares
+12
+segTrades5 - shares
+12
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+108.99
+segTradesOverShoot1 - price
+108.49
+segTradesOverShoot2 - price
+109.92
+segTradesOverShoot3 - price
+110.67
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+13
+segTradesOverShoot1 - shares
+13
+segTradesOverShoot2 - shares
+13
+segTradesOverShoot3 - shares
+2
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+7
+BEG
+8
+ticker
+INTC
+originalCost
+14648.34
+originalCostOverShoot
+3238.4300000000003
+currentCost
+5950.389999999999
+runningPl
+215.52999999999992
+runningPlPercent
+1.47
+maxProfit
+84.95
+maxProfitPercent
+0.03
+maxLoss
+-55.35
+maxLossPercent
+-0.02
+sharesAtHand
+160
+numberOfTrades
+62
+numOfSharesToTrade
+40
+daysIn
+1
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160705
+maxLossDate
+20160520
+maxRuningProfitDate
+20161007
+maxRuningLossDate
+20160615
+OpenPosDateIn
+20161017
+maxRunningProfit
+215.52999999999992
+maxRunningLoss
+-257.53000000000003
+lastPrice
+37.48
+hysteresisDays
+0
+actSegTrade
+3
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+0
+segTrades5 - segOpen
+0
+segTrades0 - price
+37.11
+segTrades1 - price
+36.72
+segTrades2 - price
+37.45
+segTrades3 - price
+37.48
+segTrades4 - price
+34.64
+segTrades5 - price
+34.17
+segTrades0 - shares
+40
+segTrades1 - shares
+40
+segTrades2 - shares
+40
+segTrades3 - shares
+40
+segTrades4 - shares
+43
+segTrades5 - shares
+43
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+35.35
+segTradesOverShoot1 - price
+35.63
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+10
+segTradesOverShoot1 - shares
+10
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+8
+BEG
+9
+ticker
+CPB
+originalCost
+14428.97
+originalCostOverShoot
+0.0
+currentCost
+7337.7599999999975
+runningPl
+-381.48
+runningPlPercent
+-2.64
+maxProfit
+27.75
+maxProfitPercent
+0.0
+maxLoss
+-110.66
+maxLossPercent
+-0.02
+sharesAtHand
+119
+numberOfTrades
+49
+numOfSharesToTrade
+27
+daysIn
+0
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160822
+maxLossDate
+20160829
+maxRuningProfitDate
+empty
+maxRuningLossDate
+20161014
+OpenPosDateIn
+20161017
+maxRunningProfit
+0.0
+maxRunningLoss
+-381.48
+lastPrice
+53.66
+hysteresisDays
+0
+actSegTrade
+4
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+0
+segTrades0 - price
+66.76
+segTrades1 - price
+66.63
+segTrades2 - price
+66.43
+segTrades3 - price
+57.44
+segTrades4 - price
+53.64
+segTrades5 - price
+54.67
+segTrades0 - shares
+22
+segTrades1 - shares
+22
+segTrades2 - shares
+22
+segTrades3 - shares
+26
+segTrades4 - shares
+27
+segTrades5 - shares
+27
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+0.0
+segTradesOverShoot1 - price
+0.0
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+0
+segTradesOverShoot1 - shares
+0
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+9
+BEG
+10
+ticker
+GIS
+originalCost
+13381.150000000001
+originalCostOverShoot
+9330.470000000001
+currentCost
+8820.25
+runningPl
+-176.53
+runningPlPercent
+-1.31
+maxProfit
+27.5
+maxProfitPercent
+0.0
+maxLoss
+-170.15
+maxLossPercent
+-0.01
+sharesAtHand
+128
+numberOfTrades
+50
+numOfSharesToTrade
+145
+daysIn
+31
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160729
+maxLossDate
+20160720
+maxRuningProfitDate
+empty
+maxRuningLossDate
+20160720
+OpenPosDateIn
+20160909
+maxRunningProfit
+0.0
+maxRunningLoss
+-215.82
+lastPrice
+61.82
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+1
+segTrades0 - price
+70.89
+segTrades1 - price
+69.96
+segTrades2 - price
+70.47
+segTrades3 - price
+68.94
+segTrades4 - price
+67.67
+segTrades5 - price
+65.73
+segTrades0 - shares
+21
+segTrades1 - shares
+21
+segTrades2 - shares
+21
+segTrades3 - shares
+21
+segTrades4 - shares
+22
+segTrades5 - shares
+22
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+64.76
+segTradesOverShoot1 - price
+64.97
+segTradesOverShoot2 - price
+64.55
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+24
+segTradesOverShoot1 - shares
+24
+segTradesOverShoot2 - shares
+24
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+10
+BEG
+11
+ticker
+NKE
+originalCost
+14583.509999999998
+originalCostOverShoot
+252794.13999999998
+currentCost
+7351.829999999998
+runningPl
+-351.61000000000007
+runningPlPercent
+-2.41
+maxProfit
+120.4
+maxProfitPercent
+0.02
+maxLoss
+-117.3
+maxLossPercent
+-0.08
+sharesAtHand
+133
+numberOfTrades
+73
+numOfSharesToTrade
+175
+daysIn
+15
+daysOut
+1
+lastOperation
+SLD
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160627
+maxLossDate
+20160621
+maxRuningProfitDate
+20160504
+maxRuningLossDate
+20160621
+OpenPosDateIn
+20160930
+maxRunningProfit
+12.23
+maxRunningLoss
+-395.93
+lastPrice
+51.46
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+0
+segTrades0 - price
+56.8
+segTrades1 - price
+55.61
+segTrades2 - price
+55.59
+segTrades3 - price
+55.29
+segTrades4 - price
+53.25
+segTrades5 - price
+52.75
+segTrades0 - shares
+26
+segTrades1 - shares
+26
+segTrades2 - shares
+26
+segTrades3 - shares
+27
+segTrades4 - shares
+28
+segTrades5 - shares
+28
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+55.79
+segTradesOverShoot1 - price
+56.52
+segTradesOverShoot2 - price
+56.94
+segTradesOverShoot3 - price
+56.83
+segTradesOverShoot4 - price
+56.75
+segTradesOverShoot5 - price
+57.17
+segTradesOverShoot0 - shares
+6
+segTradesOverShoot1 - shares
+6
+segTradesOverShoot2 - shares
+6
+segTradesOverShoot3 - shares
+39
+segTradesOverShoot4 - shares
+39
+segTradesOverShoot5 - shares
+39
+END
+11
+BEG
+12
+ticker
+DIS
+originalCost
+11893.99
+originalCostOverShoot
+0.0
+currentCost
+5834.24
+runningPl
+3.3600000000000136
+runningPlPercent
+0.02
+maxProfit
+67.69
+maxProfitPercent
+0.03
+maxLoss
+-50.25
+maxLossPercent
+-0.01
+sharesAtHand
+64
+numberOfTrades
+70
+numOfSharesToTrade
+16
+daysIn
+7
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160419
+maxLossDate
+20161006
+maxRuningProfitDate
+20160708
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161017
+maxRunningProfit
+296.0
+maxRunningLoss
+0.0
+lastPrice
+90.93
+hysteresisDays
+0
+actSegTrade
+3
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+0
+segTrades5 - segOpen
+0
+segTrades0 - price
+91.81
+segTrades1 - price
+90.39
+segTrades2 - price
+91.51
+segTrades3 - price
+90.93
+segTrades4 - price
+95.38
+segTrades5 - price
+94.77
+segTrades0 - shares
+16
+segTrades1 - shares
+16
+segTrades2 - shares
+16
+segTrades3 - shares
+16
+segTrades4 - shares
+15
+segTrades5 - shares
+15
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+0.0
+segTradesOverShoot1 - price
+0.0
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+0
+segTradesOverShoot1 - shares
+0
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+12
+BEG
+13
+ticker
+VZ
+originalCost
+12382.949999999999
+originalCostOverShoot
+133029.66
+currentCost
+7341.789999999996
+runningPl
+-862.8999999999999
+runningPlPercent
+-6.96
+maxProfit
+31.71
+maxProfitPercent
+0.0
+maxLoss
+-136.79
+maxLossPercent
+-0.08
+sharesAtHand
+143
+numberOfTrades
+63
+numOfSharesToTrade
+29
+daysIn
+4
+daysOut
+1
+lastOperation
+SLD
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160531
+maxLossDate
+20160715
+maxRuningProfitDate
+20160601
+maxRuningLossDate
+20160929
+OpenPosDateIn
+20161010
+maxRunningProfit
+45.31
+maxRunningLoss
+-869.8599999999999
+lastPrice
+50.42
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+0
+segTrades0 - price
+55.46
+segTrades1 - price
+51.31
+segTrades2 - price
+50.08
+segTrades3 - price
+50.04
+segTrades4 - price
+50.1
+segTrades5 - price
+50.18
+segTrades0 - shares
+27
+segTrades1 - shares
+29
+segTrades2 - shares
+29
+segTrades3 - shares
+29
+segTrades4 - shares
+29
+segTrades5 - shares
+29
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+51.33
+segTradesOverShoot1 - price
+51.39
+segTradesOverShoot2 - price
+51.58
+segTradesOverShoot3 - price
+52.5
+segTradesOverShoot4 - price
+52.68
+segTradesOverShoot5 - price
+52.79
+segTradesOverShoot0 - shares
+30
+segTradesOverShoot1 - shares
+30
+segTradesOverShoot2 - shares
+30
+segTradesOverShoot3 - shares
+30
+segTradesOverShoot4 - shares
+28
+segTradesOverShoot5 - shares
+42
+END
+13
+BEG
+14
+ticker
+T
+originalCost
+12377.02
+originalCostOverShoot
+0.0
+currentCost
+7389.259999999998
+runningPl
+219.04000000000002
+runningPlPercent
+1.76
+maxProfit
+48.84
+maxProfitPercent
+0.01
+maxLoss
+-51.45
+maxLossPercent
+-0.03
+sharesAtHand
+184
+numberOfTrades
+61
+numOfSharesToTrade
+38
+daysIn
+5
+daysOut
+1
+lastOperation
+SLD
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160927
+maxLossDate
+20160929
+maxRuningProfitDate
+20160928
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161007
+maxRunningProfit
+252.25000000000003
+maxRunningLoss
+0.0
+lastPrice
+39.36
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+0
+segTrades0 - price
+42.31
+segTrades1 - price
+40.66
+segTrades2 - price
+40.09
+segTrades3 - price
+38.98
+segTrades4 - price
+38.95
+segTrades5 - price
+38.88
+segTrades0 - shares
+35
+segTrades1 - shares
+36
+segTrades2 - shares
+37
+segTrades3 - shares
+38
+segTrades4 - shares
+38
+segTrades5 - shares
+38
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+0.0
+segTradesOverShoot1 - price
+0.0
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+0
+segTradesOverShoot1 - shares
+0
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+14
+BEG
+15
+ticker
+CSCO
+originalCost
+14713.400000000001
+originalCostOverShoot
+232600.55
+currentCost
+8905.25
+runningPl
+182.47999999999996
+runningPlPercent
+1.24
+maxProfit
+86.35
+maxProfitPercent
+0.05
+maxLoss
+-90.75
+maxLossPercent
+-0.01
+sharesAtHand
+290
+numberOfTrades
+80
+numOfSharesToTrade
+296
+daysIn
+1
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160707
+maxLossDate
+20160822
+maxRuningProfitDate
+20160708
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161014
+maxRunningProfit
+296.46
+maxRunningLoss
+0.0
+lastPrice
+30.34
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+1
+segTrades0 - price
+31.39
+segTrades1 - price
+31.45
+segTrades2 - price
+31.2
+segTrades3 - price
+30.12
+segTrades4 - price
+29.97
+segTrades5 - price
+30.2
+segTrades0 - shares
+47
+segTrades1 - shares
+47
+segTrades2 - shares
+48
+segTrades3 - shares
+49
+segTrades4 - shares
+50
+segTrades5 - shares
+49
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+31.14
+segTradesOverShoot1 - price
+31.36
+segTradesOverShoot2 - price
+31.64
+segTradesOverShoot3 - price
+31.08
+segTradesOverShoot4 - price
+29.75
+segTradesOverShoot5 - price
+30.49
+segTradesOverShoot0 - shares
+12
+segTradesOverShoot1 - shares
+11
+segTradesOverShoot2 - shares
+11
+segTradesOverShoot3 - shares
+12
+segTradesOverShoot4 - shares
+12
+segTradesOverShoot5 - shares
+73
+END
+15
+BEG
+16
+ticker
+JPM
+originalCost
+13365.86
+originalCostOverShoot
+356478.98
+currentCost
+11071.5
+runningPl
+1140.3499999999995
+runningPlPercent
+8.53
+maxProfit
+139.87
+maxProfitPercent
+0.04
+maxLoss
+-41.25
+maxLossPercent
+0.0
+sharesAtHand
+-165
+numberOfTrades
+85
+numOfSharesToTrade
+33
+daysIn
+1
+daysOut
+12
+lastOperation
+BOT
+didWeTradeToday
+YES
+curTrend
+trendUp
+maxProfitDate
+20160713
+maxLossDate
+20160914
+maxRuningProfitDate
+20160804
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161005
+maxRunningProfit
+1191.9399999999994
+maxRunningLoss
+0.0
+lastPrice
+67.35
+hysteresisDays
+0
+actSegTrade
+0
+segTrades0 - segOpen
+0
+segTrades1 - segOpen
+0
+segTrades2 - segOpen
+0
+segTrades3 - segOpen
+0
+segTrades4 - segOpen
+0
+segTrades5 - segOpen
+0
+segTrades0 - price
+66.3
+segTrades1 - price
+61.29
+segTrades2 - price
+57.49
+segTrades3 - price
+58.41
+segTrades4 - price
+59.09
+segTrades5 - price
+0.0
+segTrades0 - shares
+22
+segTrades1 - shares
+24
+segTrades2 - shares
+26
+segTrades3 - shares
+25
+segTrades4 - shares
+25
+segTrades5 - shares
+0
+actSegTradeOverShoot
+5
+segTradesOverShoot0 - segOpen
+1
+segTradesOverShoot1 - segOpen
+1
+segTradesOverShoot2 - segOpen
+1
+segTradesOverShoot3 - segOpen
+1
+segTradesOverShoot4 - segOpen
+1
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+67.21
+segTradesOverShoot1 - price
+67.68
+segTradesOverShoot2 - price
+66.98
+segTradesOverShoot3 - price
+66.81
+segTradesOverShoot4 - price
+66.82
+segTradesOverShoot5 - price
+67.76
+segTradesOverShoot0 - shares
+33
+segTradesOverShoot1 - shares
+33
+segTradesOverShoot2 - shares
+33
+segTradesOverShoot3 - shares
+33
+segTradesOverShoot4 - shares
+33
+segTradesOverShoot5 - shares
+33
+END
+16
+BEG
+17
+ticker
+ADSK
+originalCost
+15160.279999999999
+originalCostOverShoot
+471.08000000000004
+currentCost
+8759.73
+runningPl
+1538.3400000000004
+runningPlPercent
+10.14
+maxProfit
+201.26
+maxProfitPercent
+0.09
+maxLoss
+-26.0
+maxLossPercent
+-0.01
+sharesAtHand
+125
+numberOfTrades
+72
+numOfSharesToTrade
+21
+daysIn
+1
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160714
+maxLossDate
+20160601
+maxRuningProfitDate
+20160923
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161017
+maxRunningProfit
+1538.3400000000004
+maxRunningLoss
+0.0
+lastPrice
+69.21
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+1
+segTrades0 - price
+71.61
+segTrades1 - price
+71.05
+segTrades2 - price
+70.38
+segTrades3 - price
+68.84
+segTrades4 - price
+69.5
+segTrades5 - price
+69.16
+segTrades0 - shares
+20
+segTrades1 - shares
+21
+segTrades2 - shares
+21
+segTrades3 - shares
+21
+segTrades4 - shares
+21
+segTrades5 - shares
+21
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+58.39
+segTradesOverShoot1 - price
+0.0
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+4
+segTradesOverShoot1 - shares
+0
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+17
+BEG
+18
+ticker
+ORCL
+originalCost
+12277.650000000001
+originalCostOverShoot
+260378.78
+currentCost
+8891.439999999999
+runningPl
+882.5099999999999
+runningPlPercent
+7.18
+maxProfit
+99.05
+maxProfitPercent
+0.04
+maxLoss
+-24.2
+maxLossPercent
+-0.01
+sharesAtHand
+227
+numberOfTrades
+82
+numOfSharesToTrade
+235
+daysIn
+12
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160630
+maxLossDate
+20160728
+maxRuningProfitDate
+20160914
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161011
+maxRunningProfit
+897.7099999999998
+maxRunningLoss
+0.0
+lastPrice
+38.26
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+1
+segTrades0 - price
+40.61
+segTrades1 - price
+39.11
+segTrades2 - price
+39.22
+segTrades3 - price
+39.23
+segTrades4 - price
+38.84
+segTrades5 - price
+38.11
+segTrades0 - shares
+36
+segTrades1 - shares
+38
+segTrades2 - shares
+38
+segTrades3 - shares
+38
+segTrades4 - shares
+38
+segTrades5 - shares
+39
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+41.25
+segTradesOverShoot1 - price
+41.19
+segTradesOverShoot2 - price
+41.04
+segTradesOverShoot3 - price
+41.37
+segTradesOverShoot4 - price
+41.21
+segTradesOverShoot5 - price
+41.26
+segTradesOverShoot0 - shares
+54
+segTradesOverShoot1 - shares
+54
+segTradesOverShoot2 - shares
+54
+segTradesOverShoot3 - shares
+54
+segTradesOverShoot4 - shares
+54
+segTradesOverShoot5 - shares
+54
+END
+18
+BEG
+19
+ticker
+ADBE
+originalCost
+14511.49
+originalCostOverShoot
+0.0
+currentCost
+8526.6
+runningPl
+995.55
+runningPlPercent
+6.86
+maxProfit
+139.2
+maxProfitPercent
+0.03
+maxLoss
+-29.89
+maxLossPercent
+-0.01
+sharesAtHand
+79
+numberOfTrades
+70
+numOfSharesToTrade
+83
+daysIn
+1
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160922
+maxLossDate
+20160707
+maxRuningProfitDate
+20160927
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161014
+maxRunningProfit
+995.55
+maxRunningLoss
+0.0
+lastPrice
+107.97
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+1
+segTrades0 - price
+108.15
+segTrades1 - price
+108.41
+segTrades2 - price
+107.68
+segTrades3 - price
+108.06
+segTrades4 - price
+107.15
+segTrades5 - price
+108.2
+segTrades0 - shares
+13
+segTrades1 - shares
+13
+segTrades2 - shares
+13
+segTrades3 - shares
+13
+segTrades4 - shares
+14
+segTrades5 - shares
+13
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+0.0
+segTradesOverShoot1 - price
+0.0
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+0
+segTradesOverShoot1 - shares
+0
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+19
+BEG
+20
+ticker
+MRK
+originalCost
+15935.79
+originalCostOverShoot
+331688.03
+currentCost
+8821.279999999999
+runningPl
+330.45
+runningPlPercent
+2.07
+maxProfit
+110.5
+maxProfitPercent
+0.06
+maxLoss
+-43.67
+maxLossPercent
+-0.01
+sharesAtHand
+141
+numberOfTrades
+78
+numOfSharesToTrade
+146
+daysIn
+1
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160809
+maxLossDate
+20160428
+maxRuningProfitDate
+20161010
+maxRuningLossDate
+20160516
+OpenPosDateIn
+20161012
+maxRunningProfit
+330.45
+maxRunningLoss
+-155.36
+lastPrice
+61.36
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+1
+segTrades0 - price
+63.12
+segTrades1 - price
+63.31
+segTrades2 - price
+62.35
+segTrades3 - price
+62.19
+segTrades4 - price
+62.61
+segTrades5 - price
+61.85
+segTrades0 - shares
+23
+segTrades1 - shares
+23
+segTrades2 - shares
+24
+segTrades3 - shares
+24
+segTrades4 - shares
+23
+segTrades5 - shares
+24
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+57.87
+segTradesOverShoot1 - price
+58.09
+segTradesOverShoot2 - price
+58.41
+segTradesOverShoot3 - price
+58.8
+segTradesOverShoot4 - price
+59.39
+segTradesOverShoot5 - price
+59.51
+segTradesOverShoot0 - shares
+37
+segTradesOverShoot1 - shares
+37
+segTradesOverShoot2 - shares
+37
+segTradesOverShoot3 - shares
+37
+segTradesOverShoot4 - shares
+37
+segTradesOverShoot5 - shares
+37
+END
+20
+BEG
+21
+ticker
+GE
+originalCost
+14656.16
+originalCostOverShoot
+0.0
+currentCost
+8904.61
+runningPl
+63.56999999999994
+runningPlPercent
+0.43
+maxProfit
+101.49
+maxProfitPercent
+0.06
+maxLoss
+-54.24
+maxLossPercent
+-0.01
+sharesAtHand
+298
+numberOfTrades
+60
+numOfSharesToTrade
+310
+daysIn
+5
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160705
+maxLossDate
+20160927
+maxRuningProfitDate
+20160809
+maxRuningLossDate
+20160601
+OpenPosDateIn
+20161010
+maxRunningProfit
+291.25
+maxRunningLoss
+-47.2
+lastPrice
+28.95
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+1
+segTrades0 - price
+31.26
+segTrades1 - price
+31.27
+segTrades2 - price
+29.49
+segTrades3 - price
+29.2
+segTrades4 - price
+29.13
+segTrades5 - price
+29.12
+segTrades0 - shares
+48
+segTrades1 - shares
+47
+segTrades2 - shares
+50
+segTrades3 - shares
+51
+segTrades4 - shares
+51
+segTrades5 - shares
+51
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+0.0
+segTradesOverShoot1 - price
+0.0
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+0
+segTradesOverShoot1 - shares
+0
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+21
+BEG
+22
+ticker
+EL
+originalCost
+14614.83
+originalCostOverShoot
+24000.61
+currentCost
+2985.3699999999994
+runningPl
+579.3000000000001
+runningPlPercent
+3.96
+maxProfit
+87.37
+maxProfitPercent
+0.04
+maxLoss
+-59.68
+maxLossPercent
+-0.02
+sharesAtHand
+34
+numberOfTrades
+96
+numOfSharesToTrade
+17
+daysIn
+7
+daysOut
+1
+lastOperation
+SLD
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160711
+maxLossDate
+20160923
+maxRuningProfitDate
+20160818
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161014
+maxRunningProfit
+809.09
+maxRunningLoss
+0.0
+lastPrice
+87.86
+hysteresisDays
+0
+actSegTrade
+2
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+0
+segTrades3 - segOpen
+0
+segTrades4 - segOpen
+0
+segTrades5 - segOpen
+0
+segTrades0 - price
+87.62
+segTrades1 - price
+87.99
+segTrades2 - price
+87.56
+segTrades3 - price
+91.94
+segTrades4 - price
+91.14
+segTrades5 - price
+91.03
+segTrades0 - shares
+17
+segTrades1 - shares
+17
+segTrades2 - shares
+17
+segTrades3 - shares
+16
+segTrades4 - shares
+16
+segTrades5 - shares
+16
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+88.58
+segTradesOverShoot1 - price
+94.48
+segTradesOverShoot2 - price
+95.37
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+24
+segTradesOverShoot1 - shares
+22
+segTradesOverShoot2 - shares
+16
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+22
+BEG
+23
+ticker
+HD
+originalCost
+13509.68
+originalCostOverShoot
+257.96
+currentCost
+5548.07
+runningPl
+-414.70000000000005
+runningPlPercent
+-3.06
+maxProfit
+63.0
+maxProfitPercent
+0.06
+maxLoss
+-88.2
+maxLossPercent
+-0.02
+sharesAtHand
+44
+numberOfTrades
+52
+numOfSharesToTrade
+11
+daysIn
+1
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160701
+maxLossDate
+20160928
+maxRuningProfitDate
+20160527
+maxRuningLossDate
+20161003
+OpenPosDateIn
+20161017
+maxRunningProfit
+56.11
+maxRunningLoss
+-420.41
+lastPrice
+125.77
+hysteresisDays
+0
+actSegTrade
+3
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+0
+segTrades5 - segOpen
+0
+segTrades0 - price
+126.52
+segTrades1 - price
+125.45
+segTrades2 - price
+126.62
+segTrades3 - price
+125.78
+segTrades4 - price
+136.51
+segTrades5 - price
+132.78
+segTrades0 - shares
+11
+segTrades1 - shares
+11
+segTrades2 - shares
+11
+segTrades3 - shares
+11
+segTrades4 - shares
+10
+segTrades5 - shares
+11
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+128.98
+segTradesOverShoot1 - price
+0.0
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+2
+segTradesOverShoot1 - shares
+0
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+23
+BEG
+24
+ticker
+LOW
+originalCost
+12139.64
+originalCostOverShoot
+0.0
+currentCost
+8826.16
+runningPl
+-252.73999999999987
+runningPlPercent
+-2.08
+maxProfit
+60.9
+maxProfitPercent
+0.06
+maxLoss
+-166.86
+maxLossPercent
+-0.1
+sharesAtHand
+124
+numberOfTrades
+62
+numOfSharesToTrade
+128
+daysIn
+1
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160523
+maxLossDate
+20161003
+maxRuningProfitDate
+20160805
+maxRuningLossDate
+20161003
+OpenPosDateIn
+20161013
+maxRunningProfit
+487.74000000000007
+maxRunningLoss
+-252.73999999999987
+lastPrice
+70.29
+hysteresisDays
+0
+actSegTrade
+5
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+1
+segTrades0 - price
+71.58
+segTrades1 - price
+71.78
+segTrades2 - price
+71.24
+segTrades3 - price
+70.41
+segTrades4 - price
+71.37
+segTrades5 - price
+70.74
+segTrades0 - shares
+20
+segTrades1 - shares
+20
+segTrades2 - shares
+21
+segTrades3 - shares
+21
+segTrades4 - shares
+21
+segTrades5 - shares
+21
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+0.0
+segTradesOverShoot1 - price
+0.0
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+0
+segTradesOverShoot1 - shares
+0
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+24
+BEG
+25
+ticker
+CLX
+originalCost
+15546.75
+originalCostOverShoot
+0.0
+currentCost
+5892.109999999999
+runningPl
+-258.58
+runningPlPercent
+-1.66
+maxProfit
+40.72
+maxProfitPercent
+0.01
+maxLoss
+-63.91
+maxLossPercent
+-0.04
+sharesAtHand
+48
+numberOfTrades
+66
+numOfSharesToTrade
+12
+daysIn
+6
+daysOut
+1
+lastOperation
+SLD
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160503
+maxLossDate
+20160927
+maxRuningProfitDate
+20160615
+maxRuningLossDate
+20160928
+OpenPosDateIn
+20161010
+maxRunningProfit
+176.45000000000002
+maxRunningLoss
+-264.09
+lastPrice
+122.37
+hysteresisDays
+0
+actSegTrade
+4
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+0
+segTrades5 - segOpen
+0
+segTrades0 - price
+124.04
+segTrades1 - price
+122.31
+segTrades2 - price
+121.69
+segTrades3 - price
+122.97
+segTrades4 - price
+122.0
+segTrades5 - price
+122.48
+segTrades0 - shares
+12
+segTrades1 - shares
+12
+segTrades2 - shares
+12
+segTrades3 - shares
+12
+segTrades4 - shares
+12
+segTrades5 - shares
+12
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+0.0
+segTradesOverShoot1 - price
+0.0
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+0
+segTradesOverShoot1 - shares
+0
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+25
+BEG
+26
+ticker
+FB
+originalCost
+12461.609999999999
+originalCostOverShoot
+0.0
+currentCost
+5614.619999999999
+runningPl
+585.0300000000002
+runningPlPercent
+4.69
+maxProfit
+107.82
+maxProfitPercent
+0.02
+maxLoss
+-38.48
+maxLossPercent
+-0.04
+sharesAtHand
+44
+numberOfTrades
+64
+numOfSharesToTrade
+11
+daysIn
+1
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+YES
+curTrend
+trendDN
+maxProfitDate
+20160428
+maxLossDate
+20160705
+maxRuningProfitDate
+20161012
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161017
+maxRunningProfit
+585.0300000000002
+maxRunningLoss
+0.0
+lastPrice
+128.06
+hysteresisDays
+0
+actSegTrade
+3
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+0
+segTrades5 - segOpen
+0
+segTrades0 - price
+126.82
+segTrades1 - price
+127.8
+segTrades2 - price
+127.73
+segTrades3 - price
+128.07
+segTrades4 - price
+127.55
+segTrades5 - price
+128.39
+segTrades0 - shares
+11
+segTrades1 - shares
+11
+segTrades2 - shares
+11
+segTrades3 - shares
+11
+segTrades4 - shares
+11
+segTrades5 - shares
+11
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+0.0
+segTradesOverShoot1 - price
+0.0
+segTradesOverShoot2 - price
+0.0
+segTradesOverShoot3 - price
+0.0
+segTradesOverShoot4 - price
+0.0
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+0
+segTradesOverShoot1 - shares
+0
+segTradesOverShoot2 - shares
+0
+segTradesOverShoot3 - shares
+0
+segTradesOverShoot4 - shares
+0
+segTradesOverShoot5 - shares
+0
+END
+26
+BEG
+27
+ticker
+AAPL
+originalCost
+13972.699999999999
+originalCostOverShoot
+238357.29
+currentCost
+0.0
+runningPl
+-723.4499999999998
+runningPlPercent
+-5.17
+maxProfit
+128.23
+maxProfitPercent
+0.08
+maxLoss
+-234.96
+maxLossPercent
+-0.05
+sharesAtHand
+0
+numberOfTrades
+76
+numOfSharesToTrade
+76
+daysIn
+1
+daysOut
+12
+lastOperation
+SLD
+didWeTradeToday
+NO
+curTrend
+trendUp
+maxProfitDate
+20160915
+maxLossDate
+20160824
+maxRuningProfitDate
+20160418
+maxRuningLossDate
+20160826
+OpenPosDateIn
+20161003
+maxRunningProfit
+78.38999999999999
+maxRunningLoss
+-1346.8899999999999
+lastPrice
+117.11
+hysteresisDays
+0
+actSegTrade
+0
+segTrades0 - segOpen
+0
+segTrades1 - segOpen
+0
+segTrades2 - segOpen
+0
+segTrades3 - segOpen
+0
+segTrades4 - segOpen
+0
+segTrades5 - segOpen
+0
+segTrades0 - price
+112.47
+segTrades1 - price
+113.78
+segTrades2 - price
+112.55
+segTrades3 - price
+112.73
+segTrades4 - price
+112.95
+segTrades5 - price
+95.9
+segTrades0 - shares
+13
+segTrades1 - shares
+13
+segTrades2 - shares
+13
+segTrades3 - shares
+13
+segTrades4 - shares
+13
+segTrades5 - shares
+15
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+97.44
+segTradesOverShoot1 - price
+97.42
+segTradesOverShoot2 - price
+97.39
+segTradesOverShoot3 - price
+98.49
+segTradesOverShoot4 - price
+98.88
+segTradesOverShoot5 - price
+100.03
+segTradesOverShoot0 - shares
+22
+segTradesOverShoot1 - shares
+22
+segTradesOverShoot2 - shares
+22
+segTradesOverShoot3 - shares
+22
+segTradesOverShoot4 - shares
+22
+segTradesOverShoot5 - shares
+21
+END
+27
+BEG
+28
+ticker
+PEP
+originalCost
+13134.63
+originalCostOverShoot
+231195.47999999998
+currentCost
+7404.32
+runningPl
+351.96
+runningPlPercent
+2.67
+maxProfit
+60.61
+maxProfitPercent
+0.03
+maxLoss
+-55.44
+maxLossPercent
+-0.02
+sharesAtHand
+70
+numberOfTrades
+89
+numOfSharesToTrade
+84
+daysIn
+1
+daysOut
+1
+lastOperation
+BOT
+didWeTradeToday
+NO
+curTrend
+trendDN
+maxProfitDate
+20160701
+maxLossDate
+20160726
+maxRuningProfitDate
+20160720
+maxRuningLossDate
+20160418
+OpenPosDateIn
+20161013
+maxRunningProfit
+355.54
+maxRunningLoss
+-13.420000000000002
+lastPrice
+106.88
+hysteresisDays
+0
+actSegTrade
+4
+segTrades0 - segOpen
+1
+segTrades1 - segOpen
+1
+segTrades2 - segOpen
+1
+segTrades3 - segOpen
+1
+segTrades4 - segOpen
+1
+segTrades5 - segOpen
+0
+segTrades0 - price
+105.93
+segTrades1 - price
+106.25
+segTrades2 - price
+105.29
+segTrades3 - price
+105.82
+segTrades4 - price
+105.59
+segTrades5 - price
+105.31
+segTrades0 - shares
+14
+segTrades1 - shares
+14
+segTrades2 - shares
+14
+segTrades3 - shares
+14
+segTrades4 - shares
+14
+segTrades5 - shares
+14
+actSegTradeOverShoot
+0
+segTradesOverShoot0 - segOpen
+0
+segTradesOverShoot1 - segOpen
+0
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+107.43
+segTradesOverShoot1 - price
+108.13
+segTradesOverShoot2 - price
+107.72
+segTradesOverShoot3 - price
+107.97
+segTradesOverShoot4 - price
+108.38
+segTradesOverShoot5 - price
+108.83
+segTradesOverShoot0 - shares
+19
+segTradesOverShoot1 - shares
+19
+segTradesOverShoot2 - shares
+19
+segTradesOverShoot3 - shares
+19
+segTradesOverShoot4 - shares
+19
+segTradesOverShoot5 - shares
+19
+END
+28
+BEG
+29
+ticker
+DOW
+originalCost
+13448.87
+originalCostOverShoot
+74735.56999999999
+currentCost
+4474.25
+runningPl
+541.0500000000001
+runningPlPercent
+4.02
+maxProfit
+60.03
+maxProfitPercent
+0.0
+maxLoss
+-37.38
+maxLossPercent
+-0.01
+sharesAtHand
+-84
+numberOfTrades
+80
+numOfSharesToTrade
+169
+daysIn
+1
+daysOut
+18
+lastOperation
+SLD
+didWeTradeToday
+NO
+curTrend
+trendUp
+maxProfitDate
+20161010
+maxLossDate
+20160810
+maxRuningProfitDate
+20161013
+maxRuningLossDate
+empty
+OpenPosDateIn
+20161014
+maxRunningProfit
+541.0500000000001
+maxRunningLoss
+0.0
+lastPrice
+53.22
+hysteresisDays
+0
+actSegTrade
+0
+segTrades0 - segOpen
+0
+segTrades1 - segOpen
+0
+segTrades2 - segOpen
+0
+segTrades3 - segOpen
+0
+segTrades4 - segOpen
+0
+segTrades5 - segOpen
+0
+segTrades0 - price
+51.71
+segTrades1 - price
+52.34
+segTrades2 - price
+52.72
+segTrades3 - price
+52.13
+segTrades4 - price
+50.14
+segTrades5 - price
+48.33
+segTrades0 - shares
+29
+segTrades1 - shares
+28
+segTrades2 - shares
+28
+segTrades3 - shares
+28
+segTrades4 - shares
+29
+segTrades5 - shares
+31
+actSegTradeOverShoot
+1
+segTradesOverShoot0 - segOpen
+1
+segTradesOverShoot1 - segOpen
+1
+segTradesOverShoot2 - segOpen
+0
+segTradesOverShoot3 - segOpen
+0
+segTradesOverShoot4 - segOpen
+0
+segTradesOverShoot5 - segOpen
+0
+segTradesOverShoot0 - price
+53.15
+segTradesOverShoot1 - price
+53.38
+segTradesOverShoot2 - price
+53.77
+segTradesOverShoot3 - price
+54.18
+segTradesOverShoot4 - price
+54.23
+segTradesOverShoot5 - price
+0.0
+segTradesOverShoot0 - shares
+42
+segTradesOverShoot1 - shares
+42
+segTradesOverShoot2 - shares
+40
+segTradesOverShoot3 - shares
+40
+segTradesOverShoot4 - shares
+40
+segTradesOverShoot5 - shares
+0
+END
+29

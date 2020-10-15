@@ -1,0 +1,32 @@
+//beg
+//idx
+0
+//Description
+10 Day Pivots + to - slope (/\)
+//AndOr
+1
+//AndOrSelItem
+AND
+//Term strval
+PivotalHL
+//TermSelItem
+oPivotalHL
+//end
+//beg
+//idx
+1
+//Description
+Hist Price is above 10 Day 60.0% of time last 100 Days
+//AndOr
+1
+//AndOrSelItem
+AND
+//Term strval
+Historical
+//TermSelItem
+oHistorical
+//PercentWithin
+60.0
+//DaysHistory
+100
+//end

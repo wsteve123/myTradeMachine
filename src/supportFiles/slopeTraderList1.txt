@@ -1,0 +1,5 @@
+TGT
+WMT
+PG
+AAPL
+YUM

@@ -1,0 +1,16 @@
+testBobReal1
+DU218375
+350000
+2.0
+0
+0
+0
+RDY
+empty criteria
+100
+3
+0
+0
+0
+0
+0

@@ -1,0 +1,85 @@
+
+
+Ticker: DGX(0)
+
+  Number of Pivot points: 15
+
+  Profit: 482.0 (9.09%) Max Profit: 526.0 Max Profit Date: 20140421
+  Max Loss: -119.0 Max Loss Date: 20141107 
+  Max Running Profit: 668.0 (12.6%)  Max Running Profit Date: 20140917
+  Max Running Loss: -90.0 (-1.7%) Max Running Loss Date: 20140305
+  Transactions: 15 Last Operation: Bought DaysIn: 125 DaysOut: 82
+  Current Trend: trendUp
+
+  Current Pos Value: 210.0
+  OverAllPl: 692.0 OverAllPl %: 13.06. Current Pos DateIn: 20141222
+
+
+Ticker: Q(1)
+
+  Number of Pivot points: 21
+
+  Profit: 73.0 (1.35%) Max Profit: 333.0 Max Profit Date: 20140619
+  Max Loss: -161.0 Max Loss Date: 20150107 
+  Max Running Profit: 277.0 (5.12%)  Max Running Profit Date: 20140724
+  Max Running Loss: -271.0 (-5.0%) Max Running Loss Date: 20140417
+  Transactions: 21 Last Operation: Bought DaysIn: 121 DaysOut: 104
+  Current Trend: trendUp
+
+  Current Pos Value: 51.0
+  OverAllPl: 124.0 OverAllPl %: 2.29. Current Pos DateIn: 20150120
+
+
+
+Exchange: NyseQ7  TotalNumOfTickers: 2  P2PDays: 5  Date:20150206
+
+
+SearchCriteria: 
+ *** search criteria *** AboveMA by  50day: 3% *** 100day: 80% *** 200day: 90% ***
+
+
+TotalCost: 10715.0
+
+
+CurrentTotals($):
+  CurrentProfits: 816.0  CurrentLosses: 0.0  P&L: 816.0  CurrentPercent: 7.62%
+  CurrentMaxProfit: 9.09%  CurrentMaxLoss: 0.0%
+
+
+RunningMaxTotals($):
+  RmProfits: 945.0  RmLosses: -361.0  RmP&L: 945.0  RmPercent: 8.82%
+  RmProfit: 12.6%  RmAveProfit: 8.86%  RmLoss: -5.0%  RmAveLoss: 0.0%
+
+
+CurrentTotalCounts:
+  CurrentProfits: 2  CurrentLosses: 0  CurrentPercent: 100.0%
+
+
+RunningMaxTotalCounts:
+  RmProfits: 2  RmLosses: 2  RmZeroLoss: 0
+
+
+CurrentProfitMap (Profit >= 0) 
+  00%-05%: 1    05%-10%: 0    10%-15%: 1    15%-20%: 0
+  20%-25%: 0    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+
+CurrentLossMap (Profit < 0) 
+  00%-05%: 0    05%-10%: 0    10%-15%: 0    15%-20%: 0
+  20%-25%: 0    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+
+RunningMaxProfitMap (Profit >= 0) 
+  00%-05%: 0    05%-10%: 1    10%-15%: 1    15%-20%: 0
+  20%-25%: 0    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+
+RunningMaxLossMap (Profit < 0) 
+  00%-05%: 2    05%-10%: 0    10%-15%: 0    15%-20%: 0
+  20%-25%: 0    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+Done.

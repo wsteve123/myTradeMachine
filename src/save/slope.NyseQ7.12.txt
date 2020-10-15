@@ -1,0 +1,694 @@
+
+
+Ticker: DGX(0)
+
+  Number of Pivot points: 15
+
+  Profit: 544.0 (10.39%) Max Profit: 526.0 Max Profit Date: 20140421
+  Max Loss: -119.0 Max Loss Date: 20141107 
+  Max Running Profit: 730.0 (13.94%)  Max Running Profit Date: 20140917
+  Max Running Loss: -28.0 (-0.53%) Max Running Loss Date: 20140305
+  Transactions: 15 Last Operation: Bought DaysIn: 124 DaysOut: 82
+  Current Trend: trendUp
+
+  Current Pos Value: 178.0
+  OverAllPl: 722.0 OverAllPl %: 13.78. Current Pos DateIn: 20141222
+
+
+Ticker: Q(1)
+
+  Number of Pivot points: 22
+
+  Profit: 189.0 (3.57%) Max Profit: 333.0 Max Profit Date: 20140619
+  Max Loss: -161.0 Max Loss Date: 20150107 
+  Max Running Profit: 405.0 (7.66%)  Max Running Profit Date: 20140724
+  Max Running Loss: -143.0 (-2.7%) Max Running Loss Date: 20140417
+  Transactions: 22 Last Operation: Sold DaysIn: 133 DaysOut: 105
+  Current Trend: trendDN
+
+
+Ticker: RPT(2)
+
+  Number of Pivot points: 20
+
+  Profit: 159.0 (9.6%) Max Profit: 155.0 Max Profit Date: 20150206
+  Max Loss: -48.0 Max Loss Date: 20140310 
+  Max Running Profit: 159.0 (9.6%)  Max Running Profit Date: 20150206
+  Max Running Loss: -135.0 (-8.15%) Max Running Loss Date: 20140915
+  Transactions: 20 Last Operation: Sold DaysIn: 143 DaysOut: 94
+  Current Trend: trendDN
+
+
+Ticker: RMAX(3)
+
+  Number of Pivot points: 20
+
+  Profit: -526.0 (-17.24%) Max Profit: 142.0 Max Profit Date: 20140623
+  Max Loss: -283.0 Max Loss Date: 20150130 
+  Max Running Profit: 4.0 (0.13%)  Max Running Profit Date: 20140326
+  Max Running Loss: -526.0 (-17.24%) Max Running Loss Date: 20150130
+  Transactions: 20 Last Operation: Sold DaysIn: 130 DaysOut: 102
+  Current Trend: trendDN
+
+
+Ticker: O(4)
+
+  Number of Pivot points: 14
+
+  Profit: 443.0 (10.06%) Max Profit: 335.0 Max Profit Date: 20141118
+  Max Loss: -261.0 Max Loss Date: 20140310 
+  Max Running Profit: 443.0 (10.06%)  Max Running Profit Date: 20150206
+  Max Running Loss: -261.0 (-5.93%) Max Running Loss Date: 20140310
+  Transactions: 14 Last Operation: Sold DaysIn: 149 DaysOut: 88
+  Current Trend: trendDN
+
+
+Ticker: RHT(5)
+
+  Number of Pivot points: 12
+
+  Profit: 886.0 (15.2%) Max Profit: 542.0 Max Profit Date: 20140711
+  Max Loss: -369.0 Max Loss Date: 20141015 
+  Max Running Profit: 1013.0 (17.38%)  Max Running Profit Date: 20141202
+  Max Running Loss: -87.0 (-1.49%) Max Running Loss Date: 20140313
+  Transactions: 12 Last Operation: Sold DaysIn: 120 DaysOut: 99
+  Current Trend: trendDN
+
+
+Ticker: REG(6)
+
+  Number of Pivot points: 16
+
+  Profit: 1074.0 (21.23%) Max Profit: 549.0 Max Profit Date: 20150206
+  Max Loss: -289.0 Max Loss Date: 20140912 
+  Max Running Profit: 1074.0 (21.23%)  Max Running Profit Date: 20150206
+  Max Running Loss: -71.0 (-1.4%) Max Running Loss Date: 20140311
+  Transactions: 16 Last Operation: Sold DaysIn: 176 DaysOut: 61
+  Current Trend: trendDN
+
+
+Ticker: RGS(7)
+
+  Number of Pivot points: 21
+
+  Profit: 47.0 (3.34%) Max Profit: 177.0 Max Profit Date: 20140924
+  Max Loss: -66.0 Max Loss Date: 20150116 
+  Max Running Profit: 175.0 (12.43%)  Max Running Profit Date: 20141125
+  Max Running Loss: -112.0 (-7.95%) Max Running Loss Date: 20140717
+  Transactions: 21 Last Operation: Bought DaysIn: 122 DaysOut: 114
+  Current Trend: trendUp
+
+  Current Pos Value: -5.0
+  OverAllPl: 42.0 OverAllPl %: 2.98. Current Pos DateIn: 20150205
+
+
+Ticker: RGA(8)
+
+  Number of Pivot points: 17
+
+  Profit: 116.0 (1.52%) Max Profit: 347.0 Max Profit Date: 20141212
+  Max Loss: -338.0 Max Loss Date: 20140429 
+  Max Running Profit: 211.0 (2.76%)  Max Running Profit Date: 20141212
+  Max Running Loss: -406.0 (-5.32%) Max Running Loss Date: 20140519
+  Transactions: 17 Last Operation: Bought DaysIn: 139 DaysOut: 96
+  Current Trend: trendUp
+
+  Current Pos Value: 188.0
+  OverAllPl: 304.0 OverAllPl %: 3.98. Current Pos DateIn: 20150204
+
+
+Ticker: RSG(9)
+
+  Number of Pivot points: 20
+
+  Profit: 219.0 (6.41%) Max Profit: 160.0 Max Profit Date: 20140711
+  Max Loss: -48.0 Max Loss Date: 20141106 
+  Max Running Profit: 323.0 (9.46%)  Max Running Profit Date: 20140904
+  Max Running Loss: -41.0 (-1.2%) Max Running Loss Date: 20140317
+  Transactions: 20 Last Operation: Sold DaysIn: 139 DaysOut: 96
+  Current Trend: trendDN
+
+
+Ticker: RMD(10)
+
+  Number of Pivot points: 15
+
+  Profit: 482.0 (11.02%) Max Profit: 438.0 Max Profit Date: 20140527
+  Max Loss: -40.0 Max Loss Date: 20141010 
+  Max Running Profit: 557.0 (12.74%)  Max Running Profit Date: 20140916
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 15 Last Operation: Bought DaysIn: 97 DaysOut: 86
+  Current Trend: trendUp
+
+  Current Pos Value: 1118.0
+  OverAllPl: 1600.0 OverAllPl %: 36.59. Current Pos DateIn: 20141118
+
+
+Ticker: RPAI(11)
+
+  Number of Pivot points: 14
+
+  Profit: 307.0 (22.23%) Max Profit: 168.0 Max Profit Date: 20150203
+  Max Loss: -46.0 Max Loss Date: 20140725 
+  Max Running Profit: 307.0 (22.23%)  Max Running Profit Date: 20150203
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 14 Last Operation: Sold DaysIn: 165 DaysOut: 69
+  Current Trend: trendDN
+
+
+Ticker: REV(12)
+
+  Number of Pivot points: 21
+
+  Profit: 459.0 (19.33%) Max Profit: 465.0 Max Profit Date: 20140512
+  Max Loss: -156.0 Max Loss Date: 20141216 
+  Max Running Profit: 767.0 (32.31%)  Max Running Profit Date: 20141114
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 21 Last Operation: Bought DaysIn: 128 DaysOut: 104
+  Current Trend: trendUp
+
+  Current Pos Value: 97.0
+  OverAllPl: 556.0 OverAllPl %: 23.42. Current Pos DateIn: 20150130
+
+
+Ticker: RLJ(13)
+
+  Number of Pivot points: 12
+
+  Profit: 616.0 (23.72%) Max Profit: 276.0 Max Profit Date: 20141118
+  Max Loss: -94.0 Max Loss Date: 20140915 
+  Max Running Profit: 616.0 (23.72%)  Max Running Profit Date: 20150202
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 12 Last Operation: Sold DaysIn: 177 DaysOut: 56
+  Current Trend: trendDN
+
+
+Ticker: RHI(14)
+
+  Number of Pivot points: 17
+
+  Profit: 860.0 (21.2%) Max Profit: 586.0 Max Profit Date: 20141128
+  Max Loss: -249.0 Max Loss Date: 20140807 
+  Max Running Profit: 947.0 (23.35%)  Max Running Profit Date: 20141128
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 17 Last Operation: Bought DaysIn: 150 DaysOut: 76
+  Current Trend: trendUp
+
+  Current Pos Value: 153.0
+  OverAllPl: 1013.0 OverAllPl %: 24.98. Current Pos DateIn: 20150122
+
+
+Ticker: ROP(15)
+
+  Number of Pivot points: 17
+
+  Profit: -212.0 (-1.57%) Max Profit: 788.0 Max Profit Date: 20140702
+  Max Loss: -856.0 Max Loss Date: 20150107 
+  Max Running Profit: 1386.0 (10.29%)  Max Running Profit Date: 20141118
+  Max Running Loss: -296.0 (-2.2%) Max Running Loss Date: 20140314
+  Transactions: 17 Last Operation: Bought DaysIn: 118 DaysOut: 111
+  Current Trend: trendUp
+
+  Current Pos Value: 550.0
+  OverAllPl: 338.0 OverAllPl %: 2.51. Current Pos DateIn: 20150127
+
+
+Ticker: RSE(16)
+
+  Number of Pivot points: 16
+
+  Profit: -101.0 (-5.3%) Max Profit: 126.0 Max Profit Date: 20141203
+  Max Loss: -148.0 Max Loss Date: 20140311 
+  Max Running Profit: 0.0 (0.0%)  Max Running Profit Date: null
+  Max Running Loss: -299.0 (-15.69%) Max Running Loss Date: 20140924
+  Transactions: 16 Last Operation: Sold DaysIn: 99 DaysOut: 128
+  Current Trend: trendDN
+
+
+Ticker: RCL(17)
+
+  Number of Pivot points: 18
+
+  Profit: 1055.0 (20.6%) Max Profit: 1844.0 Max Profit Date: 20150116
+  Max Loss: -592.0 Max Loss Date: 20150129 
+  Max Running Profit: 1647.0 (32.16%)  Max Running Profit Date: 20150116
+  Max Running Loss: -395.0 (-7.71%) Max Running Loss Date: 20140709
+  Transactions: 18 Last Operation: Sold DaysIn: 160 DaysOut: 71
+  Current Trend: trendDN
+
+
+Ticker: RHP(18)
+
+  Number of Pivot points: 17
+
+  Profit: 959.0 (22.77%) Max Profit: 670.0 Max Profit Date: 20150107
+  Max Loss: -160.0 Max Loss Date: 20141003 
+  Max Running Profit: 959.0 (22.77%)  Max Running Profit Date: 20150205
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 17 Last Operation: Bought DaysIn: 154 DaysOut: 84
+  Current Trend: trendUp
+
+  Current Pos Value: 0.0
+  OverAllPl: 959.0 OverAllPl %: 22.77. Current Pos DateIn: 20150209
+
+
+Ticker: SBH(19)
+
+  Number of Pivot points: 19
+
+  Profit: -218.0 (-7.56%) Max Profit: 128.0 Max Profit Date: 20140911
+  Max Loss: -186.0 Max Loss Date: 20140502 
+  Max Running Profit: 0.0 (0.0%)  Max Running Profit Date: null
+  Max Running Loss: -347.0 (-12.04%) Max Running Loss Date: 20140716
+  Transactions: 19 Last Operation: Bought DaysIn: 105 DaysOut: 124
+  Current Trend: trendUp
+
+  Current Pos Value: 185.0
+  OverAllPl: -33.0 OverAllPl %: -1.14. Current Pos DateIn: 20150127
+
+
+Ticker: SAIC(20)
+
+  Number of Pivot points: 23
+
+  Profit: -233.0 (-6.14%) Max Profit: 376.0 Max Profit Date: 20140711
+  Max Loss: -272.0 Max Loss Date: 20150130 
+  Max Running Profit: 172.0 (4.54%)  Max Running Profit Date: 20141120
+  Max Running Loss: -397.0 (-10.47%) Max Running Loss Date: 20140505
+  Transactions: 23 Last Operation: Bought DaysIn: 134 DaysOut: 104
+  Current Trend: trendUp
+
+  Current Pos Value: 0.0
+  OverAllPl: -233.0 OverAllPl %: -6.14. Current Pos DateIn: 20150209
+
+
+Ticker: SRE(21)
+
+  Number of Pivot points: 22
+
+  Profit: -398.0 (-4.23%) Max Profit: 272.0 Max Profit Date: 20141118
+  Max Loss: -654.0 Max Loss Date: 20141015 
+  Max Running Profit: 491.0 (5.22%)  Max Running Profit Date: 20140707
+  Max Running Loss: -398.0 (-4.23%) Max Running Loss Date: 20150205
+  Transactions: 22 Last Operation: Sold DaysIn: 154 DaysOut: 82
+  Current Trend: trendDN
+
+
+Ticker: ST(22)
+
+  Number of Pivot points: 13
+
+  Profit: 681.0 (16.69%) Max Profit: 419.0 Max Profit Date: 20140725
+  Max Loss: -160.0 Max Loss Date: 20140905 
+  Max Running Profit: 686.0 (16.81%)  Max Running Profit Date: 20150107
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 13 Last Operation: Bought DaysIn: 149 DaysOut: 83
+  Current Trend: trendUp
+
+  Current Pos Value: 292.0
+  OverAllPl: 973.0 OverAllPl %: 23.85. Current Pos DateIn: 20150130
+
+
+Ticker: SCI(23)
+
+  Number of Pivot points: 22
+
+  Profit: -88.0 (-4.69%) Max Profit: 80.0 Max Profit Date: 20140617
+  Max Loss: -103.0 Max Loss Date: 20140410 
+  Max Running Profit: 43.0 (2.29%)  Max Running Profit Date: 20140321
+  Max Running Loss: -88.0 (-4.69%) Max Running Loss Date: 20150209
+  Transactions: 22 Last Operation: Sold DaysIn: 141 DaysOut: 97
+  Current Trend: trendDN
+
+
+Ticker: NOW(24)
+
+  Number of Pivot points: 17
+
+  Profit: -7.0 (-0.1%) Max Profit: 411.0 Max Profit Date: 20140709
+  Max Loss: -406.0 Max Loss Date: 20140806 
+  Max Running Profit: 50.0 (0.74%)  Max Running Profit Date: 20140917
+  Max Running Loss: -366.0 (-5.39%) Max Running Loss Date: 20140425
+  Transactions: 17 Last Operation: Bought DaysIn: 98 DaysOut: 132
+  Current Trend: trendUp
+
+  Current Pos Value: 430.0
+  OverAllPl: 423.0 OverAllPl %: 6.23. Current Pos DateIn: 20150128
+
+
+Ticker: SHW(25)
+
+  Number of Pivot points: 15
+
+  Profit: -1434.0 (-7.19%) Max Profit: 275.0 Max Profit Date: 20140912
+  Max Loss: -756.0 Max Loss Date: 20140805 
+  Max Running Profit: 91.0 (0.46%)  Max Running Profit Date: 20140321
+  Max Running Loss: -1434.0 (-7.19%) Max Running Loss Date: 20141003
+  Transactions: 15 Last Operation: Bought DaysIn: 94 DaysOut: 69
+  Current Trend: trendUp
+
+  Current Pos Value: 4984.0
+  OverAllPl: 3550.0 OverAllPl %: 17.79. Current Pos DateIn: 20141021
+
+
+Ticker: SIG(26)
+
+  Number of Pivot points: 14
+
+  Profit: 2176.0 (22.81%) Max Profit: 1118.0 Max Profit Date: 20140918
+  Max Loss: -492.0 Max Loss Date: 20140515 
+  Max Running Profit: 2725.0 (28.57%)  Max Running Profit Date: 20141212
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 14 Last Operation: Sold DaysIn: 147 DaysOut: 85
+  Current Trend: trendDN
+
+
+Ticker: SPG(27)
+
+  Number of Pivot points: 16
+
+  Profit: 3872.5 (25.43%) Max Profit: 2284.0 Max Profit Date: 20150205
+  Max Loss: -433.0 Max Loss Date: 20140915 
+  Max Running Profit: 3872.5 (25.43%)  Max Running Profit Date: 20150205
+  Max Running Loss: -216.0 (-1.42%) Max Running Loss Date: 20140319
+  Transactions: 16 Last Operation: Sold DaysIn: 176 DaysOut: 60
+  Current Trend: trendDN
+
+
+Ticker: SKX(28)
+
+  Number of Pivot points: 19
+
+  Profit: 1592.0 (47.0%) Max Profit: 1216.0 Max Profit Date: 20140922
+  Max Loss: -403.0 Max Loss Date: 20141023 
+  Max Running Profit: 1766.0 (52.14%)  Max Running Profit Date: 20141212
+  Max Running Loss: -380.0 (-11.22%) Max Running Loss Date: 20140414
+  Transactions: 19 Last Operation: Bought DaysIn: 166 DaysOut: 64
+  Current Trend: trendUp
+
+  Current Pos Value: -186.0
+  OverAllPl: 1406.0 OverAllPl %: 41.51. Current Pos DateIn: 20150128
+
+
+Ticker: SLG(29)
+
+  Number of Pivot points: 12
+
+  Profit: 2875.0 (29.0%) Max Profit: 1286.0 Max Profit Date: 20140619
+  Max Loss: -245.0 Max Loss Date: 20140731 
+  Max Running Profit: 2875.0 (29.0%)  Max Running Profit Date: 20150203
+  Max Running Loss: -63.0 (-0.64%) Max Running Loss Date: 20140314
+  Transactions: 12 Last Operation: Sold DaysIn: 159 DaysOut: 75
+  Current Trend: trendDN
+
+
+Ticker: SNA(30)
+
+  Number of Pivot points: 21
+
+  Profit: -424.0 (-3.8%) Max Profit: 568.0 Max Profit Date: 20141201
+  Max Loss: -482.0 Max Loss Date: 20150107 
+  Max Running Profit: 247.0 (2.21%)  Max Running Profit Date: 20141201
+  Max Running Loss: -469.0 (-4.2%) Max Running Loss Date: 20140804
+  Transactions: 21 Last Operation: Bought DaysIn: 137 DaysOut: 99
+  Current Trend: trendUp
+
+  Current Pos Value: 186.0
+  OverAllPl: -238.0 OverAllPl %: -2.13. Current Pos DateIn: 20150205
+
+
+Ticker: SWI(31)
+
+  Number of Pivot points: 19
+
+  Profit: 225.0 (4.97%) Max Profit: 833.0 Max Profit Date: 20141212
+  Max Loss: -268.0 Max Loss Date: 20140502 
+  Max Running Profit: 584.0 (12.91%)  Max Running Profit Date: 20141212
+  Max Running Loss: -619.0 (-13.68%) Max Running Loss Date: 20140624
+  Transactions: 19 Last Operation: Bought DaysIn: 111 DaysOut: 127
+  Current Trend: trendUp
+
+  Current Pos Value: 0.0
+  OverAllPl: 225.0 OverAllPl %: 4.97. Current Pos DateIn: 20150209
+
+
+Ticker: LUV(32)
+
+  Number of Pivot points: 18
+
+  Profit: 681.0 (30.54%) Max Profit: 508.0 Max Profit Date: 20141126
+  Max Loss: -253.0 Max Loss Date: 20150209 
+  Max Running Profit: 1246.0 (55.87%)  Max Running Profit Date: 20141126
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 18 Last Operation: Sold DaysIn: 177 DaysOut: 61
+  Current Trend: trendDN
+
+
+Ticker: SSS(33)
+
+  Number of Pivot points: 21
+
+  Profit: 267.0 (3.61%) Max Profit: 895.0 Max Profit Date: 20141118
+  Max Loss: -567.0 Max Loss Date: 20140915 
+  Max Running Profit: 267.0 (3.61%)  Max Running Profit Date: 20141217
+  Max Running Loss: -717.0 (-9.69%) Max Running Loss Date: 20140915
+  Transactions: 21 Last Operation: Bought DaysIn: 136 DaysOut: 70
+  Current Trend: trendUp
+
+  Current Pos Value: 687.0
+  OverAllPl: 954.0 OverAllPl %: 12.9. Current Pos DateIn: 20141222
+
+
+Ticker: SPR(34)
+
+  Number of Pivot points: 17
+
+  Profit: 381.0 (13.37%) Max Profit: 249.0 Max Profit Date: 20141212
+  Max Loss: -193.0 Max Loss Date: 20140407 
+  Max Running Profit: 463.0 (16.25%)  Max Running Profit Date: 20141212
+  Max Running Loss: -131.0 (-4.6%) Max Running Loss Date: 20140407
+  Transactions: 17 Last Operation: Bought DaysIn: 134 DaysOut: 93
+  Current Trend: trendUp
+
+  Current Pos Value: 426.0
+  OverAllPl: 807.0 OverAllPl %: 28.32. Current Pos DateIn: 20150123
+
+
+Ticker: LEAF(35)
+
+  Number of Pivot points: 17
+
+  Profit: 241.0 (8.58%) Max Profit: 321.0 Max Profit Date: 20140919
+  Max Loss: -223.0 Max Loss Date: 20140313 
+  Max Running Profit: 372.0 (13.24%)  Max Running Profit Date: 20141210
+  Max Running Loss: -332.0 (-11.82%) Max Running Loss Date: 20140519
+  Transactions: 17 Last Operation: Bought DaysIn: 129 DaysOut: 106
+  Current Trend: trendUp
+
+  Current Pos Value: 57.0
+  OverAllPl: 298.0 OverAllPl %: 10.61. Current Pos DateIn: 20150204
+
+
+Ticker: SWK(36)
+
+  Number of Pivot points: 19
+
+  Profit: -74.0 (-0.91%) Max Profit: 465.0 Max Profit Date: 20141126
+  Max Loss: -339.0 Max Loss Date: 20140410 
+  Max Running Profit: 264.0 (3.23%)  Max Running Profit Date: 20141126
+  Max Running Loss: -458.0 (-5.6%) Max Running Loss Date: 20140410
+  Transactions: 19 Last Operation: Bought DaysIn: 137 DaysOut: 96
+  Current Trend: trendUp
+
+  Current Pos Value: 81.0
+  OverAllPl: 7.0 OverAllPl %: 0.09. Current Pos DateIn: 20150202
+
+
+Ticker: STT(37)
+
+  Number of Pivot points: 15
+
+  Profit: -339.0 (-4.83%) Max Profit: 442.0 Max Profit Date: 20140807
+  Max Loss: -478.0 Max Loss Date: 20150107 
+  Max Running Profit: 392.0 (5.58%)  Max Running Profit Date: 20141120
+  Max Running Loss: -607.0 (-8.65%) Max Running Loss Date: 20140519
+  Transactions: 15 Last Operation: Bought DaysIn: 129 DaysOut: 108
+  Current Trend: trendUp
+
+  Current Pos Value: 2.0
+  OverAllPl: -337.0 OverAllPl %: -4.8. Current Pos DateIn: 20150206
+
+
+Ticker: STE(38)
+
+  Number of Pivot points: 15
+
+  Profit: 1164.0 (25.2%) Max Profit: 580.0 Max Profit Date: 20141124
+  Max Loss: -67.0 Max Loss Date: 20140716 
+  Max Running Profit: 1164.0 (25.2%)  Max Running Profit Date: 20150106
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 15 Last Operation: Bought DaysIn: 138 DaysOut: 90
+  Current Trend: trendUp
+
+  Current Pos Value: -154.0
+  OverAllPl: 1010.0 OverAllPl %: 21.87. Current Pos DateIn: 20150126
+
+
+Ticker: STL(39)
+
+  Number of Pivot points: 14
+
+  Profit: 121.0 (9.6%) Max Profit: 77.0 Max Profit Date: 20140926
+  Max Loss: -44.0 Max Loss Date: 20141212 
+  Max Running Profit: 215.0 (17.05%)  Max Running Profit Date: 20141117
+  Max Running Loss: -4.0 (-0.32%) Max Running Loss Date: 20140314
+  Transactions: 14 Last Operation: Sold DaysIn: 120 DaysOut: 116
+  Current Trend: trendDN
+
+
+Ticker: BEE(40)
+
+  Number of Pivot points: 20
+
+  Profit: 162.0 (16.12%) Max Profit: 114.0 Max Profit Date: 20140711
+  Max Loss: -39.0 Max Loss Date: 20150202 
+  Max Running Profit: 201.0 (20.0%)  Max Running Profit Date: 20150107
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 20 Last Operation: Sold DaysIn: 151 DaysOut: 82
+  Current Trend: trendDN
+
+
+Ticker: INN(41)
+
+  Number of Pivot points: 16
+
+  Profit: 129.0 (13.92%) Max Profit: 104.0 Max Profit Date: 20140717
+  Max Loss: -59.0 Max Loss Date: 20141013 
+  Max Running Profit: 129.0 (13.92%)  Max Running Profit Date: 20150203
+  Max Running Loss: -57.0 (-6.15%) Max Running Loss Date: 20140414
+  Transactions: 16 Last Operation: Sold DaysIn: 151 DaysOut: 83
+  Current Trend: trendDN
+
+
+Ticker: SUI(42)
+
+  Number of Pivot points: 13
+
+  Profit: 987.0 (22.25%) Max Profit: 455.0 Max Profit Date: 20141118
+  Max Loss: -104.0 Max Loss Date: 20140411 
+  Max Running Profit: 987.0 (22.25%)  Max Running Profit Date: 20141118
+  Max Running Loss: -104.0 (-2.34%) Max Running Loss Date: 20140411
+  Transactions: 13 Last Operation: Bought DaysIn: 115 DaysOut: 75
+  Current Trend: trendUp
+
+  Current Pos Value: 745.0
+  OverAllPl: 1732.0 OverAllPl %: 39.05. Current Pos DateIn: 20141128
+
+
+Ticker: SYY(43)
+
+  Number of Pivot points: 18
+
+  Profit: -234.0 (-6.5%) Max Profit: 129.0 Max Profit Date: 20141212
+  Max Loss: -122.0 Max Loss Date: 20150106 
+  Max Running Profit: 17.0 (0.47%)  Max Running Profit Date: 20140317
+  Max Running Loss: -234.0 (-6.5%) Max Running Loss Date: 20150128
+  Transactions: 18 Last Operation: Sold DaysIn: 128 DaysOut: 102
+  Current Trend: trendDN
+
+
+Ticker: TGT(44)
+
+  Number of Pivot points: 17
+
+  Profit: 591.0 (9.54%) Max Profit: 1139.0 Max Profit Date: 20141216
+  Max Loss: -405.0 Max Loss Date: 20140507 
+  Max Running Profit: 591.0 (9.54%)  Max Running Profit Date: 20150116
+  Max Running Loss: -743.0 (-11.99%) Max Running Loss Date: 20140507
+  Transactions: 17 Last Operation: Bought DaysIn: 150 DaysOut: 85
+  Current Trend: trendUp
+
+  Current Pos Value: 13.0
+  OverAllPl: 604.0 OverAllPl %: 9.75. Current Pos DateIn: 20150204
+
+
+Ticker: TCP(45)
+
+  Number of Pivot points: 19
+
+  Profit: -552.0 (-11.62%) Max Profit: 868.0 Max Profit Date: 20141204
+  Max Loss: -886.0 Max Loss Date: 20141014 
+  Max Running Profit: 344.0 (7.24%)  Max Running Profit Date: 20140916
+  Max Running Loss: -566.0 (-11.92%) Max Running Loss Date: 20141105
+  Transactions: 19 Last Operation: Bought DaysIn: 141 DaysOut: 88
+  Current Trend: trendUp
+
+  Current Pos Value: 5.0
+  OverAllPl: -547.0 OverAllPl %: -11.52. Current Pos DateIn: 20150127
+
+
+Ticker: TE(46)
+
+  Number of Pivot points: 20
+
+  Profit: 171.0 (10.3%) Max Profit: 150.0 Max Profit Date: 20141114
+  Max Loss: -63.0 Max Loss Date: 20150209 
+  Max Running Profit: 234.0 (14.1%)  Max Running Profit Date: 20141114
+  Max Running Loss: -10.0 (-0.6%) Max Running Loss Date: 20140306
+  Transactions: 20 Last Operation: Sold DaysIn: 146 DaysOut: 92
+  Current Trend: trendDN
+
+
+
+Exchange: NyseQ7  TotalNumOfTickers: 47  P2PDays: 5  Date:20150209
+
+
+SearchCriteria: 
+ *** search criteria *** AboveMA by  50day: 3% *** 100day: 80% *** 200day: 90% ***
+
+
+TotalCost: 243932.5
+
+
+CurrentTotals($):
+  CurrentProfits: 32658.5  CurrentLosses: -2735.0  P&L: 29923.5  CurrentPercent: 12.27%
+  CurrentMaxProfit: 47.0%  CurrentMaxLoss: -17.24%
+
+
+RunningMaxTotals($):
+  RmProfits: 32211.5  RmLosses: -11540.0  RmP&L: 32211.5  RmPercent: 13.21%
+  RmProfit: 55.87%  RmAveProfit: 14.73%  RmLoss: -17.24%  RmAveLoss: 0.0%
+
+
+CurrentTotalCounts:
+  CurrentProfits: 37  CurrentLosses: 10  CurrentPercent: 78.72%
+
+
+RunningMaxTotalCounts:
+  RmProfits: 47  RmLosses: 36  RmZeroLoss: 11
+
+
+CurrentProfitMap (Profit >= 0) 
+  00%-05%: 6    05%-10%: 5    10%-15%: 6    15%-20%: 3
+  20%-25%: 10    25%-30%: 3    30%-35%: 1    35%-40%: 2
+  40%-45$: 1    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+
+CurrentLossMap (Profit < 0) 
+  00%-05%: 5    05%-10%: 3    10%-15%: 1    15%-20%: 1
+  20%-25%: 0    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+
+RunningMaxProfitMap (Profit >= 0) 
+  00%-05%: 23    05%-10%: 7    10%-15%: 9    15%-20%: 5
+  20%-25%: 6    25%-30%: 4    30%-35%: 2    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 1    55%-60%: 1    >60%: 0
+
+
+RunningMaxLossMap (Profit < 0) 
+  00%-05%: 15    05%-10%: 12    10%-15%: 7    15%-20%: 2
+  20%-25%: 0    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+Done.

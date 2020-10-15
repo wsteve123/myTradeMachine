@@ -1,0 +1,193 @@
+Performance Data On 20160229:
+
+
+
+Ticker: AVB
+ Profit: 514.71 (6.0%)
+ Profit+Open: 516.06 (6.0%)
+ Max Profit: 657.72
+ Max Profit Date: 20160217
+ Max Loss: -62.88
+ Max Loss Date: 20150428
+ Trades: 113
+ ProfitPerTrade: 4.55
+ InitialInvestment: 7912.52
+ CurrentLiquidatingValue: 8428.58
+ BuyHoldPl: -351.56 (-4.0%)
+
+
+Ticker: CINF
+ Profit: 506.39 (6.0%)
+ Profit+Open: 386.87 (4.0%)
+ Max Profit: 511.07
+ Max Profit Date: 20151002
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 97
+ ProfitPerTrade: 5.22
+ InitialInvestment: 7972.33
+ CurrentLiquidatingValue: 8359.21
+ BuyHoldPl: 1286.98 (16.0%)
+
+
+Ticker: KO
+ Profit: 368.0 (4.0%)
+ Profit+Open: 378.56 (4.0%)
+ Max Profit: 397.6
+ Max Profit Date: 20150813
+ Max Loss: -27.84
+ Max Loss Date: 20151106
+ Trades: 109
+ ProfitPerTrade: 3.37
+ InitialInvestment: 7967.4
+ CurrentLiquidatingValue: 8345.96
+ BuyHoldPl: 491.95 (6.0%)
+
+
+Ticker: ED
+ Profit: 440.67 (5.0%)
+ Profit+Open: 436.47 (5.0%)
+ Max Profit: 696.41
+ Max Profit Date: 20151218
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 95
+ ProfitPerTrade: 4.63
+ InitialInvestment: 7991.09
+ CurrentLiquidatingValue: 8427.57
+ BuyHoldPl: 1128.4 (14.0%)
+
+
+Ticker: HCP
+ Profit: -344.58 (-4.0%)
+ Profit+Open: -344.58 (-4.0%)
+ Max Profit: 380.5
+ Max Profit Date: 20160223
+ Max Loss: -441.37
+ Max Loss Date: 20150618
+ Trades: 112
+ ProfitPerTrade: -3.07
+ InitialInvestment: 7978.71
+ CurrentLiquidatingValue: 7634.13
+ BuyHoldPl: -2404.51 (-30.0%)
+
+
+Ticker: JNJ
+ Profit: 1181.3 (14.000000000000002%)
+ Profit+Open: 1190.18 (14.0%)
+ Max Profit: 1181.3
+ Max Profit Date: 20160224
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 122
+ ProfitPerTrade: 9.68
+ InitialInvestment: 7987.2
+ CurrentLiquidatingValue: 9177.38
+ BuyHoldPl: 229.31 (2.0%)
+
+
+Ticker: KMB
+ Profit: 303.72 (3.0%)
+ Profit+Open: 282.06 (3.0%)
+ Max Profit: 539.52
+ Max Profit Date: 20150918
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 95
+ ProfitPerTrade: 3.19
+ InitialInvestment: 7919.04
+ CurrentLiquidatingValue: 8201.1
+ BuyHoldPl: 1611.84 (20.0%)
+
+
+Ticker: PEP
+ Profit: 683.93 (8.0%)
+ Profit+Open: 694.85 (8.0%)
+ Max Profit: 683.93
+ Max Profit Date: 20160229
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 115
+ ProfitPerTrade: 5.94
+ InitialInvestment: 7913.22
+ CurrentLiquidatingValue: 8608.08
+ BuyHoldPl: 224.92 (2.0%)
+
+
+Ticker: PG
+ Profit: -326.62 (-4.0%)
+ Profit+Open: -327.82 (-4.0%)
+ Max Profit: 219.39
+ Max Profit Date: 20150812
+ Max Loss: -445.35
+ Max Loss Date: 20151112
+ Trades: 95
+ ProfitPerTrade: -3.43
+ InitialInvestment: 7965.55
+ CurrentLiquidatingValue: 7637.73
+ BuyHoldPl: -407.95 (-5.0%)
+
+
+Ticker: PSA
+ Profit: 258.05 (3.0%)
+ Profit+Open: 265.37 (3.0%)
+ Max Profit: 377.69
+ Max Profit Date: 20150916
+ Max Loss: -1.67
+ Max Loss Date: 20150331
+ Trades: 86
+ ProfitPerTrade: 3.0
+ InitialInvestment: 7964.8
+ CurrentLiquidatingValue: 8230.18
+ BuyHoldPl: 2032.8 (25.0%)
+
+
+Ticker: O
+ Profit: -15.47 (0.0%)
+ Profit+Open: -355.55 (-4.0%)
+ Max Profit: 46.07
+ Max Profit Date: 20150330
+ Max Loss: -444.95
+ Max Loss Date: 20150611
+ Trades: 89
+ ProfitPerTrade: -0.17
+ InitialInvestment: 7993.84
+ CurrentLiquidatingValue: 7638.29
+ BuyHoldPl: 716.69 (8.0%)
+
+
+Ticker: NOBL
+ Profit: 1007.17 (12.0%)
+ Profit+Open: 993.65 (12.0%)
+ Max Profit: 1007.17
+ Max Profit Date: 20160217
+ Max Loss: 0.0
+ Max Loss Date: 
+ Trades: 109
+ ProfitPerTrade: 9.24
+ InitialInvestment: 7999.15
+ CurrentLiquidatingValue: 8992.8
+ BuyHoldPl: -257.48 (-3.0%)
+
+
+ portfolio.testKiplinger1_DU218373.txt
+  Total winners: 8 Total Losers: 3
+  Profits: 4256.8 Losses: -686.68
+  Overall PL: 3570.11
+  OpenPosValue : -4.19  (1)
+  OpenPosValueOverShoot : -340.07  (9.0)
+  OverallPl + openValue : 3565.91
+  OverALL : 4.07 %
+  InitalAccountValue: 87565.74
+  FinalAccountValue: 91135.84
+  BuyHoldPl: 4558.89
+  BuyHoldPlPercent: 5.2
+  Overall PLPercent: 0.41
+  MaxPositionGain: -15.47 OnDate: 20160229 Ticker: PSA
+  MaxPositionLoss: -445.35 OnDate: 20151112 Ticker: PG
+  MaxPortfolioGain: 4301.53 OnDate: 20160211
+  MaxPortfolioLoss: -63.32 OnDate: 20150522
+  MaxPortfolioGainWOpen: 4017.2 OnDate: 20160201
+  MaxPortfolioLossWOpen: -1292.98 OnDate: 20150608
+  RunningPlByLongs: 3006.35
+  RunningPlByShorts: 563.75

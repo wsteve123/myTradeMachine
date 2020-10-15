@@ -1,0 +1,138 @@
+
+Open/Close position when:
+
+	- Pivot triggers (low to high, high to low transitions based on moving average); No other factors.
+	- Closing Price; uses "days" parameter that is defined by user. 
+	  Open a position when closing price for last X days are above the moving average.
+	  Close a position when closing price for last X days are below the moving average.
+	- Trend Confirms. Used with Closing price above. This gives an appurtunity to re-enter the position if after X days after
+	  a position is closed, the trend confirms the orignal position. The position is then re-enterred. The days associated with
+	  this option represent a period of time where Closing prices are ignored. Nothing happens until the number of days 
+	  expire. At that point if the trend confirms the original trend, the position is re-enterred. By trend confirm, we mean 
+	  the trend must be up (for long pos), AND the closing price (of previos day) is above the moving average. This catches 
+	  "fake outs" where the original trend was not actually broken. 
+	   
+	- OR; you can OR any of the selected items above. If more than one of the above are selected, and OR is not selected, then
+	  the AND funtion is assumed.
+
+	Open Long Position
+	- Pivot. Low to high trend transition occures, triggers a buy.
+	- Closing Price. If for X days (associated with Closing Price), the closing price is above the moving average, trigger a Buy.
+	- Trend Confirms. Only used when a position is Closed based on Closing Price. Allow cool off period of X days before 
+	  evaluating the trend again to determine if the positin should be 
+	  re-enterred; After X days (cool off, nothing is evaluated), look at both previous days closing price AND the trend, to 
+	  determine if the posiiton is re-enterred. If confirmed, re-enter, othewise leave position closed.
+
+	Close Long Position
+	- Pivot. High to low trend transition occures, triggers a SELL.
+	- Closing Price. If for X days (associated with Closing Price), the closing price is below the moving average, trigger 
+	  a SELL. 
+	- Trend Confirms. Only used when a poition is Closed based on Closing Price. Allow cool off period of X days before 
+	  evaluating the trend again to determine if the positin should be 
+	  re-enterred; After X days (cool off, nothing is evaluated), evaluate both the previous days closing 
+	  price AND the trend, to determine if the posiiton is re-enterred. 
+	  If trend confirmed, re-enter, othewise leave position closed.
+ 
+	Open Short Position
+	- Pivot. High to Low trend transition occures, trigger a sell (sell to open).
+	- Closing Price. If for X days (associated iwth Closing Price), the closing price is below the moving average, 
+	  trigger a Sell (sell to open).
+	- Trend Confirms. Only used when a position is Closed based on Closing Price. Allow cool off period of X days 
+	  before evaluating the trend again to determine if the positin should be 
+	  re-enterred; After X days (cool off, nothing is evaluated), evaluate both the previous days closing 
+	  price AND the trend, to determine if the posiiton is re-enterred. 
+	  If trend confirmed, re-enter, othewise leave position closed. For short position, Trend must be down, and 
+ 	  previous day's closing price, is below the moving average. If this is true, the position is re-enterred. Otherwise not.
+
+	Close Short Position
+	- Pivot. Low to High trend transition occures, triggers a buy (buy to close).
+	- Closing Price. If for X days (associated with Closing Price), the closing price is above the moving average, trigger
+	  a Buy (buy to close).
+	- Trend Confirms. Only used when a position is Closed based on Closing price. Allow cool off period of X days 
+	  before evaluating the trend again to determine if the position should be 
+	  re-enterred; After X days (cool off, nothing is evaluated), evaluate both the previous days closing 
+	  price AND the trend, to determine if the posiiton is re-enterred. 
+	  If trend confirmed, re-enter, othewise leave position closed. For short position, Trend must be down, and 
+ 	  previous day's closing price, is below the moving average. If this is true, the position is re-enterred. Otherwise not.
+
+
+	Parameters
+
+	Pivot; no other parameters.
+
+	Closing Price. One parameter Field "Closing Days", enabled when this option is selected. Default is zero, user
+	enters an integer >= 0. Zero disables this option. If the Close Price is not selected, disable the field.
+
+	Trend Confirms. One parameter Field for "Hysterysis in Days", enabled when trend confirms option is selected. 
+	Default is zero, user enters an integer >= 0. Zero disables this option. If Trend Confirms is not selected, disable
+	the Hysterysis Days field.
+
+	notes:
+	go back X days in history, starting with yesterday minus X days (closing days). Look for consecutive days. 
+	For example: 
+	  Open Pivot only works as it does today.
+	  if openClosingDays is set and days is set to 5. This means 5 consecutive days starting with yesterday must have 
+	  closing values greater than the moving average. Count days above MA back X days. The result must equal the 
+	  xdays. If it does the condition is met. If the count is less than X days, the condition failed.
+	  if both Pivot AND openClosingDays is selected, both a Pivot must have occurred AND ClosingDays count must pass 
+ 	  before triggering a buy.
+
+	  Close Pivot works as it does today. 
+
+	  if closeClosingDays is set and closingDays is set to 2. This means 2 consecutev days starting with 
+	  yesterday must have closing values below MA. Count days below MA back X days. The result must equal Xdays. 
+ 	  If equal, the condition is met, and the position is closed.  
+ 
+	  If Re-open in XDays is set and XDays is set to 3 days. This means, that after a position is closed because of 
+	  closeDays happenned, the position is in idle (no trade state), for 3 full days. During these days, the position  
+	  is ignored, skipped. On the fourth day, if the postion is trading greater than the MA AND the trend confirms UP, 
+	  re-enter the position, trigger a buy. At this point, the process starts again. 
+	  
+	  For openClosingDays, Need to count back in time number of days closing values were either above or below that days MA. 
+	  Same for ClosingDays; both above and below MA, depending if Long or Short. The count must equal the Days value. 
+	  
+	  For Re-open in XDays, each position needs remember that a postioin was closed because of ClosingDays. And 
+	  count (re-openDays) days, where nothing is done. We can call this Hysterysis, a boolean, that when first set true, a 
+	  Hysterysis Day count is set to Re-openDays value. Every new day, going forward, this HysterysisDay Count is 
+	  decremented by one. If the value is then zero, time has elapsed, and the very next day, we look to see if yesterdays 
+	  closing value is either above or below the MA (depends on longShort) AND that the trend confirms (Up/Dn), depending 
+	  on long or short. If true and trend confirms, the position is re-opened. 
+	  So this means, a counter called hysterysisCnt is added to each position and stored to file. This Cnt is set to re-openDays 
+	  initially, and as long as it is not zero when decremented, the position is ignored, no trades can be done. This count can 
+	  only be decremented once a day, so current newDay must be used. Once it transitions from 1 to 0, the yesterdays closing
+	  value is compared with the MA value. If it confirms the trend AND the actual trend confirms, the position is re-opened.
+	   
+		OPEN states:
+	  TrendConfirm	     OrSet	closePrice	pivot
+		0		0 	0		0	;not enabled
+		0		0	0		1	;open on pivot only
+		0		0	1		0	;open based on closing price only
+		0		0	1		1	;open based on pivot AND closing price
+		0		1	0		0	;not allowed
+		0		1	0		1	;not allowed
+		0		1	1		0	;not allowed
+		0		1	1		1	;open based on pivot OR closing price
+		
+		CLOSE states:
+	  TrendConfirm	     OrSet	closePrice	pivot
+		0		0 	0		0	;not enabled
+		0		0	0		1	;close on pivot only
+		0		0	1		0	;close based on closing price only
+		0		0	1		1	;close based on pivot AND closing price
+		0		1	0		0	;not allowed
+		0		1	0		1	;not allowed
+		0		1	1		0	;not allowed
+		0		1	1		1	;close based on pivot OR closing price
+		
+	  
+	  openTrendConfirms? 
+	
+
+	  BackTesting
+	  	go back in time one year in time. record every pivot, close count, and trend for every day until today:
+
+		pivot: trendChanged(boolean), new trend(string: TrendUp or TrendDn).
+	 	close count: count back x days (in config), count how many times closing prices were above 10ma, and how many closing
+		prices were below the 10ma. closeAboveCnt(integer), closeBelowCnt(integer).
+		trend. TrendUp or TrendDn (string).
+

@@ -1,0 +1,46 @@
+//UserSelectedMaType
+None
+//Term Operation
+Close
+//equation Trigger
+None
+//equation Bars
+0
+//beg
+//idx
+0
+//Term strval
+PivotalHL
+//Description
+3 BarMa Pivots + to - slope (/\)
+//AndOr
+0
+//AndOrSelItem
+NONE
+//TermSelItem
+oPivotalHL
+//MovingAve
+3
+//end
+//Term Operation
+Open
+//equation Trigger
+
+//equation Bars
+0
+//beg
+//idx
+0
+//Term strval
+PivotalLH
+//Description
+3 BarMa Pivots - to + slope (\/)
+//AndOr
+0
+//AndOrSelItem
+NONE
+//TermSelItem
+oPivotalLH
+//MovingAve
+3
+//end

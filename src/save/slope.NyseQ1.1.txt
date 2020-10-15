@@ -1,0 +1,193 @@
+
+
+Ticker: ABT(0)
+
+  Number of Pivot points: 13
+
+  Profit: 197.0 (4.95%) Max Profit: 279.0 Max Profit Date: 20140805
+  Max Loss: -96.0 Max Loss Date: 20150107 
+  Max Running Profit: 293.0 (7.37%)  Max Running Profit Date: 20141215
+  Max Running Loss: -81.0 (-2.04%) Max Running Loss Date: 20140314
+  Transactions: 13 Last Operation: Bought DaysIn: 150 DaysOut: 85
+  Current Trend: trendUp
+
+  Current Pos Value: -33.0
+  OverAllPl: 164.0 OverAllPl %: 4.12. Current Pos DateIn: 20150203
+
+
+Ticker: ABBV(1)
+
+  Number of Pivot points: 12
+
+  Profit: 752.0 (14.77%) Max Profit: 498.0 Max Profit Date: 20141212
+  Max Loss: -307.0 Max Loss Date: 20140715 
+  Max Running Profit: 831.0 (16.32%)  Max Running Profit Date: 20141212
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 12 Last Operation: Sold DaysIn: 134 DaysOut: 81
+  Current Trend: trendDN
+
+
+Ticker: AKR(2)
+
+  Number of Pivot points: 17
+
+  Profit: 215.0 (8.13%) Max Profit: 275.0 Max Profit Date: 20141119
+  Max Loss: -65.0 Max Loss Date: 20141216 
+  Max Running Profit: 280.0 (10.59%)  Max Running Profit Date: 20141119
+  Max Running Loss: -93.0 (-3.52%) Max Running Loss Date: 20140415
+  Transactions: 17 Last Operation: Bought DaysIn: 129 DaysOut: 78
+  Current Trend: trendUp
+
+  Current Pos Value: 254.0
+  OverAllPl: 469.0 OverAllPl %: 17.73. Current Pos DateIn: 20141222
+
+
+Ticker: ACCO(3)
+
+  Number of Pivot points: 18
+
+  Profit: 50.0 (8.1%) Max Profit: 181.0 Max Profit Date: 20141202
+  Max Loss: -83.0 Max Loss Date: 20141216 
+  Max Running Profit: 198.0 (32.09%)  Max Running Profit Date: 20141202
+  Max Running Loss: -86.0 (-13.94%) Max Running Loss Date: 20140716
+  Transactions: 18 Last Operation: Sold DaysIn: 111 DaysOut: 105
+  Current Trend: trendDN
+
+
+Ticker: ACE(4)
+
+  Number of Pivot points: 14
+
+  Profit: 264.0 (2.7%) Max Profit: 409.0 Max Profit Date: 20140626
+  Max Loss: -330.0 Max Loss Date: 20150107 
+  Max Running Profit: 594.0 (6.07%)  Max Running Profit Date: 20141216
+  Max Running Loss: -26.0 (-0.27%) Max Running Loss Date: 20140407
+  Transactions: 14 Last Operation: Sold DaysIn: 152 DaysOut: 65
+  Current Trend: trendDN
+
+
+Ticker: ACT(5)
+
+  Number of Pivot points: 14
+
+  Profit: 1423.0 (6.44%) Max Profit: 1978.0 Max Profit Date: 20141210
+  Max Loss: -1072.0 Max Loss Date: 20140311 
+  Max Running Profit: 1668.0 (7.55%)  Max Running Profit Date: 20141210
+  Max Running Loss: -1805.0 (-8.17%) Max Running Loss Date: 20140509
+  Transactions: 14 Last Operation: Sold DaysIn: 135 DaysOut: 101
+  Current Trend: trendDN
+
+
+Ticker: AAP(6)
+
+  Number of Pivot points: 19
+
+  Profit: 1038.0 (8.15%) Max Profit: 1100.0 Max Profit Date: 20141114
+  Max Loss: -875.0 Max Loss Date: 20140407 
+  Max Running Profit: 1038.0 (8.15%)  Max Running Profit Date: 20150105
+  Max Running Loss: -1828.0 (-14.35%) Max Running Loss Date: 20140527
+  Transactions: 19 Last Operation: Bought DaysIn: 131 DaysOut: 101
+  Current Trend: trendUp
+
+  Current Pos Value: 174.0
+  OverAllPl: 1212.0 OverAllPl %: 9.52. Current Pos DateIn: 20150129
+
+
+Ticker: AET(7)
+
+  Number of Pivot points: 13
+
+  Profit: 1323.0 (18.2%) Max Profit: 1012.0 Max Profit Date: 20140711
+  Max Loss: -621.0 Max Loss Date: 20140731 
+  Max Running Profit: 1333.0 (18.33%)  Max Running Profit Date: 20141216
+  Max Running Loss: 0.0 (0.0%) Max Running Loss Date: null
+  Transactions: 13 Last Operation: Bought DaysIn: 150 DaysOut: 71
+  Current Trend: trendUp
+
+  Current Pos Value: 421.0
+  OverAllPl: 1744.0 OverAllPl %: 23.99. Current Pos DateIn: 20150113
+
+
+Ticker: APD(8)
+
+  Number of Pivot points: 19
+
+  Profit: 596.0 (4.91%) Max Profit: 1252.0 Max Profit Date: 20141211
+  Max Loss: -678.0 Max Loss Date: 20141002 
+  Max Running Profit: 1654.0 (13.63%)  Max Running Profit Date: 20141211
+  Max Running Loss: -65.0 (-0.54%) Max Running Loss Date: 20140520
+  Transactions: 19 Last Operation: Bought DaysIn: 140 DaysOut: 92
+  Current Trend: trendUp
+
+  Current Pos Value: 333.0
+  OverAllPl: 929.0 OverAllPl %: 7.66. Current Pos DateIn: 20150129
+
+
+Ticker: ARG(9)
+
+  Number of Pivot points: 25
+
+  Profit: -663.0 (-6.15%) Max Profit: 200.0 Max Profit Date: 20140618
+  Max Loss: -317.0 Max Loss Date: 20140502 
+  Max Running Profit: 0.0 (0.0%)  Max Running Profit Date: null
+  Max Running Loss: -663.0 (-6.15%) Max Running Loss Date: 20150108
+  Transactions: 25 Last Operation: Bought DaysIn: 126 DaysOut: 104
+  Current Trend: trendUp
+
+  Current Pos Value: 184.0
+  OverAllPl: -479.0 OverAllPl %: -4.44. Current Pos DateIn: 20150127
+
+
+
+Exchange: NyseQ1  TotalNumOfTickers: 10  P2PDays: 5  Date:20150207
+
+
+SearchCriteria: 
+ *** search criteria *** AboveMA by  50day: 3% *** 100day: 80% *** 200day: 90% ***
+
+
+TotalCost: 87119.0
+
+
+CurrentTotals($):
+  CurrentProfits: 7007.0  CurrentLosses: -479.0  P&L: 6528.0  CurrentPercent: 7.49%
+  CurrentMaxProfit: 18.2%  CurrentMaxLoss: -6.15%
+
+
+RunningMaxTotals($):
+  RmProfits: 7889.0  RmLosses: -4647.0  RmP&L: 7889.0  RmPercent: 9.06%
+  RmProfit: 32.09%  RmAveProfit: 12.01%  RmLoss: -14.35%  RmAveLoss: 0.0%
+
+
+CurrentTotalCounts:
+  CurrentProfits: 9  CurrentLosses: 1  CurrentPercent: 90.0%
+
+
+RunningMaxTotalCounts:
+  RmProfits: 10  RmLosses: 8  RmZeroLoss: 2
+
+
+CurrentProfitMap (Profit >= 0) 
+  00%-05%: 2    05%-10%: 4    10%-15%: 1    15%-20%: 1
+  20%-25%: 1    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+
+CurrentLossMap (Profit < 0) 
+  00%-05%: 1    05%-10%: 0    10%-15%: 0    15%-20%: 0
+  20%-25%: 0    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+
+RunningMaxProfitMap (Profit >= 0) 
+  00%-05%: 3    05%-10%: 4    10%-15%: 2    15%-20%: 2
+  20%-25%: 0    25%-30%: 0    30%-35%: 1    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+
+RunningMaxLossMap (Profit < 0) 
+  00%-05%: 4    05%-10%: 2    10%-15%: 2    15%-20%: 0
+  20%-25%: 0    25%-30%: 0    30%-35%: 0    35%-40%: 0
+  40%-45$: 0    45%-50%: 0    50%-55%: 0    55%-60%: 0    >60%: 0
+
+Done.
