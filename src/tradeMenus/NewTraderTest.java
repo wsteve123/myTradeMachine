@@ -7,19 +7,11 @@ package tradeMenus;
 
 import ibTradeApi.ibApi;
 import java.io.File;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
-import java.util.Collections;
-import java.util.Date;
 import java.util.List;
-import java.util.Locale;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartFrame;
-import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
 import org.jfree.chart.plot.PlotOrientation;
 import org.jfree.data.xy.XYDataset;
@@ -1698,7 +1690,14 @@ public class NewTraderTest extends javax.swing.JDialog {
 			double selectedIndexAccumBuyHoldStockPl = 0.0;
 			//add total closed count and total open count so we can estimate trading cost....
             int selectedIndexAccumTotalClosedTradeCnt = 0;
-			int selectedIndexAccumTotalOpenTradeCnt = 0;
+			int selectedIndexAccumTotalOpenTradeCnt = 0;			
+			//total winners/losers counters	
+			int selectedIndexAccumTotalWinnersCnt = 0;
+			int selectedIndexAccumTotalLosersCnt = 0;
+			//now do for buy and hold
+			int selectedIndexAccumTotalBuyHoldWinnersCnt = 0;
+			int selectedIndexAccumTotalBuyHoldLosersCnt = 0;
+			
             int indexOpenPositions = 0;
             int indexClosedPositions = 0;
             StockCorrections actCorrections = new StockCorrections();
@@ -1939,6 +1938,18 @@ public class NewTraderTest extends javax.swing.JDialog {
                     selectedIndexAccumOpenProceedsAveStock += openTradeLogPeriod.accumOpenProceedsAveStock ; 
 					//stock owned with buy and hold
 					selectedIndexAccumBuyHoldStockPl += ((openTradeLogPeriod.buyHoldGainLossPercent / 100.0) * openTradeLogPeriod.cashToSpend);
+					//count winners/losers of closed + open positions..
+					if((openTradeLogPeriod.gainLoss + openTradeLogPeriod.openGainLoss) >=0.0){
+						selectedIndexAccumTotalWinnersCnt ++;
+					}else{
+						selectedIndexAccumTotalLosersCnt ++;
+					}										
+					//track winners/losers for buy and hold..
+					if(openTradeLogPeriod.buyHoldGainLoss >= 0){
+						selectedIndexAccumTotalBuyHoldWinnersCnt++;
+					}else{
+						selectedIndexAccumTotalBuyHoldLosersCnt++;
+					}					
 					//accum open/closed total trade counts..
 					if(openTradeLogPeriod.completedTradesTry1 != null){
 						selectedIndexAccumTotalClosedTradeCnt += openTradeLogPeriod.completedTradesTry1.numOfClosedTrades;
@@ -1955,11 +1966,7 @@ public class NewTraderTest extends javax.swing.JDialog {
 						tradeTextArea.append("\n   BuyHoldBegEndPrice: " + openTradeLogPeriod.begBtPrice + ", " + openTradeLogPeriod.endBtPrice);
                         tradeTextArea.append("\n   BuyHoldPL: " + openTradeLogPeriod.buyHoldGainLoss);
                         tradeTextArea.append("\n   BuyHoldPL%: " + openTradeLogPeriod.buyHoldGainLossPercent);
-						tradeTextArea.append("\n   BuyHoldStockPL: " + ((openTradeLogPeriod.buyHoldGainLossPercent / 100.0) * openTradeLogPeriod.cashToSpend));
-                        /*
-                        tradeTextArea.append("\n   PL: " + closeTradeLogPeriod.gainLoss);
-                        tradeTextArea.append("\n   PL%: " + closeTradeLogPeriod.gainLossPercent);
-                        */                        
+						tradeTextArea.append("\n   BuyHoldStockPL: " + ((openTradeLogPeriod.buyHoldGainLossPercent / 100.0) * openTradeLogPeriod.cashToSpend));                                               
                         tradeTextArea.append("\n   PL: " + openTradeLogPeriod.gainLoss);
                         tradeTextArea.append("\n   PL%: " + openTradeLogPeriod.gainLossPercent);  
 						tradeTextArea.append("\n   TotalPlStock: " + (openTradeLogPeriod.gainLossStock + openTradeLogPeriod.openGainLossStock));
@@ -2030,7 +2037,11 @@ public class NewTraderTest extends javax.swing.JDialog {
 					tradeTextArea.append("\n     totalPlStockAV%: " + myUtils.roundMe((acp + aop), 2));
 					tradeTextArea.append("\n     totalCompletedTrades%: " + myUtils.roundMe(selectedIndexAccumTotalClosedTradeCnt, 2));
 					tradeTextArea.append("\n     totalTradesLeftOpen%: " + myUtils.roundMe(selectedIndexAccumTotalOpenTradeCnt, 2));
-					tradeTextArea.append("\n     totalTradeCnt%: " + myUtils.roundMe((selectedIndexAccumTotalOpenTradeCnt + selectedIndexAccumTotalClosedTradeCnt), 2));
+					tradeTextArea.append("\n     totalTradeCnt%: " + myUtils.roundMe((selectedIndexAccumTotalOpenTradeCnt + selectedIndexAccumTotalClosedTradeCnt), 2));					
+					tradeTextArea.append("\n     totalWinners: " + selectedIndexAccumTotalWinnersCnt);
+					tradeTextArea.append("\n     totalLosers: " + selectedIndexAccumTotalLosersCnt);					
+					tradeTextArea.append("\n     totalBuyHoldWinners: " + selectedIndexAccumTotalBuyHoldWinnersCnt);
+					tradeTextArea.append("\n     totalBuyHoldLoserss: " + selectedIndexAccumTotalBuyHoldLosersCnt);
                 }else if (userSelShowOption.equals(ShowOptions.oSHOW_CORRECTIONS)) {                    
                     tradeTextArea.append("\n Correction Summary on Index: " + actTickerGroup.groupName + " Size: " + allStockCorrectionList.size());                                              
                     for (idx = 0; idx < (allCorrectionsSz = allStockCorrectionList.size()); idx++) {
