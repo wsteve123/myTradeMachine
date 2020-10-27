@@ -1361,10 +1361,14 @@ public class NewTraderTest extends javax.swing.JDialog {
 		completedTrades.setCashToSpend(tradeLogPeriod.cashToSpend);
         for(tradeIdx = 0; (tradeIdx < numOfTrades) && (!done); tradeIdx++){
             actAction = tradeList.get(tradeIdx);
-            if(actAction.action.equals("OPEN")){
+			//if action is open && the date of the open is not shared with a close date i.e open and close on same day
+			//howManyMatches returns how many times the date occured in the list. it should just be one time, the OPEN.
+            if((actAction.action.equals("OPEN")) && (howManyMatches(actAction.occurenceDate, tradeList) == 1)){
+			//if(actAction.action.equals("OPEN")){
                 //the trade is to OPEN so add to trade list
+				//action is to OPEN AND with no CLOSE on that same day/bar
                 completedTrades.addBuy(actAction.closePrice, actAction.occurenceDate); 
-            }else if(actAction.action.equals("CLOSE")){									
+            }else if(actAction.action.equals("CLOSE")){	
 				completedTrades.addSell(actAction.closePrice, actAction.occurenceDate); 										                                                                             
             }
         }                
@@ -1422,6 +1426,8 @@ public class NewTraderTest extends javax.swing.JDialog {
         int openIdx = 0;
 		//remove!!!!!! should be 0!!!!!!
         int closeIdx = 0;
+		int daysBetween = 0;
+		int zeroCnt = 0;
         /*
         we have a list of open triggers, and list of close triggers.
         start with first open date, and compare with first close occurence date. 
@@ -1449,11 +1455,10 @@ public class NewTraderTest extends javax.swing.JDialog {
         actClose = tradeRulesOuter.new OccurenceData();
         actClose = closeList.get(closeIdx);
 		
-		tradeRules.getTradingBarsBetweenDates(actOpen.occurenceDate, actClose.occurenceDate);
+		daysBetween = tradeRules.getTradingBarsBetweenDates(actOpen.occurenceDate, actClose.occurenceDate);
 		
-        while ((openIdx < numOfOpenTrades) && (closeIdx < numOfCloseTrades)){            
-            //if ((myUtils.getDiffInDays(actOpen.occurenceDate, actClose.occurenceDate) < 0)) {
-			if((tradeRules.getTradingBarsBetweenDates(actOpen.occurenceDate, actClose.occurenceDate) < 0)) {
+        while ((openIdx < numOfOpenTrades) && (closeIdx < numOfCloseTrades)){                    
+			if((daysBetween = tradeRules.getTradingBarsBetweenDates(actOpen.occurenceDate, actClose.occurenceDate)) < 0) {
                 //negative so close date occurred before open date so put close date in output list..
                 mergedOutputList.add(actClose);
                 closeIdx++;
@@ -1463,7 +1468,7 @@ public class NewTraderTest extends javax.swing.JDialog {
                 }else{
                     
                 }
-            }else{
+            }else if(daysBetween >= 0){
                 //positive so open date occurred before close date so put open date in output list..
                 mergedOutputList.add(actOpen);
                 openIdx++;
@@ -1472,9 +1477,32 @@ public class NewTraderTest extends javax.swing.JDialog {
                     actOpen = openList.get(openIdx);
                 }else{
                     
-                }                
-            }
+                }
+				if((daysBetween == 0) && (false)){
+					/*
+					ok added this so when open and close have same day, we put in open date (which
+					we did above), but need to bump the actClose to next one so it does not get added 
+					next time around; we can't have an open and close on the same day..
+					*/
+					closeIdx++;
+					zeroCnt++;
+					
+					if ((closeIdx) < numOfCloseTrades) {
+						actClose = tradeRulesOuter.new OccurenceData();
+						actClose = closeList.get(closeIdx);
+					}else{
+                    
+					}
+					
+				}else{
+					
+				}
+            }else{
+				//can only be zero..means open and close happened on same day...
+				System.out.println("\nopen/close occurred same day!");
+			}
         }
+		System.out.println("\nopen/close occurred same day: " + zeroCnt + " times.");
         // left over closes are counted
 		closesLeftOver = (numOfCloseTrades - closeIdx);	
 		if(closesLeftOver < 0){
@@ -1886,9 +1914,7 @@ public class NewTraderTest extends javax.swing.JDialog {
                     }
                     actTickerGroup.addCloseTradeLog(actTicker, closeTradeLogPeriod);
                     //merge open and close logs into one sequenced by date..
-                    openTradeLogPeriod.mergedOpenCloseOccurences = mergeOpenCloseTrades(openTradeLogPeriod, closeTradeLogPeriod);
-                    //processTrades(openTradeLogPeriod, closeTradeLogPeriod);
-					//openTradeLogPeriod.cashToSpend = cashToSpendPerStock;
+                    openTradeLogPeriod.mergedOpenCloseOccurences = mergeOpenCloseTrades(openTradeLogPeriod, closeTradeLogPeriod);                   
 					currentStockPrice = openTradeLogPeriod.histDataList.get(0).getClosePrice();					
 					openTradeLogPeriod.liveSharesToBuy = calcSharesToBuy(openTradeLogPeriod, userSelLiveTrades);
 					openTradeLogPeriod.cashToSpend = (openTradeLogPeriod.liveSharesToBuy * currentStockPrice);
